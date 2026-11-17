@@ -3,11 +3,22 @@ name: Daily Israeli Tech Job Crawler
 on:
   schedule:
     # Runs 4 times a day (UTC 06:00, 10:00, 14:00, 18:00 -> Israel 08:00, 12:00, 16:00, 20:00)
+    # Watchlist priorities: P1 every run, P2 at 06/14, P3 at 06 (see config.json "scheduling").
     - cron: '0 6,10,14,18 * * *'
   workflow_dispatch: # Allows manual run at any time from GitHub UI
+    inputs:
+      crawl_all_priorities:
+        description: "Crawl all watchlist priorities (P1-P3) regardless of the hour"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
+
+# Never run two crawls at once: concurrent writers could lose seen_jobs.json updates.
+concurrency:
+  group: job-crawler
+  cancel-in-progress: false
 
 jobs:
   crawl:
@@ -26,21 +37,32 @@ jobs:
       - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          pip install -r requirements.txt -r requirements-dev.txt
           playwright install chromium
+
+      - name: Run Tests (crawl is skipped if they fail)
+        id: tests
+        run: python -m pytest -q
+
+      - name: Validate data files
+        run: |
+          python -c "import json; d=json.load(open('seen_jobs.json', encoding='utf-8')); assert isinstance(d, list); print('seen_jobs.json rows:', len(d))"
+          python -c "import json; json.load(open('config.json', encoding='utf-8')); print('config.json OK')"
 
       - name: Run Job Crawler
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          GEMINI_MODEL: "gemini-flash-lite-latest"
+          CRAWL_ALL_PRIORITIES: ${{ github.event.inputs.crawl_all_priorities || 'false' }}
         run: |
           python job_crawler.py
 
-      - name: Commit and Push Updated Seen Jobs
+      - name: Commit and Push Updated Seen Jobs & Health
+        # Also after a crawler failure: every write is atomic and seen_jobs.json can only grow, so partial progress is safe.
+        if: always() && steps.tests.outcome == 'success'
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add seen_jobs.json
+          git add seen_jobs.json data/crawl_health.json data/evaluated_jobs_cache.json 2>/dev/null || true
           git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update seen jobs database [skip ci]" && git pull --rebase origin main && git push origin main)
 
       - name: Upload Daily Excel Report

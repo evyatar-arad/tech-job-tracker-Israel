@@ -1,0 +1,327 @@
+{
+  "source_file": "seen_jobs.json",
+  "generated_at": "2026-11-17",
+  "record_count": 88,
+  "unique_raw_company_strings": 43,
+  "unique_urls": 77,
+  "excess_rows_by_url": 11,
+  "duplicate_url_group_count": 8,
+  "duplicate_url_groups": [
+    {
+      "url": "https://earnix.com/career/79.47a/automation-engineer-student-position/",
+      "record_count": 2,
+      "excess_rows": 1,
+      "classification": "probable_same_posting_duplicate",
+      "records": [
+        {
+          "index": 0,
+          "company": "Earnix",
+          "title": "Automation Engineer - Student PositionRamat Gan, Israel",
+          "discovered_at": "2026-11-05T12:52:30.541199"
+        },
+        {
+          "index": 21,
+          "company": "Earnix",
+          "title": "Automation Engineer - Student Position Ramat Gan, Israel",
+          "discovered_at": "2026-11-07T15:05:27.589498"
+        }
+      ]
+    },
+    {
+      "url": "https://earnix.com/career/e5.470/full-stack-developer-maternity-leave-replacement-8-months/",
+      "record_count": 2,
+      "excess_rows": 1,
+      "classification": "probable_same_posting_duplicate",
+      "records": [
+        {
+          "index": 1,
+          "company": "Earnix",
+          "title": "Full-Stack Developer  - Maternity Leave Replacement (8 months)Ramat Gan, Israel",
+          "discovered_at": "2026-11-05T12:52:30.926212"
+        },
+        {
+          "index": 22,
+          "company": "Earnix",
+          "title": "Full-Stack Developer  - Maternity Leave Replacement (8 months) Ramat Gan, Israel",
+          "discovered_at": "2026-11-07T15:05:27.589504"
+        }
+      ]
+    },
+    {
+      "url": "https://earnix.com/career/b7.372/junior-automation-and-frontend-developer-maternity-leave-replacement-6-months/",
+      "record_count": 2,
+      "excess_rows": 1,
+      "classification": "probable_same_posting_duplicate",
+      "records": [
+        {
+          "index": 2,
+          "company": "Earnix",
+          "title": "Junior Automation and Frontend  Developer - Maternity Leave Replacement (6 months)Ramat Gan, Israel",
+          "discovered_at": "2026-11-05T12:52:31.322124"
+        },
+        {
+          "index": 23,
+          "company": "Earnix",
+          "title": "Junior Automation and Frontend  Developer - Maternity Leave Replacement (6 months) Ramat Gan, Israel",
+          "discovered_at": "2026-11-07T15:05:27.589509"
+        }
+      ]
+    },
+    {
+      "url": "https://job-boards.greenhouse.io/nextinsurance66/jobs/7805602003",
+      "record_count": 3,
+      "excess_rows": 2,
+      "classification": "probable_same_posting_duplicate",
+      "records": [
+        {
+          "index": 9,
+          "company": "Next Insurance",
+          "title": "Frontend EngineerKfar Saba, Israel",
+          "discovered_at": "2026-11-06T23:48:22.974887"
+        },
+        {
+          "index": 37,
+          "company": "Next Insurance",
+          "title": "Frontend Engineer Kfar Saba, Israel",
+          "discovered_at": "2026-11-07T15:07:54.893511"
+        },
+        {
+          "index": 84,
+          "company": "Next Insurance",
+          "title": "Frontend Engineer",
+          "discovered_at": "2026-11-16T14:24:28.217090"
+        }
+      ]
+    },
+    {
+      "url": "https://job-boards.greenhouse.io/nextinsurance66/jobs/7979090003",
+      "record_count": 2,
+      "excess_rows": 1,
+      "classification": "probable_same_posting_duplicate",
+      "records": [
+        {
+          "index": 10,
+          "company": "Next Insurance",
+          "title": "Graduate Frontend / Full Stack Software Engineer – UpNEXT ProgramKfar Saba, Israel",
+          "discovered_at": "2026-11-06T23:48:23.346356"
+        },
+        {
+          "index": 38,
+          "company": "Next Insurance",
+          "title": "Graduate Frontend / Full Stack Software Engineer – UpNEXT Program Kfar Saba, Israel",
+          "discovered_at": "2026-11-07T15:07:54.893535"
+        }
+      ]
+    },
+    {
+      "url": "https://job-boards.eu.greenhouse.io/wedev/jobs/4871703101",
+      "record_count": 3,
+      "excess_rows": 2,
+      "classification": "probable_same_posting_duplicate",
+      "records": [
+        {
+          "index": 11,
+          "company": "WeDev",
+          "title": "Junior Fullstack Software DeveloperHolon, Israel",
+          "discovered_at": "2026-11-07T00:01:58.165180"
+        },
+        {
+          "index": 40,
+          "company": "WeDev",
+          "title": "Junior Fullstack Software Developer Holon, Israel",
+          "discovered_at": "2026-11-07T15:08:56.449040"
+        },
+        {
+          "index": 85,
+          "company": "WeDev",
+          "title": "Junior Fullstack Software Developer",
+          "discovered_at": "2026-11-16T14:35:38.406979"
+        }
+      ]
+    },
+    {
+      "url": "https://forms.monday.com/forms/887015da14cd8f19ac195c11bf56607e?r=use1",
+      "record_count": 3,
+      "excess_rows": 2,
+      "classification": "shared_generic_application_form_not_automatic_duplicate",
+      "records": [
+        {
+          "index": 31,
+          "company": "Moveo group",
+          "title": "Apply for Junior Full-Stack AI Engineer (opens in a new tab)",
+          "discovered_at": "2026-11-07T15:05:59.467295"
+        },
+        {
+          "index": 46,
+          "company": "Moveo group",
+          "title": "Apply for Full-Stack Web Developer  (opens in a new tab)",
+          "discovered_at": "2026-11-07T18:25:44.333040"
+        },
+        {
+          "index": 47,
+          "company": "Moveo group",
+          "title": "Apply for Mobile Developer (opens in a new tab)",
+          "discovered_at": "2026-11-07T18:25:44.333052"
+        }
+      ]
+    },
+    {
+      "url": "https://careers.towersemi.com/career-opportunities/students-internship/",
+      "record_count": 2,
+      "excess_rows": 1,
+      "classification": "probable_same_posting_duplicate",
+      "records": [
+        {
+          "index": 35,
+          "company": "tower",
+          "title": "Students & Internship",
+          "discovered_at": "2026-11-07T15:06:35.891994"
+        },
+        {
+          "index": 36,
+          "company": "tower",
+          "title": "Students &\nInternship",
+          "discovered_at": "2026-11-07T15:06:35.892012"
+        }
+      ]
+    }
+  ],
+  "suspect_non_job_or_malformed_records": [
+    {
+      "index": 3,
+      "company": "AllJobs",
+      "title": "ה-AI לא יחליף אתכם, אבל מי ששולט בו- כן. מדריך הכשרות וכלים ל-2026",
+      "url": "https://www.alljobs.co.il/ArticlePage.aspx?LinkWord=free-ai-skills",
+      "reasons": [
+        "article_or_category_search_page"
+      ]
+    },
+    {
+      "index": 4,
+      "company": "hailo.ai",
+      "title": "Developer Zone",
+      "url": "https://hailo.ai/authorization/?action=logout&redirect_to=%2Fdeveloper-zone%2F&_wpnonce=450debc50f",
+      "reasons": [
+        "not_a_job_and_logout_nonce_url"
+      ]
+    },
+    {
+      "index": 5,
+      "company": "linkedin",
+      "title": "Entry-Level Roles",
+      "url": "https://careers.linkedin.com/pathways-programs/entry-level",
+      "reasons": [
+        "general_program_page"
+      ]
+    },
+    {
+      "index": 15,
+      "company": "AllJobs",
+      "title": "דרושים Data Analyst",
+      "url": "https://www.alljobs.co.il/SearchResultsGuest.aspx?page=1&position=1732&type=&city=®ion=",
+      "reasons": [
+        "article_or_category_search_page"
+      ]
+    },
+    {
+      "index": 16,
+      "company": "AllJobs",
+      "title": "דרושים מפתחי Java",
+      "url": "https://www.alljobs.co.il/SearchResultsGuest.aspx?page=1&position=1153&type=&city=®ion=",
+      "reasons": [
+        "article_or_category_search_page"
+      ]
+    },
+    {
+      "index": 17,
+      "company": "AllJobs",
+      "title": "דרושים מפתחי Python",
+      "url": "https://www.alljobs.co.il/SearchResultsGuest.aspx?page=1&position=1694&type=&city=®ion=",
+      "reasons": [
+        "article_or_category_search_page"
+      ]
+    },
+    {
+      "index": 35,
+      "company": "tower",
+      "title": "Students & Internship",
+      "url": "https://careers.towersemi.com/career-opportunities/students-internship/",
+      "reasons": [
+        "generic_student_portal_not_individual_opening"
+      ]
+    },
+    {
+      "index": 36,
+      "company": "tower",
+      "title": "Students &\nInternship",
+      "url": "https://careers.towersemi.com/career-opportunities/students-internship/",
+      "reasons": [
+        "generic_student_portal_not_individual_opening"
+      ]
+    },
+    {
+      "index": 41,
+      "company": "Experis (Manpower)",
+      "title": "Automation Engineer",
+      "url": "https://experis.co.il/search?search=Automation",
+      "reasons": [
+        "search_results_page"
+      ]
+    },
+    {
+      "index": 42,
+      "company": "GotFriends",
+      "title": "מפתח REACT",
+      "url": "https://www.gotfriends.co.il/jobslobby/software/react-developer/",
+      "reasons": [
+        "job_category_landing_page"
+      ]
+    },
+    {
+      "index": 43,
+      "company": "GotFriends",
+      "title": "Data Engineer",
+      "url": "https://www.gotfriends.co.il/jobslobby/software/data-engineer/",
+      "reasons": [
+        "job_category_landing_page"
+      ]
+    },
+    {
+      "index": 44,
+      "company": "GotFriends",
+      "title": "LLM Engineer",
+      "url": "https://www.gotfriends.co.il/jobslobby/ai/llm-engineer/",
+      "reasons": [
+        "job_category_landing_page"
+      ]
+    },
+    {
+      "index": 45,
+      "company": "GotFriends",
+      "title": "Reverse Engineer",
+      "url": "https://www.gotfriends.co.il/jobslobby/datasecurity/reverse-engineer/",
+      "reasons": [
+        "job_category_landing_page"
+      ]
+    },
+    {
+      "index": 82,
+      "company": "Mobileye",
+      "title": "company-wide rollout of development and productivity tools",
+      "url": "https://jobs.eu.lever.co/mobileye/b1abd9a9-39f4-466b-b14b-f16013202861/apply",
+      "reasons": [
+        "title_is_body_snippet_not_job_title"
+      ]
+    },
+    {
+      "index": 83,
+      "company": "Mobileye",
+      "title": "company-wide rollout of development and productivity tools",
+      "url": "https://jobs.eu.lever.co/mobileye/e190d4bb-4ef0-4aaa-ab44-b55858a29d14/apply",
+      "reasons": [
+        "title_is_body_snippet_not_job_title"
+      ]
+    }
+  ],
+  "audit_caveat": "These are structural warnings, not a live verification of job vacancy or final decision to delete."
+}

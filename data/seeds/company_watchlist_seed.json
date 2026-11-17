@@ -1,0 +1,4930 @@
+{
+  "schema_version": "1.0.0",
+  "created_at": "2026-11-17",
+  "intent": "COMPANY_DISCOVERY_ONLY_NOT_JOB_HISTORY",
+  "do_not_append_to_seen_jobs": true,
+  "data_quality_notice": "Research candidate set; company websites, local activity, ATS and role availability must be verified live before producing a job result.",
+  "companies": [
+    {
+      "company": "monday.com",
+      "sector": "AI, Product & Enterprise SaaS",
+      "priority": "P1",
+      "company_website_candidate": "https://monday.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "observed_in_supplied_job_history",
+      "target_job_titles": [
+        "Associate Product Manager",
+        "Product Operations",
+        "Product Analyst",
+        "Business Operations Analyst",
+        "Project Coordinator"
+      ],
+      "why_relevant": "Cross-functional product, customer workflow, analytics and operating-system exposure.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Wix",
+      "sector": "AI, Product & Enterprise SaaS",
+      "priority": "P1",
+      "company_website_candidate": "https://www.wix.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Associate Product Manager",
+        "Product Operations",
+        "Product Analyst",
+        "Business Operations Analyst",
+        "Project Coordinator"
+      ],
+      "why_relevant": "Cross-functional product, customer workflow, analytics and operating-system exposure.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "AppsFlyer",
+      "sector": "AI, Product & Enterprise SaaS",
+      "priority": "P1",
+      "company_website_candidate": "https://www.appsflyer.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "named_in_published_source",
+      "target_job_titles": [
+        "Associate Product Manager",
+        "Product Operations",
+        "Product Analyst",
+        "Business Operations Analyst",
+        "Project Coordinator"
+      ],
+      "why_relevant": "Cross-functional product, customer workflow, analytics and operating-system exposure.",
+      "evidence_urls": [
+        "https://www.duns100.co.il/en/rating/High_Tech/Best_HighTech_Companies_to_work_for/2026"
+      ],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Similarweb",
+      "sector": "AI, Product & Enterprise SaaS",
+      "priority": "P1",
+      "company_website_candidate": "https://www.similarweb.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Associate Product Manager",
+        "Product Operations",
+        "Product Analyst",
+        "Business Operations Analyst",
+        "Project Coordinator"
+      ],
+      "why_relevant": "Cross-functional product, customer workflow, analytics and operating-system exposure.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Gong",
+      "sector": "AI, Product & Enterprise SaaS",
+      "priority": "P1",
+      "company_website_candidate": "https://www.gong.io",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Associate Product Manager",
+        "Product Operations",
+        "Product Analyst",
+        "Business Operations Analyst",
+        "Project Coordinator"
+      ],
+      "why_relevant": "Cross-functional product, customer workflow, analytics and operating-system exposure.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "HiBob",
+      "sector": "AI, Product & Enterprise SaaS",
+      "priority": "P1",
+      "company_website_candidate": "https://www.hibob.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "observed_in_supplied_job_history",
+      "target_job_titles": [
+        "Associate Product Manager",
+        "Product Operations",
+        "Product Analyst",
+        "Business Operations Analyst",
+        "Project Coordinator"
+      ],
+      "why_relevant": "Cross-functional product, customer workflow, analytics and operating-system exposure.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Papaya Global",
+      "sector": "AI, Product & Enterprise SaaS",
+      "priority": "P1",
+      "company_website_candidate": "https://www.papayaglobal.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Associate Product Manager",
+        "Product Operations",
+        "Product Analyst",
+        "Business Operations Analyst",
+        "Project Coordinator"
+      ],
+      "why_relevant": "Cross-functional product, customer workflow, analytics and operating-system exposure.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Yotpo",
+      "sector": "AI, Product & Enterprise SaaS",
+      "priority": "P2",
+      "company_website_candidate": "https://www.yotpo.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Associate Product Manager",
+        "Product Operations",
+        "Product Analyst",
+        "Business Operations Analyst",
+        "Project Coordinator"
+      ],
+      "why_relevant": "Cross-functional product, customer workflow, analytics and operating-system exposure.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Fiverr",
+      "sector": "AI, Product & Enterprise SaaS",
+      "priority": "P2",
+      "company_website_candidate": "https://www.fiverr.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Associate Product Manager",
+        "Product Operations",
+        "Product Analyst",
+        "Business Operations Analyst",
+        "Project Coordinator"
+      ],
+      "why_relevant": "Cross-functional product, customer workflow, analytics and operating-system exposure.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "JFrog",
+      "sector": "AI, Product & Enterprise SaaS",
+      "priority": "P2",
+      "company_website_candidate": "https://jfrog.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Associate Product Manager",
+        "Product Operations",
+        "Product Analyst",
+        "Business Operations Analyst",
+        "Project Coordinator"
+      ],
+      "why_relevant": "Cross-functional product, customer workflow, analytics and operating-system exposure.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Atera",
+      "sector": "AI, Product & Enterprise SaaS",
+      "priority": "P2",
+      "company_website_candidate": "https://www.atera.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Associate Product Manager",
+        "Product Operations",
+        "Product Analyst",
+        "Business Operations Analyst",
+        "Project Coordinator"
+      ],
+      "why_relevant": "Cross-functional product, customer workflow, analytics and operating-system exposure.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Guesty",
+      "sector": "AI, Product & Enterprise SaaS",
+      "priority": "P1",
+      "company_website_candidate": "https://www.guesty.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Associate Product Manager",
+        "Product Operations",
+        "Product Analyst",
+        "Business Operations Analyst",
+        "Project Coordinator"
+      ],
+      "why_relevant": "Cross-functional product, customer workflow, analytics and operating-system exposure.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Bringg",
+      "sector": "AI, Product & Enterprise SaaS",
+      "priority": "P1",
+      "company_website_candidate": "https://www.bringg.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Associate Product Manager",
+        "Product Operations",
+        "Product Analyst",
+        "Business Operations Analyst",
+        "Project Coordinator"
+      ],
+      "why_relevant": "Cross-functional product, customer workflow, analytics and operating-system exposure.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Lusha",
+      "sector": "AI, Product & Enterprise SaaS",
+      "priority": "P3",
+      "company_website_candidate": "https://www.lusha.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Associate Product Manager",
+        "Product Operations",
+        "Product Analyst",
+        "Business Operations Analyst",
+        "Project Coordinator"
+      ],
+      "why_relevant": "Cross-functional product, customer workflow, analytics and operating-system exposure.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Kaltura",
+      "sector": "AI, Product & Enterprise SaaS",
+      "priority": "P3",
+      "company_website_candidate": "https://corp.kaltura.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Associate Product Manager",
+        "Product Operations",
+        "Product Analyst",
+        "Business Operations Analyst",
+        "Project Coordinator"
+      ],
+      "why_relevant": "Cross-functional product, customer workflow, analytics and operating-system exposure.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Artlist",
+      "sector": "AI, Product & Enterprise SaaS",
+      "priority": "P2",
+      "company_website_candidate": "https://artlist.io",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Associate Product Manager",
+        "Product Operations",
+        "Product Analyst",
+        "Business Operations Analyst",
+        "Project Coordinator"
+      ],
+      "why_relevant": "Cross-functional product, customer workflow, analytics and operating-system exposure.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Lightricks",
+      "sector": "AI, Product & Enterprise SaaS",
+      "priority": "P2",
+      "company_website_candidate": "https://www.lightricks.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Associate Product Manager",
+        "Product Operations",
+        "Product Analyst",
+        "Business Operations Analyst",
+        "Project Coordinator"
+      ],
+      "why_relevant": "Cross-functional product, customer workflow, analytics and operating-system exposure.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "WSC Sports",
+      "sector": "AI, Product & Enterprise SaaS",
+      "priority": "P2",
+      "company_website_candidate": "https://wsc-sports.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "named_in_published_source",
+      "target_job_titles": [
+        "Associate Product Manager",
+        "Product Operations",
+        "Product Analyst",
+        "Business Operations Analyst",
+        "Project Coordinator"
+      ],
+      "why_relevant": "Cross-functional product, customer workflow, analytics and operating-system exposure.",
+      "evidence_urls": [
+        "https://www.duns100.co.il/en/rating/High_Tech/Best_HighTech_Companies_to_work_for/2026"
+      ],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Taboola",
+      "sector": "AI, Product & Enterprise SaaS",
+      "priority": "P2",
+      "company_website_candidate": "https://www.taboola.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Associate Product Manager",
+        "Product Operations",
+        "Product Analyst",
+        "Business Operations Analyst",
+        "Project Coordinator"
+      ],
+      "why_relevant": "Cross-functional product, customer workflow, analytics and operating-system exposure.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Teads (formerly Outbrain)",
+      "sector": "AI, Product & Enterprise SaaS",
+      "priority": "P3",
+      "company_website_candidate": "https://www.teads.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Associate Product Manager",
+        "Product Operations",
+        "Product Analyst",
+        "Business Operations Analyst",
+        "Project Coordinator"
+      ],
+      "why_relevant": "Cross-functional product, customer workflow, analytics and operating-system exposure.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Elementor",
+      "sector": "AI, Product & Enterprise SaaS",
+      "priority": "P3",
+      "company_website_candidate": "https://elementor.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Associate Product Manager",
+        "Product Operations",
+        "Product Analyst",
+        "Business Operations Analyst",
+        "Project Coordinator"
+      ],
+      "why_relevant": "Cross-functional product, customer workflow, analytics and operating-system exposure.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Overwolf",
+      "sector": "AI, Product & Enterprise SaaS",
+      "priority": "P3",
+      "company_website_candidate": "https://www.overwolf.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Associate Product Manager",
+        "Product Operations",
+        "Product Analyst",
+        "Business Operations Analyst",
+        "Project Coordinator"
+      ],
+      "why_relevant": "Cross-functional product, customer workflow, analytics and operating-system exposure.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "WalkMe (SAP)",
+      "sector": "AI, Product & Enterprise SaaS",
+      "priority": "P3",
+      "company_website_candidate": "https://www.walkme.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Associate Product Manager",
+        "Product Operations",
+        "Product Analyst",
+        "Business Operations Analyst",
+        "Project Coordinator"
+      ],
+      "why_relevant": "Cross-functional product, customer workflow, analytics and operating-system exposure.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "NICE",
+      "sector": "AI, Product & Enterprise SaaS",
+      "priority": "P3",
+      "company_website_candidate": "https://www.nice.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Associate Product Manager",
+        "Product Operations",
+        "Product Analyst",
+        "Business Operations Analyst",
+        "Project Coordinator"
+      ],
+      "why_relevant": "Cross-functional product, customer workflow, analytics and operating-system exposure.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Amdocs",
+      "sector": "AI, Product & Enterprise SaaS",
+      "priority": "P3",
+      "company_website_candidate": "https://www.amdocs.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Associate Product Manager",
+        "Product Operations",
+        "Product Analyst",
+        "Business Operations Analyst",
+        "Project Coordinator"
+      ],
+      "why_relevant": "Cross-functional product, customer workflow, analytics and operating-system exposure.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Travelier (Bookaway)",
+      "sector": "AI, Product & Enterprise SaaS",
+      "priority": "P2",
+      "company_website_candidate": "https://www.travelier.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "observed_in_supplied_job_history",
+      "target_job_titles": [
+        "Associate Product Manager",
+        "Product Operations",
+        "Product Analyst",
+        "Business Operations Analyst",
+        "Project Coordinator"
+      ],
+      "why_relevant": "Cross-functional product, customer workflow, analytics and operating-system exposure.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Fullpath",
+      "sector": "AI, Product & Enterprise SaaS",
+      "priority": "P3",
+      "company_website_candidate": "https://www.fullpath.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "observed_in_supplied_job_history",
+      "target_job_titles": [
+        "Associate Product Manager",
+        "Product Operations",
+        "Product Analyst",
+        "Business Operations Analyst",
+        "Project Coordinator"
+      ],
+      "why_relevant": "Cross-functional product, customer workflow, analytics and operating-system exposure.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Earnix",
+      "sector": "AI, Product & Enterprise SaaS",
+      "priority": "P2",
+      "company_website_candidate": "https://earnix.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "observed_in_supplied_job_history",
+      "target_job_titles": [
+        "Associate Product Manager",
+        "Product Operations",
+        "Product Analyst",
+        "Business Operations Analyst",
+        "Project Coordinator"
+      ],
+      "why_relevant": "Cross-functional product, customer workflow, analytics and operating-system exposure.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Zencity",
+      "sector": "AI, Product & Enterprise SaaS",
+      "priority": "P1",
+      "company_website_candidate": "https://zencity.io",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Associate Product Manager",
+        "Product Operations",
+        "Product Analyst",
+        "Business Operations Analyst",
+        "Project Coordinator"
+      ],
+      "why_relevant": "Cross-functional product, customer workflow, analytics and operating-system exposure.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Lemonade",
+      "sector": "AI, Product & Enterprise SaaS",
+      "priority": "P3",
+      "company_website_candidate": "https://www.lemonade.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Associate Product Manager",
+        "Product Operations",
+        "Product Analyst",
+        "Business Operations Analyst",
+        "Project Coordinator"
+      ],
+      "why_relevant": "Cross-functional product, customer workflow, analytics and operating-system exposure.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Finout",
+      "sector": "AI Implementation, Analytics & Data Infrastructure",
+      "priority": "P1",
+      "company_website_candidate": "https://www.finout.io",
+      "verified_careers_url": "https://www.finout.io/careers",
+      "israel_presence_evidence_level": "named_in_published_source",
+      "target_job_titles": [
+        "AI Solutions Consultant",
+        "Implementation Specialist",
+        "Product Analyst",
+        "Solutions Engineer",
+        "Business Analyst"
+      ],
+      "why_relevant": "Strong intersection of AI delivery, business problems, data, and technical stakeholder management.",
+      "evidence_urls": [
+        "https://www.finout.io/careers",
+        "https://jobs.ashbyhq.com/finout/41bf1175-c1b9-4a22-8240-82cebddc59d1/"
+      ],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Unframe",
+      "sector": "AI Implementation, Analytics & Data Infrastructure",
+      "priority": "P1",
+      "company_website_candidate": "https://www.unframe.ai",
+      "verified_careers_url": "https://www.unframe.ai/careers",
+      "israel_presence_evidence_level": "named_in_published_source",
+      "target_job_titles": [
+        "AI Solutions Consultant",
+        "Implementation Specialist",
+        "Product Analyst",
+        "Solutions Engineer",
+        "Business Analyst"
+      ],
+      "why_relevant": "Strong intersection of AI delivery, business problems, data, and technical stakeholder management.",
+      "evidence_urls": [
+        "https://www.calcalistech.com/ctechnews/article/p9n9w144o",
+        "https://www.unframe.ai/careers"
+      ],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Matia",
+      "sector": "AI Implementation, Analytics & Data Infrastructure",
+      "priority": "P1",
+      "company_website_candidate": "https://www.matia.io",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "named_in_published_source",
+      "target_job_titles": [
+        "AI Solutions Consultant",
+        "Implementation Specialist",
+        "Product Analyst",
+        "Solutions Engineer",
+        "Business Analyst"
+      ],
+      "why_relevant": "Strong intersection of AI delivery, business problems, data, and technical stakeholder management.",
+      "evidence_urls": [
+        "https://www.calcalistech.com/ctechnews/article/r1ney1fkme"
+      ],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Groundcover",
+      "sector": "AI Implementation, Analytics & Data Infrastructure",
+      "priority": "P2",
+      "company_website_candidate": "https://www.groundcover.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "named_in_published_source",
+      "target_job_titles": [
+        "AI Solutions Consultant",
+        "Implementation Specialist",
+        "Product Analyst",
+        "Solutions Engineer",
+        "Business Analyst"
+      ],
+      "why_relevant": "Strong intersection of AI delivery, business problems, data, and technical stakeholder management.",
+      "evidence_urls": [
+        "https://www.calcalistech.com/ctechnews/article/r1ney1fkme"
+      ],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Notch",
+      "sector": "AI Implementation, Analytics & Data Infrastructure",
+      "priority": "P3",
+      "company_website_candidate": "https://www.notch.cx",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "named_in_published_source",
+      "target_job_titles": [
+        "AI Solutions Consultant",
+        "Implementation Specialist",
+        "Product Analyst",
+        "Solutions Engineer",
+        "Business Analyst"
+      ],
+      "why_relevant": "Strong intersection of AI delivery, business problems, data, and technical stakeholder management.",
+      "evidence_urls": [
+        "https://www.calcalistech.com/ctechnews/article/r1ney1fkme"
+      ],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Alta",
+      "sector": "AI Implementation, Analytics & Data Infrastructure",
+      "priority": "P3",
+      "company_website_candidate": "https://www.altahq.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "named_in_published_source",
+      "target_job_titles": [
+        "AI Solutions Consultant",
+        "Implementation Specialist",
+        "Product Analyst",
+        "Solutions Engineer",
+        "Business Analyst"
+      ],
+      "why_relevant": "Strong intersection of AI delivery, business problems, data, and technical stakeholder management.",
+      "evidence_urls": [
+        "https://www.calcalistech.com/ctechnews/article/r1ney1fkme"
+      ],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "AI21 Labs",
+      "sector": "AI Implementation, Analytics & Data Infrastructure",
+      "priority": "P2",
+      "company_website_candidate": "https://www.ai21.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "named_in_published_source",
+      "target_job_titles": [
+        "AI Solutions Consultant",
+        "Implementation Specialist",
+        "Product Analyst",
+        "Solutions Engineer",
+        "Business Analyst"
+      ],
+      "why_relevant": "Strong intersection of AI delivery, business problems, data, and technical stakeholder management.",
+      "evidence_urls": [
+        "https://startupnation.io/sector/ai/"
+      ],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Hailo",
+      "sector": "AI Implementation, Analytics & Data Infrastructure",
+      "priority": "P2",
+      "company_website_candidate": "https://hailo.ai",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "AI Solutions Consultant",
+        "Implementation Specialist",
+        "Product Analyst",
+        "Solutions Engineer",
+        "Business Analyst"
+      ],
+      "why_relevant": "Strong intersection of AI delivery, business problems, data, and technical stakeholder management.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Decart",
+      "sector": "AI Implementation, Analytics & Data Infrastructure",
+      "priority": "P3",
+      "company_website_candidate": "https://www.decart.ai",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "AI Solutions Consultant",
+        "Implementation Specialist",
+        "Product Analyst",
+        "Solutions Engineer",
+        "Business Analyst"
+      ],
+      "why_relevant": "Strong intersection of AI delivery, business problems, data, and technical stakeholder management.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Qodo",
+      "sector": "AI Implementation, Analytics & Data Infrastructure",
+      "priority": "P3",
+      "company_website_candidate": "https://www.qodo.ai",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "AI Solutions Consultant",
+        "Implementation Specialist",
+        "Product Analyst",
+        "Solutions Engineer",
+        "Business Analyst"
+      ],
+      "why_relevant": "Strong intersection of AI delivery, business problems, data, and technical stakeholder management.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Voyantis",
+      "sector": "AI Implementation, Analytics & Data Infrastructure",
+      "priority": "P1",
+      "company_website_candidate": "https://www.voyantis.ai",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "observed_in_supplied_job_history",
+      "target_job_titles": [
+        "AI Solutions Consultant",
+        "Implementation Specialist",
+        "Product Analyst",
+        "Solutions Engineer",
+        "Business Analyst"
+      ],
+      "why_relevant": "Strong intersection of AI delivery, business problems, data, and technical stakeholder management.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Fetcherr",
+      "sector": "AI Implementation, Analytics & Data Infrastructure",
+      "priority": "P2",
+      "company_website_candidate": "https://www.fetcherr.io",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "observed_in_supplied_job_history",
+      "target_job_titles": [
+        "AI Solutions Consultant",
+        "Implementation Specialist",
+        "Product Analyst",
+        "Solutions Engineer",
+        "Business Analyst"
+      ],
+      "why_relevant": "Strong intersection of AI delivery, business problems, data, and technical stakeholder management.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Tastewise",
+      "sector": "AI Implementation, Analytics & Data Infrastructure",
+      "priority": "P3",
+      "company_website_candidate": "https://tastewise.io",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "AI Solutions Consultant",
+        "Implementation Specialist",
+        "Product Analyst",
+        "Solutions Engineer",
+        "Business Analyst"
+      ],
+      "why_relevant": "Strong intersection of AI delivery, business problems, data, and technical stakeholder management.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "WEKA",
+      "sector": "AI Implementation, Analytics & Data Infrastructure",
+      "priority": "P2",
+      "company_website_candidate": "https://www.weka.io",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "named_in_published_source",
+      "target_job_titles": [
+        "AI Solutions Consultant",
+        "Implementation Specialist",
+        "Product Analyst",
+        "Solutions Engineer",
+        "Business Analyst"
+      ],
+      "why_relevant": "Strong intersection of AI delivery, business problems, data, and technical stakeholder management.",
+      "evidence_urls": [
+        "https://startupnation.io/sector/ai/"
+      ],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "VAST Data",
+      "sector": "AI Implementation, Analytics & Data Infrastructure",
+      "priority": "P2",
+      "company_website_candidate": "https://www.vastdata.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "named_in_published_source",
+      "target_job_titles": [
+        "AI Solutions Consultant",
+        "Implementation Specialist",
+        "Product Analyst",
+        "Solutions Engineer",
+        "Business Analyst"
+      ],
+      "why_relevant": "Strong intersection of AI delivery, business problems, data, and technical stakeholder management.",
+      "evidence_urls": [
+        "https://startupnation.io/sector/ai/"
+      ],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Redis",
+      "sector": "AI Implementation, Analytics & Data Infrastructure",
+      "priority": "P3",
+      "company_website_candidate": "https://redis.io",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "AI Solutions Consultant",
+        "Implementation Specialist",
+        "Product Analyst",
+        "Solutions Engineer",
+        "Business Analyst"
+      ],
+      "why_relevant": "Strong intersection of AI delivery, business problems, data, and technical stakeholder management.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Firebolt",
+      "sector": "AI Implementation, Analytics & Data Infrastructure",
+      "priority": "P3",
+      "company_website_candidate": "https://www.firebolt.io",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "AI Solutions Consultant",
+        "Implementation Specialist",
+        "Product Analyst",
+        "Solutions Engineer",
+        "Business Analyst"
+      ],
+      "why_relevant": "Strong intersection of AI delivery, business problems, data, and technical stakeholder management.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "SQream",
+      "sector": "AI Implementation, Analytics & Data Infrastructure",
+      "priority": "P3",
+      "company_website_candidate": "https://sqream.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "AI Solutions Consultant",
+        "Implementation Specialist",
+        "Product Analyst",
+        "Solutions Engineer",
+        "Business Analyst"
+      ],
+      "why_relevant": "Strong intersection of AI delivery, business problems, data, and technical stakeholder management.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Coralogix",
+      "sector": "AI Implementation, Analytics & Data Infrastructure",
+      "priority": "P2",
+      "company_website_candidate": "https://coralogix.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "AI Solutions Consultant",
+        "Implementation Specialist",
+        "Product Analyst",
+        "Solutions Engineer",
+        "Business Analyst"
+      ],
+      "why_relevant": "Strong intersection of AI delivery, business problems, data, and technical stakeholder management.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Logz.io",
+      "sector": "AI Implementation, Analytics & Data Infrastructure",
+      "priority": "P2",
+      "company_website_candidate": "https://logz.io",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "AI Solutions Consultant",
+        "Implementation Specialist",
+        "Product Analyst",
+        "Solutions Engineer",
+        "Business Analyst"
+      ],
+      "why_relevant": "Strong intersection of AI delivery, business problems, data, and technical stakeholder management.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "BigPanda",
+      "sector": "AI Implementation, Analytics & Data Infrastructure",
+      "priority": "P3",
+      "company_website_candidate": "https://www.bigpanda.io",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "AI Solutions Consultant",
+        "Implementation Specialist",
+        "Product Analyst",
+        "Solutions Engineer",
+        "Business Analyst"
+      ],
+      "why_relevant": "Strong intersection of AI delivery, business problems, data, and technical stakeholder management.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Datarails",
+      "sector": "AI Implementation, Analytics & Data Infrastructure",
+      "priority": "P2",
+      "company_website_candidate": "https://www.datarails.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "AI Solutions Consultant",
+        "Implementation Specialist",
+        "Product Analyst",
+        "Solutions Engineer",
+        "Business Analyst"
+      ],
+      "why_relevant": "Strong intersection of AI delivery, business problems, data, and technical stakeholder management.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Komodor",
+      "sector": "AI Implementation, Analytics & Data Infrastructure",
+      "priority": "P2",
+      "company_website_candidate": "https://komodor.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "observed_in_supplied_job_history",
+      "target_job_titles": [
+        "AI Solutions Consultant",
+        "Implementation Specialist",
+        "Product Analyst",
+        "Solutions Engineer",
+        "Business Analyst"
+      ],
+      "why_relevant": "Strong intersection of AI delivery, business problems, data, and technical stakeholder management.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Jedify",
+      "sector": "AI Implementation, Analytics & Data Infrastructure",
+      "priority": "P3",
+      "company_website_candidate": "https://jedify.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "observed_in_supplied_job_history",
+      "target_job_titles": [
+        "AI Solutions Consultant",
+        "Implementation Specialist",
+        "Product Analyst",
+        "Solutions Engineer",
+        "Business Analyst"
+      ],
+      "why_relevant": "Strong intersection of AI delivery, business problems, data, and technical stakeholder management.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "D-ID",
+      "sector": "AI Implementation, Analytics & Data Infrastructure",
+      "priority": "P3",
+      "company_website_candidate": "https://www.d-id.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "AI Solutions Consultant",
+        "Implementation Specialist",
+        "Product Analyst",
+        "Solutions Engineer",
+        "Business Analyst"
+      ],
+      "why_relevant": "Strong intersection of AI delivery, business problems, data, and technical stakeholder management.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Check Point",
+      "sector": "Cybersecurity, Cloud & Identity",
+      "priority": "P3",
+      "company_website_candidate": "https://www.checkpoint.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Product Operations",
+        "Technical Project Coordinator",
+        "Solutions Engineer",
+        "Business Analyst",
+        "Implementation Specialist"
+      ],
+      "why_relevant": "Enterprise technology and implementation environments; junior accessibility varies.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Palo Alto Networks Israel",
+      "sector": "Cybersecurity, Cloud & Identity",
+      "priority": "P3",
+      "company_website_candidate": "https://www.paloaltonetworks.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Product Operations",
+        "Technical Project Coordinator",
+        "Solutions Engineer",
+        "Business Analyst",
+        "Implementation Specialist"
+      ],
+      "why_relevant": "Enterprise technology and implementation environments; junior accessibility varies.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "CyberArk",
+      "sector": "Cybersecurity, Cloud & Identity",
+      "priority": "P3",
+      "company_website_candidate": "https://www.cyberark.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Product Operations",
+        "Technical Project Coordinator",
+        "Solutions Engineer",
+        "Business Analyst",
+        "Implementation Specialist"
+      ],
+      "why_relevant": "Enterprise technology and implementation environments; junior accessibility varies.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "SentinelOne",
+      "sector": "Cybersecurity, Cloud & Identity",
+      "priority": "P3",
+      "company_website_candidate": "https://www.sentinelone.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Product Operations",
+        "Technical Project Coordinator",
+        "Solutions Engineer",
+        "Business Analyst",
+        "Implementation Specialist"
+      ],
+      "why_relevant": "Enterprise technology and implementation environments; junior accessibility varies.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Cato Networks",
+      "sector": "Cybersecurity, Cloud & Identity",
+      "priority": "P3",
+      "company_website_candidate": "https://www.catonetworks.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Product Operations",
+        "Technical Project Coordinator",
+        "Solutions Engineer",
+        "Business Analyst",
+        "Implementation Specialist"
+      ],
+      "why_relevant": "Enterprise technology and implementation environments; junior accessibility varies.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Wiz",
+      "sector": "Cybersecurity, Cloud & Identity",
+      "priority": "P3",
+      "company_website_candidate": "https://www.wiz.io",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Product Operations",
+        "Technical Project Coordinator",
+        "Solutions Engineer",
+        "Business Analyst",
+        "Implementation Specialist"
+      ],
+      "why_relevant": "Enterprise technology and implementation environments; junior accessibility varies.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Orca Security",
+      "sector": "Cybersecurity, Cloud & Identity",
+      "priority": "P3",
+      "company_website_candidate": "https://orca.security",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Product Operations",
+        "Technical Project Coordinator",
+        "Solutions Engineer",
+        "Business Analyst",
+        "Implementation Specialist"
+      ],
+      "why_relevant": "Enterprise technology and implementation environments; junior accessibility varies.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Aqua Security",
+      "sector": "Cybersecurity, Cloud & Identity",
+      "priority": "P3",
+      "company_website_candidate": "https://www.aquasec.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Product Operations",
+        "Technical Project Coordinator",
+        "Solutions Engineer",
+        "Business Analyst",
+        "Implementation Specialist"
+      ],
+      "why_relevant": "Enterprise technology and implementation environments; junior accessibility varies.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Cyera",
+      "sector": "Cybersecurity, Cloud & Identity",
+      "priority": "P3",
+      "company_website_candidate": "https://cyera.io",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Product Operations",
+        "Technical Project Coordinator",
+        "Solutions Engineer",
+        "Business Analyst",
+        "Implementation Specialist"
+      ],
+      "why_relevant": "Enterprise technology and implementation environments; junior accessibility varies.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Upwind",
+      "sector": "Cybersecurity, Cloud & Identity",
+      "priority": "P3",
+      "company_website_candidate": "https://www.upwind.io",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "observed_in_supplied_job_history",
+      "target_job_titles": [
+        "Product Operations",
+        "Technical Project Coordinator",
+        "Solutions Engineer",
+        "Business Analyst",
+        "Implementation Specialist"
+      ],
+      "why_relevant": "Enterprise technology and implementation environments; junior accessibility varies.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Salt Security",
+      "sector": "Cybersecurity, Cloud & Identity",
+      "priority": "P3",
+      "company_website_candidate": "https://salt.security",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Product Operations",
+        "Technical Project Coordinator",
+        "Solutions Engineer",
+        "Business Analyst",
+        "Implementation Specialist"
+      ],
+      "why_relevant": "Enterprise technology and implementation environments; junior accessibility varies.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Island",
+      "sector": "Cybersecurity, Cloud & Identity",
+      "priority": "P3",
+      "company_website_candidate": "https://www.island.io",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "named_in_published_source",
+      "target_job_titles": [
+        "Product Operations",
+        "Technical Project Coordinator",
+        "Solutions Engineer",
+        "Business Analyst",
+        "Implementation Specialist"
+      ],
+      "why_relevant": "Enterprise technology and implementation environments; junior accessibility varies.",
+      "evidence_urls": [
+        "https://www.duns100.co.il/en/rating/High_Tech/Best_HighTech_Companies_to_work_for/2026"
+      ],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Guardio",
+      "sector": "Cybersecurity, Cloud & Identity",
+      "priority": "P3",
+      "company_website_candidate": "https://guard.io",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Product Operations",
+        "Technical Project Coordinator",
+        "Solutions Engineer",
+        "Business Analyst",
+        "Implementation Specialist"
+      ],
+      "why_relevant": "Enterprise technology and implementation environments; junior accessibility varies.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Pentera",
+      "sector": "Cybersecurity, Cloud & Identity",
+      "priority": "P3",
+      "company_website_candidate": "https://pentera.io",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Product Operations",
+        "Technical Project Coordinator",
+        "Solutions Engineer",
+        "Business Analyst",
+        "Implementation Specialist"
+      ],
+      "why_relevant": "Enterprise technology and implementation environments; junior accessibility varies.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Torq",
+      "sector": "Cybersecurity, Cloud & Identity",
+      "priority": "P3",
+      "company_website_candidate": "https://torq.io",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Product Operations",
+        "Technical Project Coordinator",
+        "Solutions Engineer",
+        "Business Analyst",
+        "Implementation Specialist"
+      ],
+      "why_relevant": "Enterprise technology and implementation environments; junior accessibility varies.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Silverfort",
+      "sector": "Cybersecurity, Cloud & Identity",
+      "priority": "P3",
+      "company_website_candidate": "https://www.silverfort.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Product Operations",
+        "Technical Project Coordinator",
+        "Solutions Engineer",
+        "Business Analyst",
+        "Implementation Specialist"
+      ],
+      "why_relevant": "Enterprise technology and implementation environments; junior accessibility varies.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Axonius",
+      "sector": "Cybersecurity, Cloud & Identity",
+      "priority": "P3",
+      "company_website_candidate": "https://www.axonius.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Product Operations",
+        "Technical Project Coordinator",
+        "Solutions Engineer",
+        "Business Analyst",
+        "Implementation Specialist"
+      ],
+      "why_relevant": "Enterprise technology and implementation environments; junior accessibility varies.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Tufin",
+      "sector": "Cybersecurity, Cloud & Identity",
+      "priority": "P3",
+      "company_website_candidate": "https://www.tufin.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Product Operations",
+        "Technical Project Coordinator",
+        "Solutions Engineer",
+        "Business Analyst",
+        "Implementation Specialist"
+      ],
+      "why_relevant": "Enterprise technology and implementation environments; junior accessibility varies.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Apiiro",
+      "sector": "Cybersecurity, Cloud & Identity",
+      "priority": "P3",
+      "company_website_candidate": "https://apiiro.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Product Operations",
+        "Technical Project Coordinator",
+        "Solutions Engineer",
+        "Business Analyst",
+        "Implementation Specialist"
+      ],
+      "why_relevant": "Enterprise technology and implementation environments; junior accessibility varies.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Sentra",
+      "sector": "Cybersecurity, Cloud & Identity",
+      "priority": "P3",
+      "company_website_candidate": "https://www.sentra.io",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Product Operations",
+        "Technical Project Coordinator",
+        "Solutions Engineer",
+        "Business Analyst",
+        "Implementation Specialist"
+      ],
+      "why_relevant": "Enterprise technology and implementation environments; junior accessibility varies.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Noma Security",
+      "sector": "Cybersecurity, Cloud & Identity",
+      "priority": "P3",
+      "company_website_candidate": "https://noma.security",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Product Operations",
+        "Technical Project Coordinator",
+        "Solutions Engineer",
+        "Business Analyst",
+        "Implementation Specialist"
+      ],
+      "why_relevant": "Enterprise technology and implementation environments; junior accessibility varies.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "LayerX",
+      "sector": "Cybersecurity, Cloud & Identity",
+      "priority": "P3",
+      "company_website_candidate": "https://layerxsecurity.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Product Operations",
+        "Technical Project Coordinator",
+        "Solutions Engineer",
+        "Business Analyst",
+        "Implementation Specialist"
+      ],
+      "why_relevant": "Enterprise technology and implementation environments; junior accessibility varies.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Eon",
+      "sector": "Cybersecurity, Cloud & Identity",
+      "priority": "P3",
+      "company_website_candidate": "https://www.eon.io",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Product Operations",
+        "Technical Project Coordinator",
+        "Solutions Engineer",
+        "Business Analyst",
+        "Implementation Specialist"
+      ],
+      "why_relevant": "Enterprise technology and implementation environments; junior accessibility varies.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Miggo Security",
+      "sector": "Cybersecurity, Cloud & Identity",
+      "priority": "P3",
+      "company_website_candidate": "https://www.miggo.io",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Product Operations",
+        "Technical Project Coordinator",
+        "Solutions Engineer",
+        "Business Analyst",
+        "Implementation Specialist"
+      ],
+      "why_relevant": "Enterprise technology and implementation environments; junior accessibility varies.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Orchid Security",
+      "sector": "Cybersecurity, Cloud & Identity",
+      "priority": "P3",
+      "company_website_candidate": "https://www.orchid.security",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "named_in_published_source",
+      "target_job_titles": [
+        "Product Operations",
+        "Technical Project Coordinator",
+        "Solutions Engineer",
+        "Business Analyst",
+        "Implementation Specialist"
+      ],
+      "why_relevant": "Enterprise technology and implementation environments; junior accessibility varies.",
+      "evidence_urls": [
+        "https://www.calcalistech.com/ctechnews/article/r1ney1fkme"
+      ],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Irregular",
+      "sector": "Cybersecurity, Cloud & Identity",
+      "priority": "P3",
+      "company_website_candidate": "https://www.irregular.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "named_in_published_source",
+      "target_job_titles": [
+        "Product Operations",
+        "Technical Project Coordinator",
+        "Solutions Engineer",
+        "Business Analyst",
+        "Implementation Specialist"
+      ],
+      "why_relevant": "Enterprise technology and implementation environments; junior accessibility varies.",
+      "evidence_urls": [
+        "https://www.calcalistech.com/ctechnews/article/p9n9w144o"
+      ],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Payoneer",
+      "sector": "Fintech, Insurtech & Financial Operations",
+      "priority": "P2",
+      "company_website_candidate": "https://www.payoneer.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Product Analyst",
+        "Business Operations Analyst",
+        "PMO Analyst",
+        "Implementation Specialist",
+        "Business Analyst"
+      ],
+      "why_relevant": "Quantitative decision-making, regulated processes, product operations and scale.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Rapyd",
+      "sector": "Fintech, Insurtech & Financial Operations",
+      "priority": "P3",
+      "company_website_candidate": "https://www.rapyd.net",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Product Analyst",
+        "Business Operations Analyst",
+        "PMO Analyst",
+        "Implementation Specialist",
+        "Business Analyst"
+      ],
+      "why_relevant": "Quantitative decision-making, regulated processes, product operations and scale.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Melio",
+      "sector": "Fintech, Insurtech & Financial Operations",
+      "priority": "P1",
+      "company_website_candidate": "https://meliopayments.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Product Analyst",
+        "Business Operations Analyst",
+        "PMO Analyst",
+        "Implementation Specialist",
+        "Business Analyst"
+      ],
+      "why_relevant": "Quantitative decision-making, regulated processes, product operations and scale.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Tipalti",
+      "sector": "Fintech, Insurtech & Financial Operations",
+      "priority": "P1",
+      "company_website_candidate": "https://tipalti.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Product Analyst",
+        "Business Operations Analyst",
+        "PMO Analyst",
+        "Implementation Specialist",
+        "Business Analyst"
+      ],
+      "why_relevant": "Quantitative decision-making, regulated processes, product operations and scale.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Mesh Payments",
+      "sector": "Fintech, Insurtech & Financial Operations",
+      "priority": "P2",
+      "company_website_candidate": "https://meshpayments.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "observed_in_supplied_job_history",
+      "target_job_titles": [
+        "Product Analyst",
+        "Business Operations Analyst",
+        "PMO Analyst",
+        "Implementation Specialist",
+        "Business Analyst"
+      ],
+      "why_relevant": "Quantitative decision-making, regulated processes, product operations and scale.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Nayax",
+      "sector": "Fintech, Insurtech & Financial Operations",
+      "priority": "P2",
+      "company_website_candidate": "https://www.nayax.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Product Analyst",
+        "Business Operations Analyst",
+        "PMO Analyst",
+        "Implementation Specialist",
+        "Business Analyst"
+      ],
+      "why_relevant": "Quantitative decision-making, regulated processes, product operations and scale.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "eToro",
+      "sector": "Fintech, Insurtech & Financial Operations",
+      "priority": "P3",
+      "company_website_candidate": "https://www.etoro.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Product Analyst",
+        "Business Operations Analyst",
+        "PMO Analyst",
+        "Implementation Specialist",
+        "Business Analyst"
+      ],
+      "why_relevant": "Quantitative decision-making, regulated processes, product operations and scale.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Next Insurance",
+      "sector": "Fintech, Insurtech & Financial Operations",
+      "priority": "P2",
+      "company_website_candidate": "https://www.nextinsurance.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "observed_in_supplied_job_history",
+      "target_job_titles": [
+        "Product Analyst",
+        "Business Operations Analyst",
+        "PMO Analyst",
+        "Implementation Specialist",
+        "Business Analyst"
+      ],
+      "why_relevant": "Quantitative decision-making, regulated processes, product operations and scale.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "HoneyBook",
+      "sector": "Fintech, Insurtech & Financial Operations",
+      "priority": "P3",
+      "company_website_candidate": "https://www.honeybook.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Product Analyst",
+        "Business Operations Analyst",
+        "PMO Analyst",
+        "Implementation Specialist",
+        "Business Analyst"
+      ],
+      "why_relevant": "Quantitative decision-making, regulated processes, product operations and scale.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "PayEm",
+      "sector": "Fintech, Insurtech & Financial Operations",
+      "priority": "P3",
+      "company_website_candidate": "https://www.payem.co",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Product Analyst",
+        "Business Operations Analyst",
+        "PMO Analyst",
+        "Implementation Specialist",
+        "Business Analyst"
+      ],
+      "why_relevant": "Quantitative decision-making, regulated processes, product operations and scale.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "PayPal Israel",
+      "sector": "Fintech, Insurtech & Financial Operations",
+      "priority": "P3",
+      "company_website_candidate": "https://www.paypal.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "observed_in_supplied_job_history",
+      "target_job_titles": [
+        "Product Analyst",
+        "Business Operations Analyst",
+        "PMO Analyst",
+        "Implementation Specialist",
+        "Business Analyst"
+      ],
+      "why_relevant": "Quantitative decision-making, regulated processes, product operations and scale.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Intuit Israel",
+      "sector": "Fintech, Insurtech & Financial Operations",
+      "priority": "P3",
+      "company_website_candidate": "https://www.intuit.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Product Analyst",
+        "Business Operations Analyst",
+        "PMO Analyst",
+        "Implementation Specialist",
+        "Business Analyst"
+      ],
+      "why_relevant": "Quantitative decision-making, regulated processes, product operations and scale.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Fundbox",
+      "sector": "Fintech, Insurtech & Financial Operations",
+      "priority": "P3",
+      "company_website_candidate": "https://fundbox.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Product Analyst",
+        "Business Operations Analyst",
+        "PMO Analyst",
+        "Implementation Specialist",
+        "Business Analyst"
+      ],
+      "why_relevant": "Quantitative decision-making, regulated processes, product operations and scale.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Bluevine",
+      "sector": "Fintech, Insurtech & Financial Operations",
+      "priority": "P3",
+      "company_website_candidate": "https://www.bluevine.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Product Analyst",
+        "Business Operations Analyst",
+        "PMO Analyst",
+        "Implementation Specialist",
+        "Business Analyst"
+      ],
+      "why_relevant": "Quantitative decision-making, regulated processes, product operations and scale.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Fireblocks",
+      "sector": "Fintech, Insurtech & Financial Operations",
+      "priority": "P2",
+      "company_website_candidate": "https://www.fireblocks.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Product Analyst",
+        "Business Operations Analyst",
+        "PMO Analyst",
+        "Implementation Specialist",
+        "Business Analyst"
+      ],
+      "why_relevant": "Quantitative decision-making, regulated processes, product operations and scale.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "ThetaRay",
+      "sector": "Fintech, Insurtech & Financial Operations",
+      "priority": "P1",
+      "company_website_candidate": "https://thetaray.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Product Analyst",
+        "Business Operations Analyst",
+        "PMO Analyst",
+        "Implementation Specialist",
+        "Business Analyst"
+      ],
+      "why_relevant": "Quantitative decision-making, regulated processes, product operations and scale.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Personetics",
+      "sector": "Fintech, Insurtech & Financial Operations",
+      "priority": "P2",
+      "company_website_candidate": "https://personetics.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Product Analyst",
+        "Business Operations Analyst",
+        "PMO Analyst",
+        "Implementation Specialist",
+        "Business Analyst"
+      ],
+      "why_relevant": "Quantitative decision-making, regulated processes, product operations and scale.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "One Zero Bank",
+      "sector": "Fintech, Insurtech & Financial Operations",
+      "priority": "P3",
+      "company_website_candidate": "https://www.onezerobank.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Product Analyst",
+        "Business Operations Analyst",
+        "PMO Analyst",
+        "Implementation Specialist",
+        "Business Analyst"
+      ],
+      "why_relevant": "Quantitative decision-making, regulated processes, product operations and scale.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Riskified",
+      "sector": "Fintech, Insurtech & Financial Operations",
+      "priority": "P3",
+      "company_website_candidate": "https://www.riskified.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Product Analyst",
+        "Business Operations Analyst",
+        "PMO Analyst",
+        "Implementation Specialist",
+        "Business Analyst"
+      ],
+      "why_relevant": "Quantitative decision-making, regulated processes, product operations and scale.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "SolarEdge",
+      "sector": "Renewables, Energy, Storage & Climate Infrastructure",
+      "priority": "P1",
+      "company_website_candidate": "https://www.solaredge.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "named_in_published_source",
+      "target_job_titles": [
+        "Project Coordinator",
+        "PMO Analyst",
+        "Project Engineer",
+        "Operations Analyst",
+        "Business Development Analyst"
+      ],
+      "why_relevant": "Project delivery, engineering operations and long-term electrification investment exposure.",
+      "evidence_urls": [
+        "https://startupnation.io/sector/climate/"
+      ],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Ormat Technologies",
+      "sector": "Renewables, Energy, Storage & Climate Infrastructure",
+      "priority": "P2",
+      "company_website_candidate": "https://www.ormat.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "named_in_published_source",
+      "target_job_titles": [
+        "Project Coordinator",
+        "PMO Analyst",
+        "Project Engineer",
+        "Operations Analyst",
+        "Business Development Analyst"
+      ],
+      "why_relevant": "Project delivery, engineering operations and long-term electrification investment exposure.",
+      "evidence_urls": [
+        "https://startupnation.io/sector/climate/"
+      ],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Enlight Renewable Energy",
+      "sector": "Renewables, Energy, Storage & Climate Infrastructure",
+      "priority": "P1",
+      "company_website_candidate": "https://enlightenergy.co.il",
+      "verified_careers_url": "https://enlightenergy.co.il/data/career-at-enlight/",
+      "israel_presence_evidence_level": "named_in_published_source",
+      "target_job_titles": [
+        "Project Coordinator",
+        "PMO Analyst",
+        "Project Engineer",
+        "Operations Analyst",
+        "Business Development Analyst"
+      ],
+      "why_relevant": "Project delivery, engineering operations and long-term electrification investment exposure.",
+      "evidence_urls": [
+        "https://enlightenergy.co.il/data/career-at-enlight/"
+      ],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Doral Energy",
+      "sector": "Renewables, Energy, Storage & Climate Infrastructure",
+      "priority": "P1",
+      "company_website_candidate": "https://doral-energy.com",
+      "verified_careers_url": "https://doral-energy.com/en/career/",
+      "israel_presence_evidence_level": "named_in_published_source",
+      "target_job_titles": [
+        "Project Coordinator",
+        "PMO Analyst",
+        "Project Engineer",
+        "Operations Analyst",
+        "Business Development Analyst"
+      ],
+      "why_relevant": "Project delivery, engineering operations and long-term electrification investment exposure.",
+      "evidence_urls": [
+        "https://doral-energy.com/en/career/"
+      ],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Nofar Energy",
+      "sector": "Renewables, Energy, Storage & Climate Infrastructure",
+      "priority": "P1",
+      "company_website_candidate": "https://www.nofar-energy.com",
+      "verified_careers_url": "https://www.nofar-energy.com/careers",
+      "israel_presence_evidence_level": "named_in_published_source",
+      "target_job_titles": [
+        "Project Coordinator",
+        "PMO Analyst",
+        "Project Engineer",
+        "Operations Analyst",
+        "Business Development Analyst"
+      ],
+      "why_relevant": "Project delivery, engineering operations and long-term electrification investment exposure.",
+      "evidence_urls": [
+        "https://www.nofar-energy.com/careers"
+      ],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "TeraLight",
+      "sector": "Renewables, Energy, Storage & Climate Infrastructure",
+      "priority": "P2",
+      "company_website_candidate": "https://teralight.co.il",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Project Coordinator",
+        "PMO Analyst",
+        "Project Engineer",
+        "Operations Analyst",
+        "Business Development Analyst"
+      ],
+      "why_relevant": "Project delivery, engineering operations and long-term electrification investment exposure.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Energix",
+      "sector": "Renewables, Energy, Storage & Climate Infrastructure",
+      "priority": "P2",
+      "company_website_candidate": "https://www.energix-group.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Project Coordinator",
+        "PMO Analyst",
+        "Project Engineer",
+        "Operations Analyst",
+        "Business Development Analyst"
+      ],
+      "why_relevant": "Project delivery, engineering operations and long-term electrification investment exposure.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Shikun & Binui Energy",
+      "sector": "Renewables, Energy, Storage & Climate Infrastructure",
+      "priority": "P3",
+      "company_website_candidate": "https://www.shikunbinui.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Project Coordinator",
+        "PMO Analyst",
+        "Project Engineer",
+        "Operations Analyst",
+        "Business Development Analyst"
+      ],
+      "why_relevant": "Project delivery, engineering operations and long-term electrification investment exposure.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "EDF Renewables Israel",
+      "sector": "Renewables, Energy, Storage & Climate Infrastructure",
+      "priority": "P3",
+      "company_website_candidate": "https://www.edf-re.co.il",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Project Coordinator",
+        "PMO Analyst",
+        "Project Engineer",
+        "Operations Analyst",
+        "Business Development Analyst"
+      ],
+      "why_relevant": "Project delivery, engineering operations and long-term electrification investment exposure.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Ellomay Capital",
+      "sector": "Renewables, Energy, Storage & Climate Infrastructure",
+      "priority": "P3",
+      "company_website_candidate": "https://www.ellomay.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Project Coordinator",
+        "PMO Analyst",
+        "Project Engineer",
+        "Operations Analyst",
+        "Business Development Analyst"
+      ],
+      "why_relevant": "Project delivery, engineering operations and long-term electrification investment exposure.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Brenmiller Energy",
+      "sector": "Renewables, Energy, Storage & Climate Infrastructure",
+      "priority": "P2",
+      "company_website_candidate": "https://bren-energy.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Project Coordinator",
+        "PMO Analyst",
+        "Project Engineer",
+        "Operations Analyst",
+        "Business Development Analyst"
+      ],
+      "why_relevant": "Project delivery, engineering operations and long-term electrification investment exposure.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Nostromo Energy",
+      "sector": "Renewables, Energy, Storage & Climate Infrastructure",
+      "priority": "P2",
+      "company_website_candidate": "https://www.nostromo.energy",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Project Coordinator",
+        "PMO Analyst",
+        "Project Engineer",
+        "Operations Analyst",
+        "Business Development Analyst"
+      ],
+      "why_relevant": "Project delivery, engineering operations and long-term electrification investment exposure.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Addionics",
+      "sector": "Renewables, Energy, Storage & Climate Infrastructure",
+      "priority": "P1",
+      "company_website_candidate": "https://addionics.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Project Coordinator",
+        "PMO Analyst",
+        "Project Engineer",
+        "Operations Analyst",
+        "Business Development Analyst"
+      ],
+      "why_relevant": "Project delivery, engineering operations and long-term electrification investment exposure.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "StoreDot",
+      "sector": "Renewables, Energy, Storage & Climate Infrastructure",
+      "priority": "P2",
+      "company_website_candidate": "https://www.store-dot.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Project Coordinator",
+        "PMO Analyst",
+        "Project Engineer",
+        "Operations Analyst",
+        "Business Development Analyst"
+      ],
+      "why_relevant": "Project delivery, engineering operations and long-term electrification investment exposure.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Phinergy",
+      "sector": "Renewables, Energy, Storage & Climate Infrastructure",
+      "priority": "P3",
+      "company_website_candidate": "https://www.phinergy.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Project Coordinator",
+        "PMO Analyst",
+        "Project Engineer",
+        "Operations Analyst",
+        "Business Development Analyst"
+      ],
+      "why_relevant": "Project delivery, engineering operations and long-term electrification investment exposure.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Electreon",
+      "sector": "Renewables, Energy, Storage & Climate Infrastructure",
+      "priority": "P2",
+      "company_website_candidate": "https://electreon.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Project Coordinator",
+        "PMO Analyst",
+        "Project Engineer",
+        "Operations Analyst",
+        "Business Development Analyst"
+      ],
+      "why_relevant": "Project delivery, engineering operations and long-term electrification investment exposure.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "GenCell",
+      "sector": "Renewables, Energy, Storage & Climate Infrastructure",
+      "priority": "P3",
+      "company_website_candidate": "https://www.gencellenergy.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Project Coordinator",
+        "PMO Analyst",
+        "Project Engineer",
+        "Operations Analyst",
+        "Business Development Analyst"
+      ],
+      "why_relevant": "Project delivery, engineering operations and long-term electrification investment exposure.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "H2Pro",
+      "sector": "Renewables, Energy, Storage & Climate Infrastructure",
+      "priority": "P2",
+      "company_website_candidate": "https://www.h2pro.co",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "named_in_published_source",
+      "target_job_titles": [
+        "Project Coordinator",
+        "PMO Analyst",
+        "Project Engineer",
+        "Operations Analyst",
+        "Business Development Analyst"
+      ],
+      "why_relevant": "Project delivery, engineering operations and long-term electrification investment exposure.",
+      "evidence_urls": [
+        "https://startupnation.io/sector/climate/"
+      ],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Eco Wave Power",
+      "sector": "Renewables, Energy, Storage & Climate Infrastructure",
+      "priority": "P3",
+      "company_website_candidate": "https://www.ecowavepower.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Project Coordinator",
+        "PMO Analyst",
+        "Project Engineer",
+        "Operations Analyst",
+        "Business Development Analyst"
+      ],
+      "why_relevant": "Project delivery, engineering operations and long-term electrification investment exposure.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "ZOOZ Power",
+      "sector": "Renewables, Energy, Storage & Climate Infrastructure",
+      "priority": "P3",
+      "company_website_candidate": "https://www.zoozpower.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "named_in_published_source",
+      "target_job_titles": [
+        "Project Coordinator",
+        "PMO Analyst",
+        "Project Engineer",
+        "Operations Analyst",
+        "Business Development Analyst"
+      ],
+      "why_relevant": "Project delivery, engineering operations and long-term electrification investment exposure.",
+      "evidence_urls": [
+        "https://startupnation.io/sector/climate/"
+      ],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Chakratec",
+      "sector": "Renewables, Energy, Storage & Climate Infrastructure",
+      "priority": "P3",
+      "company_website_candidate": "https://chakratec.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "named_in_published_source",
+      "target_job_titles": [
+        "Project Coordinator",
+        "PMO Analyst",
+        "Project Engineer",
+        "Operations Analyst",
+        "Business Development Analyst"
+      ],
+      "why_relevant": "Project delivery, engineering operations and long-term electrification investment exposure.",
+      "evidence_urls": [
+        "https://startupnation.io/sector/climate/"
+      ],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Ecoppia",
+      "sector": "Renewables, Energy, Storage & Climate Infrastructure",
+      "priority": "P1",
+      "company_website_candidate": "https://www.ecoppia.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "named_in_published_source",
+      "target_job_titles": [
+        "Project Coordinator",
+        "PMO Analyst",
+        "Project Engineer",
+        "Operations Analyst",
+        "Business Development Analyst"
+      ],
+      "why_relevant": "Project delivery, engineering operations and long-term electrification investment exposure.",
+      "evidence_urls": [
+        "https://startupnation.io/sector/climate/"
+      ],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Grid4C",
+      "sector": "Renewables, Energy, Storage & Climate Infrastructure",
+      "priority": "P2",
+      "company_website_candidate": "https://grid4c.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Project Coordinator",
+        "PMO Analyst",
+        "Project Engineer",
+        "Operations Analyst",
+        "Business Development Analyst"
+      ],
+      "why_relevant": "Project delivery, engineering operations and long-term electrification investment exposure.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Niv-AI",
+      "sector": "Renewables, Energy, Storage & Climate Infrastructure",
+      "priority": "P3",
+      "company_website_candidate": "https://niv-ai.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Project Coordinator",
+        "PMO Analyst",
+        "Project Engineer",
+        "Operations Analyst",
+        "Business Development Analyst"
+      ],
+      "why_relevant": "Project delivery, engineering operations and long-term electrification investment exposure.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "ZutaCore",
+      "sector": "Renewables, Energy, Storage & Climate Infrastructure",
+      "priority": "P2",
+      "company_website_candidate": "https://zutacore.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Project Coordinator",
+        "PMO Analyst",
+        "Project Engineer",
+        "Operations Analyst",
+        "Business Development Analyst"
+      ],
+      "why_relevant": "Project delivery, engineering operations and long-term electrification investment exposure.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Tomorrow.io",
+      "sector": "Renewables, Energy, Storage & Climate Infrastructure",
+      "priority": "P2",
+      "company_website_candidate": "https://www.tomorrow.io",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "named_in_published_source",
+      "target_job_titles": [
+        "Project Coordinator",
+        "PMO Analyst",
+        "Project Engineer",
+        "Operations Analyst",
+        "Business Development Analyst"
+      ],
+      "why_relevant": "Project delivery, engineering operations and long-term electrification investment exposure.",
+      "evidence_urls": [
+        "https://startupnation.io/sector/climate/"
+      ],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "UBQ Materials",
+      "sector": "Renewables, Energy, Storage & Climate Infrastructure",
+      "priority": "P2",
+      "company_website_candidate": "https://www.ubqmaterials.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "named_in_published_source",
+      "target_job_titles": [
+        "Project Coordinator",
+        "PMO Analyst",
+        "Project Engineer",
+        "Operations Analyst",
+        "Business Development Analyst"
+      ],
+      "why_relevant": "Project delivery, engineering operations and long-term electrification investment exposure.",
+      "evidence_urls": [
+        "https://startupnation.io/sector/climate/"
+      ],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Watergen",
+      "sector": "Renewables, Energy, Storage & Climate Infrastructure",
+      "priority": "P2",
+      "company_website_candidate": "https://watergen.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "named_in_published_source",
+      "target_job_titles": [
+        "Project Coordinator",
+        "PMO Analyst",
+        "Project Engineer",
+        "Operations Analyst",
+        "Business Development Analyst"
+      ],
+      "why_relevant": "Project delivery, engineering operations and long-term electrification investment exposure.",
+      "evidence_urls": [
+        "https://startupnation.io/sector/climate/"
+      ],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "WINT Water Intelligence",
+      "sector": "Renewables, Energy, Storage & Climate Infrastructure",
+      "priority": "P1",
+      "company_website_candidate": "https://wint.ai",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Project Coordinator",
+        "PMO Analyst",
+        "Project Engineer",
+        "Operations Analyst",
+        "Business Development Analyst"
+      ],
+      "why_relevant": "Project delivery, engineering operations and long-term electrification investment exposure.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Momentick",
+      "sector": "Renewables, Energy, Storage & Climate Infrastructure",
+      "priority": "P3",
+      "company_website_candidate": "https://www.momentick.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "named_in_published_source",
+      "target_job_titles": [
+        "Project Coordinator",
+        "PMO Analyst",
+        "Project Engineer",
+        "Operations Analyst",
+        "Business Development Analyst"
+      ],
+      "why_relevant": "Project delivery, engineering operations and long-term electrification investment exposure.",
+      "evidence_urls": [
+        "https://startupnation.io/sector/climate/"
+      ],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Mobileye",
+      "sector": "Mobility, Robotics & Industrial Tech",
+      "priority": "P2",
+      "company_website_candidate": "https://www.mobileye.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "observed_in_supplied_job_history",
+      "target_job_titles": [
+        "Technical Project Coordinator",
+        "PMO Analyst",
+        "Industrial Engineer",
+        "Product Analyst",
+        "Operations Analyst"
+      ],
+      "why_relevant": "Physical systems, technical planning, manufacturing, process improvement and product execution.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Innoviz Technologies",
+      "sector": "Mobility, Robotics & Industrial Tech",
+      "priority": "P2",
+      "company_website_candidate": "https://innoviz.tech",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Technical Project Coordinator",
+        "PMO Analyst",
+        "Industrial Engineer",
+        "Product Analyst",
+        "Operations Analyst"
+      ],
+      "why_relevant": "Physical systems, technical planning, manufacturing, process improvement and product execution.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Arbe Robotics",
+      "sector": "Mobility, Robotics & Industrial Tech",
+      "priority": "P3",
+      "company_website_candidate": "https://arberobotics.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Technical Project Coordinator",
+        "PMO Analyst",
+        "Industrial Engineer",
+        "Product Analyst",
+        "Operations Analyst"
+      ],
+      "why_relevant": "Physical systems, technical planning, manufacturing, process improvement and product execution.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Vayyar Imaging",
+      "sector": "Mobility, Robotics & Industrial Tech",
+      "priority": "P2",
+      "company_website_candidate": "https://vayyar.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Technical Project Coordinator",
+        "PMO Analyst",
+        "Industrial Engineer",
+        "Product Analyst",
+        "Operations Analyst"
+      ],
+      "why_relevant": "Physical systems, technical planning, manufacturing, process improvement and product execution.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Foretellix",
+      "sector": "Mobility, Robotics & Industrial Tech",
+      "priority": "P3",
+      "company_website_candidate": "https://www.foretellix.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Technical Project Coordinator",
+        "PMO Analyst",
+        "Industrial Engineer",
+        "Product Analyst",
+        "Operations Analyst"
+      ],
+      "why_relevant": "Physical systems, technical planning, manufacturing, process improvement and product execution.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "REE Automotive",
+      "sector": "Mobility, Robotics & Industrial Tech",
+      "priority": "P3",
+      "company_website_candidate": "https://ree.auto",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Technical Project Coordinator",
+        "PMO Analyst",
+        "Industrial Engineer",
+        "Product Analyst",
+        "Operations Analyst"
+      ],
+      "why_relevant": "Physical systems, technical planning, manufacturing, process improvement and product execution.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Via",
+      "sector": "Mobility, Robotics & Industrial Tech",
+      "priority": "P1",
+      "company_website_candidate": "https://ridewithvia.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Technical Project Coordinator",
+        "PMO Analyst",
+        "Industrial Engineer",
+        "Product Analyst",
+        "Operations Analyst"
+      ],
+      "why_relevant": "Physical systems, technical planning, manufacturing, process improvement and product execution.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Optibus",
+      "sector": "Mobility, Robotics & Industrial Tech",
+      "priority": "P1",
+      "company_website_candidate": "https://optibus.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Technical Project Coordinator",
+        "PMO Analyst",
+        "Industrial Engineer",
+        "Product Analyst",
+        "Operations Analyst"
+      ],
+      "why_relevant": "Physical systems, technical planning, manufacturing, process improvement and product execution.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Moovit",
+      "sector": "Mobility, Robotics & Industrial Tech",
+      "priority": "P2",
+      "company_website_candidate": "https://moovit.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Technical Project Coordinator",
+        "PMO Analyst",
+        "Industrial Engineer",
+        "Product Analyst",
+        "Operations Analyst"
+      ],
+      "why_relevant": "Physical systems, technical planning, manufacturing, process improvement and product execution.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Gauzy",
+      "sector": "Mobility, Robotics & Industrial Tech",
+      "priority": "P3",
+      "company_website_candidate": "https://www.gauzy.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Technical Project Coordinator",
+        "PMO Analyst",
+        "Industrial Engineer",
+        "Product Analyst",
+        "Operations Analyst"
+      ],
+      "why_relevant": "Physical systems, technical planning, manufacturing, process improvement and product execution.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Nano Dimension",
+      "sector": "Mobility, Robotics & Industrial Tech",
+      "priority": "P3",
+      "company_website_candidate": "https://www.nano-di.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Technical Project Coordinator",
+        "PMO Analyst",
+        "Industrial Engineer",
+        "Product Analyst",
+        "Operations Analyst"
+      ],
+      "why_relevant": "Physical systems, technical planning, manufacturing, process improvement and product execution.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Stratasys",
+      "sector": "Mobility, Robotics & Industrial Tech",
+      "priority": "P2",
+      "company_website_candidate": "https://www.stratasys.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Technical Project Coordinator",
+        "PMO Analyst",
+        "Industrial Engineer",
+        "Product Analyst",
+        "Operations Analyst"
+      ],
+      "why_relevant": "Physical systems, technical planning, manufacturing, process improvement and product execution.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Massivit 3D",
+      "sector": "Mobility, Robotics & Industrial Tech",
+      "priority": "P3",
+      "company_website_candidate": "https://www.massivit3d.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Technical Project Coordinator",
+        "PMO Analyst",
+        "Industrial Engineer",
+        "Product Analyst",
+        "Operations Analyst"
+      ],
+      "why_relevant": "Physical systems, technical planning, manufacturing, process improvement and product execution.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Kornit Digital",
+      "sector": "Mobility, Robotics & Industrial Tech",
+      "priority": "P3",
+      "company_website_candidate": "https://www.kornit.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Technical Project Coordinator",
+        "PMO Analyst",
+        "Industrial Engineer",
+        "Product Analyst",
+        "Operations Analyst"
+      ],
+      "why_relevant": "Physical systems, technical planning, manufacturing, process improvement and product execution.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Camtek",
+      "sector": "Mobility, Robotics & Industrial Tech",
+      "priority": "P3",
+      "company_website_candidate": "https://www.camtek.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Technical Project Coordinator",
+        "PMO Analyst",
+        "Industrial Engineer",
+        "Product Analyst",
+        "Operations Analyst"
+      ],
+      "why_relevant": "Physical systems, technical planning, manufacturing, process improvement and product execution.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Tower Semiconductor",
+      "sector": "Mobility, Robotics & Industrial Tech",
+      "priority": "P2",
+      "company_website_candidate": "https://www.towersemi.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Technical Project Coordinator",
+        "PMO Analyst",
+        "Industrial Engineer",
+        "Product Analyst",
+        "Operations Analyst"
+      ],
+      "why_relevant": "Physical systems, technical planning, manufacturing, process improvement and product execution.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Nova",
+      "sector": "Mobility, Robotics & Industrial Tech",
+      "priority": "P2",
+      "company_website_candidate": "https://www.novami.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Technical Project Coordinator",
+        "PMO Analyst",
+        "Industrial Engineer",
+        "Product Analyst",
+        "Operations Analyst"
+      ],
+      "why_relevant": "Physical systems, technical planning, manufacturing, process improvement and product execution.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "KLA Israel",
+      "sector": "Mobility, Robotics & Industrial Tech",
+      "priority": "P2",
+      "company_website_candidate": "https://www.kla.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Technical Project Coordinator",
+        "PMO Analyst",
+        "Industrial Engineer",
+        "Product Analyst",
+        "Operations Analyst"
+      ],
+      "why_relevant": "Physical systems, technical planning, manufacturing, process improvement and product execution.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Applied Materials Israel",
+      "sector": "Mobility, Robotics & Industrial Tech",
+      "priority": "P2",
+      "company_website_candidate": "https://www.appliedmaterials.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Technical Project Coordinator",
+        "PMO Analyst",
+        "Industrial Engineer",
+        "Product Analyst",
+        "Operations Analyst"
+      ],
+      "why_relevant": "Physical systems, technical planning, manufacturing, process improvement and product execution.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Xsight Labs",
+      "sector": "Mobility, Robotics & Industrial Tech",
+      "priority": "P3",
+      "company_website_candidate": "https://www.xsightlabs.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Technical Project Coordinator",
+        "PMO Analyst",
+        "Industrial Engineer",
+        "Product Analyst",
+        "Operations Analyst"
+      ],
+      "why_relevant": "Physical systems, technical planning, manufacturing, process improvement and product execution.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "DriveNets",
+      "sector": "Mobility, Robotics & Industrial Tech",
+      "priority": "P3",
+      "company_website_candidate": "https://drivenets.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Technical Project Coordinator",
+        "PMO Analyst",
+        "Industrial Engineer",
+        "Product Analyst",
+        "Operations Analyst"
+      ],
+      "why_relevant": "Physical systems, technical planning, manufacturing, process improvement and product execution.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Augury",
+      "sector": "Mobility, Robotics & Industrial Tech",
+      "priority": "P1",
+      "company_website_candidate": "https://www.augury.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "named_in_published_source",
+      "target_job_titles": [
+        "Technical Project Coordinator",
+        "PMO Analyst",
+        "Industrial Engineer",
+        "Product Analyst",
+        "Operations Analyst"
+      ],
+      "why_relevant": "Physical systems, technical planning, manufacturing, process improvement and product execution.",
+      "evidence_urls": [
+        "https://startupnation.io/sector/ai/"
+      ],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Buildots",
+      "sector": "Mobility, Robotics & Industrial Tech",
+      "priority": "P1",
+      "company_website_candidate": "https://buildots.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "observed_in_supplied_job_history",
+      "target_job_titles": [
+        "Technical Project Coordinator",
+        "PMO Analyst",
+        "Industrial Engineer",
+        "Product Analyst",
+        "Operations Analyst"
+      ],
+      "why_relevant": "Physical systems, technical planning, manufacturing, process improvement and product execution.",
+      "evidence_urls": [
+        "https://startupnation.io/sector/ai/"
+      ],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "BionicHIVE",
+      "sector": "Mobility, Robotics & Industrial Tech",
+      "priority": "P3",
+      "company_website_candidate": "https://www.bionichive.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Technical Project Coordinator",
+        "PMO Analyst",
+        "Industrial Engineer",
+        "Product Analyst",
+        "Operations Analyst"
+      ],
+      "why_relevant": "Physical systems, technical planning, manufacturing, process improvement and product execution.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Caja Robotics",
+      "sector": "Mobility, Robotics & Industrial Tech",
+      "priority": "P3",
+      "company_website_candidate": "https://www.cajarobotics.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Technical Project Coordinator",
+        "PMO Analyst",
+        "Industrial Engineer",
+        "Product Analyst",
+        "Operations Analyst"
+      ],
+      "why_relevant": "Physical systems, technical planning, manufacturing, process improvement and product execution.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Trigo",
+      "sector": "Mobility, Robotics & Industrial Tech",
+      "priority": "P2",
+      "company_website_candidate": "https://trigo.tech",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Technical Project Coordinator",
+        "PMO Analyst",
+        "Industrial Engineer",
+        "Product Analyst",
+        "Operations Analyst"
+      ],
+      "why_relevant": "Physical systems, technical planning, manufacturing, process improvement and product execution.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Valens Semiconductor",
+      "sector": "Mobility, Robotics & Industrial Tech",
+      "priority": "P3",
+      "company_website_candidate": "https://www.valens.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Technical Project Coordinator",
+        "PMO Analyst",
+        "Industrial Engineer",
+        "Product Analyst",
+        "Operations Analyst"
+      ],
+      "why_relevant": "Physical systems, technical planning, manufacturing, process improvement and product execution.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "High Lander",
+      "sector": "Mobility, Robotics & Industrial Tech",
+      "priority": "P3",
+      "company_website_candidate": "https://www.highlander.io",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "observed_in_supplied_job_history",
+      "target_job_titles": [
+        "Technical Project Coordinator",
+        "PMO Analyst",
+        "Industrial Engineer",
+        "Product Analyst",
+        "Operations Analyst"
+      ],
+      "why_relevant": "Physical systems, technical planning, manufacturing, process improvement and product execution.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "AIR",
+      "sector": "Mobility, Robotics & Industrial Tech",
+      "priority": "P3",
+      "company_website_candidate": "https://www.air-ev.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "named_in_published_source",
+      "target_job_titles": [
+        "Technical Project Coordinator",
+        "PMO Analyst",
+        "Industrial Engineer",
+        "Product Analyst",
+        "Operations Analyst"
+      ],
+      "why_relevant": "Physical systems, technical planning, manufacturing, process improvement and product execution.",
+      "evidence_urls": [
+        "https://www.calcalistech.com/ctechnews/article/p9n9w144o"
+      ],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Aidoc",
+      "sector": "Digital Health & Life Sciences",
+      "priority": "P2",
+      "company_website_candidate": "https://www.aidoc.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Product Operations",
+        "Implementation Specialist",
+        "Project Coordinator",
+        "Business Analyst",
+        "Clinical Operations Analyst"
+      ],
+      "why_relevant": "Cross-disciplinary technology deployment and data-enabled operational impact.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "TytoCare",
+      "sector": "Digital Health & Life Sciences",
+      "priority": "P2",
+      "company_website_candidate": "https://www.tytocare.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Product Operations",
+        "Implementation Specialist",
+        "Project Coordinator",
+        "Business Analyst",
+        "Clinical Operations Analyst"
+      ],
+      "why_relevant": "Cross-disciplinary technology deployment and data-enabled operational impact.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Healthy.io",
+      "sector": "Digital Health & Life Sciences",
+      "priority": "P2",
+      "company_website_candidate": "https://healthy.io",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Product Operations",
+        "Implementation Specialist",
+        "Project Coordinator",
+        "Business Analyst",
+        "Clinical Operations Analyst"
+      ],
+      "why_relevant": "Cross-disciplinary technology deployment and data-enabled operational impact.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "K Health",
+      "sector": "Digital Health & Life Sciences",
+      "priority": "P2",
+      "company_website_candidate": "https://khealth.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Product Operations",
+        "Implementation Specialist",
+        "Project Coordinator",
+        "Business Analyst",
+        "Clinical Operations Analyst"
+      ],
+      "why_relevant": "Cross-disciplinary technology deployment and data-enabled operational impact.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Intuition Robotics",
+      "sector": "Digital Health & Life Sciences",
+      "priority": "P3",
+      "company_website_candidate": "https://www.intuitionrobotics.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Product Operations",
+        "Implementation Specialist",
+        "Project Coordinator",
+        "Business Analyst",
+        "Clinical Operations Analyst"
+      ],
+      "why_relevant": "Cross-disciplinary technology deployment and data-enabled operational impact.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Nanox",
+      "sector": "Digital Health & Life Sciences",
+      "priority": "P3",
+      "company_website_candidate": "https://www.nanox.vision",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Product Operations",
+        "Implementation Specialist",
+        "Project Coordinator",
+        "Business Analyst",
+        "Clinical Operations Analyst"
+      ],
+      "why_relevant": "Cross-disciplinary technology deployment and data-enabled operational impact.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Scopio Labs",
+      "sector": "Digital Health & Life Sciences",
+      "priority": "P3",
+      "company_website_candidate": "https://scopiolabs.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Product Operations",
+        "Implementation Specialist",
+        "Project Coordinator",
+        "Business Analyst",
+        "Clinical Operations Analyst"
+      ],
+      "why_relevant": "Cross-disciplinary technology deployment and data-enabled operational impact.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "MeMed",
+      "sector": "Digital Health & Life Sciences",
+      "priority": "P3",
+      "company_website_candidate": "https://www.me-med.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Product Operations",
+        "Implementation Specialist",
+        "Project Coordinator",
+        "Business Analyst",
+        "Clinical Operations Analyst"
+      ],
+      "why_relevant": "Cross-disciplinary technology deployment and data-enabled operational impact.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Nucleai",
+      "sector": "Digital Health & Life Sciences",
+      "priority": "P3",
+      "company_website_candidate": "https://www.nucleai.ai",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Product Operations",
+        "Implementation Specialist",
+        "Project Coordinator",
+        "Business Analyst",
+        "Clinical Operations Analyst"
+      ],
+      "why_relevant": "Cross-disciplinary technology deployment and data-enabled operational impact.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Ibex Medical Analytics",
+      "sector": "Digital Health & Life Sciences",
+      "priority": "P3",
+      "company_website_candidate": "https://ibex-ai.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Product Operations",
+        "Implementation Specialist",
+        "Project Coordinator",
+        "Business Analyst",
+        "Clinical Operations Analyst"
+      ],
+      "why_relevant": "Cross-disciplinary technology deployment and data-enabled operational impact.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Imagene AI",
+      "sector": "Digital Health & Life Sciences",
+      "priority": "P3",
+      "company_website_candidate": "https://imagene-ai.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Product Operations",
+        "Implementation Specialist",
+        "Project Coordinator",
+        "Business Analyst",
+        "Clinical Operations Analyst"
+      ],
+      "why_relevant": "Cross-disciplinary technology deployment and data-enabled operational impact.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "QuantHealth",
+      "sector": "Digital Health & Life Sciences",
+      "priority": "P2",
+      "company_website_candidate": "https://www.quanthealth.ai",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "named_in_published_source",
+      "target_job_titles": [
+        "Product Operations",
+        "Implementation Specialist",
+        "Project Coordinator",
+        "Business Analyst",
+        "Clinical Operations Analyst"
+      ],
+      "why_relevant": "Cross-disciplinary technology deployment and data-enabled operational impact.",
+      "evidence_urls": [
+        "https://www.calcalistech.com/ctechnews/article/r1ney1fkme"
+      ],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Navina",
+      "sector": "Digital Health & Life Sciences",
+      "priority": "P2",
+      "company_website_candidate": "https://www.navina.ai",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Product Operations",
+        "Implementation Specialist",
+        "Project Coordinator",
+        "Business Analyst",
+        "Clinical Operations Analyst"
+      ],
+      "why_relevant": "Cross-disciplinary technology deployment and data-enabled operational impact.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Remepy",
+      "sector": "Digital Health & Life Sciences",
+      "priority": "P3",
+      "company_website_candidate": "https://www.remepy.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "named_in_published_source",
+      "target_job_titles": [
+        "Product Operations",
+        "Implementation Specialist",
+        "Project Coordinator",
+        "Business Analyst",
+        "Clinical Operations Analyst"
+      ],
+      "why_relevant": "Cross-disciplinary technology deployment and data-enabled operational impact.",
+      "evidence_urls": [
+        "https://www.calcalistech.com/ctechnews/article/r1ney1fkme"
+      ],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "AIVF",
+      "sector": "Digital Health & Life Sciences",
+      "priority": "P3",
+      "company_website_candidate": "https://aivf.co",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Product Operations",
+        "Implementation Specialist",
+        "Project Coordinator",
+        "Business Analyst",
+        "Clinical Operations Analyst"
+      ],
+      "why_relevant": "Cross-disciplinary technology deployment and data-enabled operational impact.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "UltraSight",
+      "sector": "Digital Health & Life Sciences",
+      "priority": "P3",
+      "company_website_candidate": "https://www.ultrasight.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Product Operations",
+        "Implementation Specialist",
+        "Project Coordinator",
+        "Business Analyst",
+        "Clinical Operations Analyst"
+      ],
+      "why_relevant": "Cross-disciplinary technology deployment and data-enabled operational impact.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Eleos Health",
+      "sector": "Digital Health & Life Sciences",
+      "priority": "P3",
+      "company_website_candidate": "https://www.eleos.health",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Product Operations",
+        "Implementation Specialist",
+        "Project Coordinator",
+        "Business Analyst",
+        "Clinical Operations Analyst"
+      ],
+      "why_relevant": "Cross-disciplinary technology deployment and data-enabled operational impact.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Teva",
+      "sector": "Digital Health & Life Sciences",
+      "priority": "P3",
+      "company_website_candidate": "https://www.tevapharm.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Product Operations",
+        "Implementation Specialist",
+        "Project Coordinator",
+        "Business Analyst",
+        "Clinical Operations Analyst"
+      ],
+      "why_relevant": "Cross-disciplinary technology deployment and data-enabled operational impact.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Netafim",
+      "sector": "Agritech, Water & Sustainable Manufacturing",
+      "priority": "P2",
+      "company_website_candidate": "https://www.netafim.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Project Coordinator",
+        "Operations Analyst",
+        "Business Development Analyst",
+        "Process Improvement Analyst",
+        "Product Operations"
+      ],
+      "why_relevant": "Operations-oriented sustainability, product adoption and process optimization.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "CropX",
+      "sector": "Agritech, Water & Sustainable Manufacturing",
+      "priority": "P2",
+      "company_website_candidate": "https://cropx.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Project Coordinator",
+        "Operations Analyst",
+        "Business Development Analyst",
+        "Process Improvement Analyst",
+        "Product Operations"
+      ],
+      "why_relevant": "Operations-oriented sustainability, product adoption and process optimization.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "SupPlant",
+      "sector": "Agritech, Water & Sustainable Manufacturing",
+      "priority": "P3",
+      "company_website_candidate": "https://supplant.me",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Project Coordinator",
+        "Operations Analyst",
+        "Business Development Analyst",
+        "Process Improvement Analyst",
+        "Product Operations"
+      ],
+      "why_relevant": "Operations-oriented sustainability, product adoption and process optimization.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "SeeTree",
+      "sector": "Agritech, Water & Sustainable Manufacturing",
+      "priority": "P3",
+      "company_website_candidate": "https://www.seetree.ai",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Project Coordinator",
+        "Operations Analyst",
+        "Business Development Analyst",
+        "Process Improvement Analyst",
+        "Product Operations"
+      ],
+      "why_relevant": "Operations-oriented sustainability, product adoption and process optimization.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "TIPA",
+      "sector": "Agritech, Water & Sustainable Manufacturing",
+      "priority": "P3",
+      "company_website_candidate": "https://tipa-corp.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Project Coordinator",
+        "Operations Analyst",
+        "Business Development Analyst",
+        "Process Improvement Analyst",
+        "Product Operations"
+      ],
+      "why_relevant": "Operations-oriented sustainability, product adoption and process optimization.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "BloomX",
+      "sector": "Agritech, Water & Sustainable Manufacturing",
+      "priority": "P2",
+      "company_website_candidate": "https://www.bloomx.co",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Project Coordinator",
+        "Operations Analyst",
+        "Business Development Analyst",
+        "Process Improvement Analyst",
+        "Product Operations"
+      ],
+      "why_relevant": "Operations-oriented sustainability, product adoption and process optimization.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "BioBee",
+      "sector": "Agritech, Water & Sustainable Manufacturing",
+      "priority": "P3",
+      "company_website_candidate": "https://biobee.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Project Coordinator",
+        "Operations Analyst",
+        "Business Development Analyst",
+        "Process Improvement Analyst",
+        "Product Operations"
+      ],
+      "why_relevant": "Operations-oriented sustainability, product adoption and process optimization.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Solutum",
+      "sector": "Agritech, Water & Sustainable Manufacturing",
+      "priority": "P3",
+      "company_website_candidate": "https://solutum.co",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Project Coordinator",
+        "Operations Analyst",
+        "Business Development Analyst",
+        "Process Improvement Analyst",
+        "Product Operations"
+      ],
+      "why_relevant": "Operations-oriented sustainability, product adoption and process optimization.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Treetoscope",
+      "sector": "Agritech, Water & Sustainable Manufacturing",
+      "priority": "P3",
+      "company_website_candidate": "https://treetoscope.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Project Coordinator",
+        "Operations Analyst",
+        "Business Development Analyst",
+        "Process Improvement Analyst",
+        "Product Operations"
+      ],
+      "why_relevant": "Operations-oriented sustainability, product adoption and process optimization.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Bluewhite",
+      "sector": "Agritech, Water & Sustainable Manufacturing",
+      "priority": "P2",
+      "company_website_candidate": "https://www.bluewhite.co",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Project Coordinator",
+        "Operations Analyst",
+        "Business Development Analyst",
+        "Process Improvement Analyst",
+        "Product Operations"
+      ],
+      "why_relevant": "Operations-oriented sustainability, product adoption and process optimization.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Microsoft Israel",
+      "sector": "Global Technology Centers in Israel",
+      "priority": "P2",
+      "company_website_candidate": "https://www.microsoft.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Student Program Manager",
+        "Business Analyst Intern",
+        "Product Analyst Intern",
+        "PMO Analyst",
+        "Solutions Consultant"
+      ],
+      "why_relevant": "Structured intern programs, complex stakeholder environments, transferable business-tech skills.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Google Israel",
+      "sector": "Global Technology Centers in Israel",
+      "priority": "P2",
+      "company_website_candidate": "https://about.google",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Student Program Manager",
+        "Business Analyst Intern",
+        "Product Analyst Intern",
+        "PMO Analyst",
+        "Solutions Consultant"
+      ],
+      "why_relevant": "Structured intern programs, complex stakeholder environments, transferable business-tech skills.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Amazon / AWS Israel",
+      "sector": "Global Technology Centers in Israel",
+      "priority": "P2",
+      "company_website_candidate": "https://aws.amazon.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Student Program Manager",
+        "Business Analyst Intern",
+        "Product Analyst Intern",
+        "PMO Analyst",
+        "Solutions Consultant"
+      ],
+      "why_relevant": "Structured intern programs, complex stakeholder environments, transferable business-tech skills.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Salesforce Israel",
+      "sector": "Global Technology Centers in Israel",
+      "priority": "P1",
+      "company_website_candidate": "https://www.salesforce.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Student Program Manager",
+        "Business Analyst Intern",
+        "Product Analyst Intern",
+        "PMO Analyst",
+        "Solutions Consultant"
+      ],
+      "why_relevant": "Structured intern programs, complex stakeholder environments, transferable business-tech skills.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "SAP Israel",
+      "sector": "Global Technology Centers in Israel",
+      "priority": "P1",
+      "company_website_candidate": "https://www.sap.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "observed_in_supplied_job_history",
+      "target_job_titles": [
+        "Student Program Manager",
+        "Business Analyst Intern",
+        "Product Analyst Intern",
+        "PMO Analyst",
+        "Solutions Consultant"
+      ],
+      "why_relevant": "Structured intern programs, complex stakeholder environments, transferable business-tech skills.",
+      "evidence_urls": [
+        "https://www.duns100.co.il/en/rating/High_Tech/Best_HighTech_Companies_to_work_for/2026"
+      ],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "IBM Israel",
+      "sector": "Global Technology Centers in Israel",
+      "priority": "P3",
+      "company_website_candidate": "https://www.ibm.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Student Program Manager",
+        "Business Analyst Intern",
+        "Product Analyst Intern",
+        "PMO Analyst",
+        "Solutions Consultant"
+      ],
+      "why_relevant": "Structured intern programs, complex stakeholder environments, transferable business-tech skills.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Cisco Israel",
+      "sector": "Global Technology Centers in Israel",
+      "priority": "P3",
+      "company_website_candidate": "https://www.cisco.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Student Program Manager",
+        "Business Analyst Intern",
+        "Product Analyst Intern",
+        "PMO Analyst",
+        "Solutions Consultant"
+      ],
+      "why_relevant": "Structured intern programs, complex stakeholder environments, transferable business-tech skills.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Dell Technologies Israel",
+      "sector": "Global Technology Centers in Israel",
+      "priority": "P3",
+      "company_website_candidate": "https://www.dell.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Student Program Manager",
+        "Business Analyst Intern",
+        "Product Analyst Intern",
+        "PMO Analyst",
+        "Solutions Consultant"
+      ],
+      "why_relevant": "Structured intern programs, complex stakeholder environments, transferable business-tech skills.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Siemens Israel",
+      "sector": "Global Technology Centers in Israel",
+      "priority": "P3",
+      "company_website_candidate": "https://www.siemens.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Student Program Manager",
+        "Business Analyst Intern",
+        "Product Analyst Intern",
+        "PMO Analyst",
+        "Solutions Consultant"
+      ],
+      "why_relevant": "Structured intern programs, complex stakeholder environments, transferable business-tech skills.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Oracle Israel",
+      "sector": "Global Technology Centers in Israel",
+      "priority": "P3",
+      "company_website_candidate": "https://www.oracle.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Student Program Manager",
+        "Business Analyst Intern",
+        "Product Analyst Intern",
+        "PMO Analyst",
+        "Solutions Consultant"
+      ],
+      "why_relevant": "Structured intern programs, complex stakeholder environments, transferable business-tech skills.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Intel Israel",
+      "sector": "Global Technology Centers in Israel",
+      "priority": "P1",
+      "company_website_candidate": "https://www.intel.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "named_in_published_source",
+      "target_job_titles": [
+        "Student Program Manager",
+        "Business Analyst Intern",
+        "Product Analyst Intern",
+        "PMO Analyst",
+        "Solutions Consultant"
+      ],
+      "why_relevant": "Structured intern programs, complex stakeholder environments, transferable business-tech skills.",
+      "evidence_urls": [
+        "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Israel-Haifa/AI-Product-Analyst-student-for-AI-Solutions-Group_JR0284923"
+      ],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "NVIDIA Israel",
+      "sector": "Global Technology Centers in Israel",
+      "priority": "P2",
+      "company_website_candidate": "https://www.nvidia.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "named_in_published_source",
+      "target_job_titles": [
+        "Student Program Manager",
+        "Business Analyst Intern",
+        "Product Analyst Intern",
+        "PMO Analyst",
+        "Solutions Consultant"
+      ],
+      "why_relevant": "Structured intern programs, complex stakeholder environments, transferable business-tech skills.",
+      "evidence_urls": [
+        "https://www.duns100.co.il/en/rating/High_Tech/Best_HighTech_Companies_to_work_for/2026"
+      ],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Qualcomm Israel",
+      "sector": "Global Technology Centers in Israel",
+      "priority": "P3",
+      "company_website_candidate": "https://www.qualcomm.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Student Program Manager",
+        "Business Analyst Intern",
+        "Product Analyst Intern",
+        "PMO Analyst",
+        "Solutions Consultant"
+      ],
+      "why_relevant": "Structured intern programs, complex stakeholder environments, transferable business-tech skills.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "Apple Israel",
+      "sector": "Global Technology Centers in Israel",
+      "priority": "P3",
+      "company_website_candidate": "https://www.apple.com",
+      "verified_careers_url": null,
+      "israel_presence_evidence_level": "research_candidate_unverified_local_hiring",
+      "target_job_titles": [
+        "Student Program Manager",
+        "Business Analyst Intern",
+        "Product Analyst Intern",
+        "PMO Analyst",
+        "Solutions Consultant"
+      ],
+      "why_relevant": "Structured intern programs, complex stakeholder environments, transferable business-tech skills.",
+      "evidence_urls": [],
+      "verified_open_role": false,
+      "verification_required": [
+        "official current Israel presence",
+        "current Israel job location",
+        "ATS/careers URL",
+        "job-level entry criteria"
+      ]
+    },
+    {
+      "company": "KPMG Israel",
+      "sector": "AI Implementation, Analytics & Data Infrastructure",
+      "priority": "P1",
+      "company_website_candidate": "https://kpmg.co.il",
+      "verified_careers_url": "https://kpmg.co.il/technologyconsulting/careers/jobs/ai-data-consultant",
+      "israel_presence_evidence_level": "named_in_published_source",
+      "target_job_titles": [
+        "AI & Data Consultant",
+        "Technology Consultant",
+        "Business Analyst",
+        "Digital Transformation Analyst"
+      ],
+      "why_relevant": "Business and technical transformation consulting is a direct bridge between analysis, processes and people.",
+      "evidence_urls": [
+        "https://kpmg.co.il/technologyconsulting/careers/jobs/ai-data-consultant"
+      ],
+      "verified_open_role": false,
+      "verification_required": [
+        "current role open status",
+        "experience threshold",
+        "Israel location",
+        "current ATS URL"
+      ]
+    }
+  ]
+}

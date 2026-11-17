@@ -1,0 +1,171 @@
+import json
+import os
+
+import pytest
+
+import job_crawler as jc
+import job_identity as ji
+from conftest import ROOT
+
+
+def _profile(name):
+    return jc.resolve_profile(jc.RAW_CONFIG, name)[1]
+
+
+def test_config_is_valid_and_iem_is_active():
+    with open(os.path.join(ROOT, "config.json"), encoding="utf-8") as f:
+        cfg = json.load(f)
+    assert cfg["active_profile"] == "iem_product_operations"
+    assert set(cfg["profiles"]) >= {"iem_product_operations", "software_engineering"}
+
+
+def test_software_profile_is_preserved_exactly():
+    swe = _profile("software_engineering")
+    assert swe["target_roles"] == ["Software Development", "Backend", "Frontend", "Fullstack", "Mobile", "AI/ML",
+                                   "Data Science", "Algorithms", "MLOps", "Software Automation"]
+    assert swe["excluded_roles"] == ["Manual QA", "DevOps", "Customer Success", "Operations", "Technical Support",
+                                     "Sales", "Marketing", "HR", "Finance"]
+    f = jc.ProfileTitleFilter(swe)
+    assert f.matches("Junior Backend Developer")
+    assert not f.matches("Operations Analyst")
+    assert not f.matches("Customer Success Manager")
+
+
+@pytest.mark.parametrize("title,expected", [
+    ("Operations Analyst", True),
+    ("Sales Operations Analyst", True),
+    ("Customer Success Operations Specialist", True),
+    ("Junior Product Operations – Part-Time Student", True),
+    ("AI Product Analyst student for AI Solutions Group", True),
+    ("Strategic Purchasing Associate", True),
+    ("מהנדס/ת תעשייה וניהול", True),
+    ("Senior Revenue Operations Manager", False),
+    ("Backend Developer", False),
+    ("Technical Support Engineer", False),
+])
+def test_iem_profile_title_filter(title, expected):
+    assert jc.ProfileTitleFilter(_profile("iem_product_operations")).matches(title) is expected
+
+
+@pytest.mark.parametrize("company,loc,verdict", [
+    ("Experis Israel", "Netanya, Center District, Israel", "reject"),   # 'Center District' must not whitelist Netanya
+    ("CloudZone", "Tel Aviv District, Israel", "ok"),
+    ("Some Startup", "Jerusalem, Israel", "reject"),
+    ("Some Startup", "Center District, Israel", "unknown"),            # decided by the AI with the job text
+    ("Nvidia", "Yokneam, Northern District, Israel", "ok"),            # leading company: anywhere in Israel
+    ("Some Startup", "London, United Kingdom", "reject"),
+])
+def test_iem_location_policy(company, loc, verdict):
+    assert jc.location_verdict(company, loc) == verdict
+
+
+def _cand(company, title, url, loc="Tel Aviv"):
+    return {"company": company, "title": title, "url": url, "page_location": loc}
+
+
+def test_second_identical_scan_adds_nothing(tmp_path):
+    seen_by_key, seen_hashes, cache = {}, set(), {"entries": {}}
+    scan = [
+        _cand("Moveo group", "Junior Full-Stack AI Engineer", "https://forms.monday.com/forms/887015da?r=use1"),
+        _cand("Moveo group", "Mobile Developer", "https://forms.monday.com/forms/887015da?r=use1"),
+        _cand("Next Insurance", "Frontend Engineer", "https://job-boards.greenhouse.io/nextinsurance66/jobs/7805602003"),
+        _cand("Next Insurance", "Frontend EngineerKfar Saba, Israel", "https://job-boards.greenhouse.io/nextinsurance66/jobs/7805602003"),
+    ]
+    new1, skipped1 = jc.select_new_candidates([dict(c) for c in scan], seen_by_key, seen_hashes, cache, 14)
+    assert len(new1) == 3 and skipped1["duplicate_in_run"] == 1
+    for c in new1:  # simulate approval
+        seen_by_key[c["job_key"]] = {"last_seen_at": "2026-01-01"}
+    new2, skipped2 = jc.select_new_candidates([dict(c) for c in scan], seen_by_key, seen_hashes, cache, 14)
+    assert new2 == [] and skipped2["already_seen"] == 4
+    assert all(r["last_seen_at"] > "2026-01-01" for r in seen_by_key.values())
+
+
+def test_legacy_records_block_rediscovery_of_same_posting(legacy_records):
+    seen_by_key = {jc.record_key(r): r for r in legacy_records}
+    hashes = {jc.compute_job_hash(r["company"], r["title"], r["url"]) for r in legacy_records}
+    again = [_cand("Next Insurance", "Frontend Engineer", "https://job-boards.greenhouse.io/nextinsurance66/jobs/7805602003", "Kfar Saba")]
+    new, skipped = jc.select_new_candidates(again, seen_by_key, hashes, {"entries": {}}, 14)
+    assert new == [] and skipped["already_seen"] == 1
+
+
+def test_recently_rejected_jobs_are_not_resent_to_ai():
+    cache = {"entries": {}}
+    c = _cand("Wix", "Business Analyst", "https://jobs.smartrecruiters.com/Wix2/744000123456")
+    jc.remember_rejection(cache, jc.candidate_key(c), c, "ai", "requires 4 years")
+    new, skipped = jc.select_new_candidates([dict(c)], {}, set(), cache, 14)
+    assert new == [] and skipped["recently_rejected"] == 1
+
+
+def test_build_entry_keeps_legacy_contract_and_labels_unspecified():
+    job = _cand("Finout", "Junior Product Operations – Part-Time Student",
+                "https://jobs.ashbyhq.com/finout/41bf1175-c1b9-4a22-8240-82cebddc59d1")
+    job.update({"requirements_text": "x" * 200, "source_type": "ats_api", "priority": "P1"})
+    e = jc.build_entry(job, {"approved": True, "role_category": "product", "experience_level": "explicit_student",
+                             "experience_evidence": "Part-Time Student", "role_match": 0.9, "skills_fit": 0.8,
+                             "detected_city": "Tel Aviv"})
+    for f in ("company", "title", "location", "url", "experience", "discovered_at", "referral_contact", "referral_type"):
+        assert f in e
+    assert e["status"] == "active" and e["profiles"] == ["iem_product_operations"]
+    assert e["job_key"].startswith("ats:ashby:")
+    e2 = jc.build_entry(dict(job, title="Business Analyst"), {"approved": True})
+    assert e2["experience_level"] == "unspecified"
+    assert e2["experience"] == ji.EXPERIENCE_LABELS_HE["unspecified"] == "לא צוין"
+
+
+@pytest.mark.parametrize("company,excluded", [
+    ("Bank Leumi", True), ("Bank Hapoalim", True), ("Israel Discount Bank", True), ("One Zero Bank", True),
+    ("Mizrahi Tefahot", True), ("בנק לאומי", True), ("Elbit Systems", True), ("Israel Aerospace Industries (IAI)", True),
+    ("Rafael Advanced Defense Systems", True), ("אלביט מערכות", True), ("Leidos", True), ("DRS RADA Technologies", True),
+    # must NOT be excluded (substring traps)
+    ("Unit", False), ("Isracard", False), ("Bankai Labs", False), ("Raday", False), ("Cymotive Technologies", False),
+    ("Wix", False), ("Payoneer", False), ("Melio", False), ("Leumit Health Services", False),
+])
+def test_excluded_companies(company, excluded):
+    assert jc.is_company_excluded(company) is excluded
+
+
+def test_excluded_company_candidates_never_reach_ai():
+    cands = [_cand("Elbit Systems", "Project Coordinator", "https://www.linkedin.com/jobs/view/4400000001"),
+             _cand("Bank Hapoalim", "Business Analyst", "https://www.linkedin.com/jobs/view/4400000002"),
+             _cand("Wix", "Business Analyst", "https://www.linkedin.com/jobs/view/4400000003")]
+    new, skipped = jc.select_new_candidates(cands, {}, set(), {"entries": {}}, 14)
+    assert [c["company"] for c in new] == ["Wix"] and skipped["excluded_company"] == 2
+
+
+@pytest.mark.parametrize("title", ["רכז/ת פרויקטים לבנק מוביל", "PMO לחברה ביטחונית", "Project Coordinator - Security Clearance required",
+                                   "Defense Program Analyst"])
+def test_bank_and_defense_job_board_titles_are_rejected(title):
+    assert not jc.ProfileTitleFilter(_profile("iem_product_operations")).matches(title)
+
+
+class _Resp:
+    def __init__(self, status, body):
+        self.status_code, self._body, self.text = status, body, json.dumps(body)
+
+    def json(self):
+        return self._body
+
+
+def test_gemini_preflight_falls_back_when_model_is_retired(monkeypatch):
+    calls = []
+
+    def fake_post(url, json=None, headers=None, timeout=None):
+        calls.append((url, headers))
+        if "gemini-3.5-flash-lite" in url:
+            return _Resp(404, {"error": {"message": "model not found"}})
+        return _Resp(200, {"candidates": [{"content": {"parts": [{"text": "OK"}]}}]})
+
+    monkeypatch.setattr(jc.requests, "post", fake_post)
+    monkeypatch.setattr(jc, "GEMINI_API_KEY", "secret-test-key")
+    monkeypatch.setattr(jc, "MODEL_NAME", "gemini-3.5-flash-lite")
+    assert jc.test_gemini_preflight() is True
+    assert jc.MODEL_NAME == "gemini-3.1-flash-lite"
+    assert all("secret-test-key" not in url for url, _ in calls), "API key must not appear in the URL"
+    assert all(h["x-goog-api-key"] == "secret-test-key" for _, h in calls)
+
+
+def test_gemini_preflight_stops_on_bad_key(monkeypatch):
+    monkeypatch.setattr(jc.requests, "post", lambda *a, **k: _Resp(403, {"error": {"message": "API key not valid"}}))
+    monkeypatch.setattr(jc, "GEMINI_API_KEY", "bad")
+    with pytest.raises(SystemExit):
+        jc.test_gemini_preflight()

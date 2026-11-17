@@ -6,4 +6,7 @@ progress_checkpoint.json
 new_jobs_*.xlsx
 __pycache__/
 *.pyc
-.DS_Store
+.DS_Store.pytest_cache/
+
+# Research handoff package (contents already imported into data/seeds/)
+claude_code_job_search_package.zip

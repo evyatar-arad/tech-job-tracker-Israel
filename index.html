@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Job Tracker | משרות פיתוח ו-AI בישראל</title>
+  <title>Job Tracker | משרות מוצר, פרויקטים ותפעול בישראל</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Assistant:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -701,8 +701,8 @@
           </div>
         </div>
         <div>
-          <div class="brand-title">Israel Tech Jobs</div>
-          <div class="brand-subtitle">מעקב משרות פיתוח, AI וסטודנטים (0–2 שנות ניסיון)</div>
+          <div class="brand-title">Israel Business &amp; Tech Jobs</div>
+          <div class="brand-subtitle">מוצר, פרויקטים, תפעול, אנליזה וייעוץ – לבוגרי הנדסת תעשייה וניהול (0–2 שנות ניסיון)</div>
         </div>
       </div>
 
@@ -805,12 +805,38 @@
 
         <select id="roleFilter" class="filter-select">
           <option value="all">כל התפקידים</option>
-          <option value="fullstack">Fullstack</option>
-          <option value="backend">Backend</option>
-          <option value="frontend">Frontend</option>
-          <option value="ai">AI / ML / Data</option>
-          <option value="student">סטודנט / מתמחה</option>
+          <option value="product">ניהול מוצר</option>
+          <option value="project">ניהול פרויקטים / PMO</option>
+          <option value="operations">תפעול / Operations</option>
+          <option value="business_analysis">אנליזה עסקית / מערכות</option>
+          <option value="industrial_engineering">הנדסת תעשייה / שיפור תהליכים</option>
+          <option value="solutions">Solutions / Implementation</option>
+          <option value="customer_success">Customer Success / TAM</option>
+          <option value="business_development">פיתוח עסקי / שותפויות</option>
+          <option value="consulting">ייעוץ</option>
+          <option value="student">סטודנט / בוגר / Junior</option>
         </select>
+
+        <select id="expFilter" class="filter-select" title="רמת ניסיון">
+          <option value="all">כל רמות הניסיון</option>
+          <option value="eligible">סטודנט / ג'וניור / 0–2 בלבד</option>
+          <option value="eligible_stretch">כולל 2+ (גבולי)</option>
+          <option value="unspecified">רק "לא צוין"</option>
+        </select>
+
+        <select id="sortSelect" class="filter-select" title="מיון">
+          <option value="score">מיון: ציון התאמה</option>
+          <option value="newest">מיון: החדשות ביותר</option>
+        </select>
+
+        <select id="profileFilter" class="filter-select" title="פרופיל חיפוש">
+          <option value="active">הפרופיל הפעיל</option>
+          <option value="all">כל הפרופילים</option>
+        </select>
+
+        <label class="filter-select" style="display:flex;align-items:center;gap:6px;cursor:pointer" title="כפולות ודפים שאינם משרות נשמרים בהיסטוריה ומוסתרים כברירת מחדל">
+          <input type="checkbox" id="showHidden"> הצג כפולות / מוסתרות
+        </label>
       </div>
 
       <div class="tabs-row">
@@ -926,6 +952,10 @@
         if (!resp.ok) throw new Error('Could not load seen_jobs.json');
         const data = await resp.json();
         allJobs = Array.isArray(data) ? data.slice().reverse() : [];
+        try {
+          const cfgResp = await fetch('config.json?t=' + Date.now());
+          if (cfgResp.ok) ACTIVE_PROFILE = (await cfgResp.json()).active_profile || null;
+        } catch (e) { ACTIVE_PROFILE = null; }
         updateCounts();
         renderJobs();
       } catch (err) {
@@ -945,9 +975,34 @@
       }
     }
 
+    let ACTIVE_PROFILE = null;
+    const EXP_LABELS = {
+      explicit_student: 'סטודנט / מתמחה', explicit_junior: "ג'וניור / בוגר", explicit_0_2: '0–2 שנים',
+      stretch_2_plus: '2+ (גבולי)', unspecified: 'לא צוין', senior: 'בכיר'
+    };
+    const STATUS_LABELS = { duplicate: 'כפולה', quarantined: 'מוסתרת' };
+
+    // Records written before the v2 migration have no status/profiles: treat them as active / any profile.
+    function passesBaseFilters(job) {
+      const status = job.status || 'active';
+      if (status !== 'active' && !document.getElementById('showHidden').checked) return false;
+      const pf = document.getElementById('profileFilter').value;
+      if (pf === 'active' && ACTIVE_PROFILE && Array.isArray(job.profiles) && !job.profiles.includes(ACTIVE_PROFILE)) return false;
+      return true;
+    }
+
+    function passesExpFilter(job) {
+      const f = document.getElementById('expFilter').value;
+      const lv = job.experience_level || 'unspecified';
+      if (f === 'eligible') return ['explicit_student', 'explicit_junior', 'explicit_0_2'].includes(lv);
+      if (f === 'eligible_stretch') return ['explicit_student', 'explicit_junior', 'explicit_0_2', 'stretch_2_plus'].includes(lv);
+      if (f === 'unspecified') return lv === 'unspecified';
+      return true;
+    }
+
     function updateCounts() {
       let counts = { new: 0, applied: 0, saved: 0, dismissed: 0 };
-      allJobs.forEach(job => {
+      allJobs.filter(passesBaseFilters).forEach(job => {
         const h = computeHash(job.company, job.title, job.url);
         const state = userStates[h]?.status || 'new';
         if (counts[state] !== undefined) counts[state]++;
@@ -963,6 +1018,30 @@
       document.getElementById('badgeApplied').textContent = counts.applied;
       document.getElementById('badgeSaved').textContent = counts.saved;
       document.getElementById('badgeDismissed').textContent = counts.dismissed;
+    }
+
+    // Role categories: the crawler's AI tag (role_category) plus title keywords as a fallback for older entries.
+    const ROLE_KEYWORDS = {
+      product: ['product manager', 'product owner', 'product analyst', 'product specialist', 'product operations', 'apm', 'מנהל מוצר', 'מנהל/ת מוצר', 'ניהול מוצר'],
+      project: ['project', 'program', 'pmo', 'פרויקט', 'פרוייקט'],
+      operations: ['operation', 'bizops', 'supply chain', 'planner', 'procurement', 'logistics', 'תפעול', 'לוגיסטיקה', 'שרשרת אספקה'],
+      business_analysis: ['business analyst', 'systems analyst', 'process analyst', 'strategy', 'אנליסט', 'מנתח/ת מערכות'],
+      industrial_engineering: ['industrial engineer', 'process improvement', 'continuous improvement', 'lean', 'תעשייה וניהול', 'תעשיה וניהול', 'שיפור תהליכים', 'תכנון ובקרה'],
+      solutions: ['solution', 'application engineer', 'implementation', 'forward deployed', 'onboarding', 'מיישם', 'הטמעה'],
+      customer_success: ['customer success', 'technical account', 'הצלחת לקוחות'],
+      business_development: ['business development', 'partnership', 'bdr', 'פיתוח עסקי', 'שותפויות'],
+      consulting: ['consult', 'advisory', 'יועץ', 'יועצת', 'ייעוץ', 'יעוץ'],
+      student: ['student', 'intern', 'graduate', 'junior', 'entry level', 'associate', 'סטודנט', 'בוגר', "ג'וניור"]
+    };
+
+    function getRoleCategories(job) {
+      const cats = [];
+      if (job.role_category) cats.push(job.role_category);
+      const title = (job.title || '').toLowerCase();
+      for (const [cat, words] of Object.entries(ROLE_KEYWORDS)) {
+        if (!cats.includes(cat) && words.some(w => title.includes(w))) cats.push(cat);
+      }
+      return cats;
     }
 
     function renderJobs() {
@@ -987,17 +1066,16 @@
           if (refFilter === 'direct' && !type.includes('ישיר')) return false;
         }
 
-        if (role !== 'all') {
-          const title = job.title.toLowerCase();
-          if (role === 'fullstack' && !title.includes('fullstack') && !title.includes('full-stack') && !title.includes('full stack')) return false;
-          if (role === 'backend' && !title.includes('backend') && !title.includes('back-end') && !title.includes('back end')) return false;
-          if (role === 'frontend' && !title.includes('frontend') && !title.includes('front-end') && !title.includes('react')) return false;
-          if (role === 'ai' && !title.includes('ai') && !title.includes('ml') && !title.includes('data') && !title.includes('learning')) return false;
-          if (role === 'student' && !title.includes('student') && !title.includes('intern') && !title.includes('סטודנט')) return false;
-        }
+        if (role !== 'all' && getRoleCategories(job).indexOf(role) === -1) return false;
+        if (!passesBaseFilters(job) || !passesExpFilter(job)) return false;
 
         return true;
       });
+
+      if (document.getElementById('sortSelect').value === 'score') {
+        // Stable sort: unscored (legacy) records keep their newest-first order after scored ones.
+        filtered.sort((a, b) => (typeof b.match_score === 'number' ? b.match_score : -1) - (typeof a.match_score === 'number' ? a.match_score : -1));
+      }
 
       if (filtered.length === 0) {
         jobsGrid.innerHTML = `
@@ -1048,7 +1126,7 @@
                 <span class="referral-pill ${pillClass}">${escapeHtml(pillText)}</span>
               </div>
 
-              <div class="job-title">${escapeHtml(job.title)}</div>
+              <div class="job-title">${escapeHtml(job.display_title || job.title)}</div>
 
               <div class="job-meta">
                 <span class="meta-tag">
@@ -1064,8 +1142,14 @@
                     <rect x="2" y="7" width="20" height="14" rx="2" ry="2"></rect>
                     <path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"></path>
                   </svg>
-                  ${escapeHtml(job.experience || '0-2 YOE')}
+                  <span title="${escapeHtml(job.experience_evidence ? 'מקור: ' + job.experience_evidence : (job.experience || ''))}">${escapeHtml(EXP_LABELS[job.experience_level] || job.experience || 'לא צוין')}</span>
                 </span>
+
+                ${typeof job.match_score === 'number' ? `
+                <span class="meta-tag" title="ציון התאמה (תפקיד, זכאות, מיקום, עדיפות חברה, כישורים, טריות)">★ ${job.match_score}</span>` : ''}
+
+                ${job.status && job.status !== 'active' ? `
+                <span class="meta-tag" title="${escapeHtml((job.status_reasons || []).join(', '))}">${escapeHtml(STATUS_LABELS[job.status] || job.status)}</span>` : ''}
 
                 ${job.discovered_at ? `
                 <span class="meta-tag">
@@ -1187,6 +1271,8 @@
     searchInput.addEventListener('input', renderJobs);
     referralFilter.addEventListener('change', renderJobs);
     roleFilter.addEventListener('change', renderJobs);
+    ['expFilter', 'sortSelect', 'profileFilter', 'showHidden'].forEach(id =>
+      document.getElementById(id).addEventListener('change', () => { updateCounts(); renderJobs(); }));
     refreshBtn.addEventListener('click', () => {
       fetchJobs();
       showToast('הנתונים רועננו');

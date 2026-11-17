@@ -1,0 +1,862 @@
+{
+  "schema_version": "1.0.0",
+  "companies": {
+    "addionics": {
+      "status": "no_careers_page",
+      "careers_url": null,
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:40:03+00:00",
+      "company": "Addionics"
+    },
+    "doralenergy": {
+      "status": "careers_page_found",
+      "careers_url": "https://doral-energy.com/en/career/",
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:40:07+00:00",
+      "company": "Doral Energy"
+    },
+    "ecoppia": {
+      "status": "careers_page_found",
+      "careers_url": "https://www.ecoppia.com/career",
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:40:06+00:00",
+      "company": "Ecoppia"
+    },
+    "enlightrenewableenergy": {
+      "status": "verified_ats",
+      "careers_url": "https://enlightenergy.co.il/data/career-at-enlight/",
+      "ats": "https://www.comeet.com/jobs/enlightenergy/99.006",
+      "board_check": {
+        "ok": true,
+        "jobs": null,
+        "israel_jobs": null
+      },
+      "checked_at": "2026-11-17T13:40:04+00:00",
+      "company": "Enlight Renewable Energy"
+    },
+    "finout": {
+      "status": "verified_ats",
+      "careers_url": "https://www.finout.io/careers",
+      "ats": "https://jobs.ashbyhq.com/finout",
+      "board_check": {
+        "ok": true,
+        "jobs": 16,
+        "israel_jobs": 4
+      },
+      "checked_at": "2026-11-17T13:40:01+00:00",
+      "company": "Finout"
+    },
+    "guesty": {
+      "status": "careers_page_found",
+      "careers_url": "https://www.guesty.com/careers/",
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:40:04+00:00",
+      "company": "Guesty"
+    },
+    "matia": {
+      "status": "verified_ats",
+      "careers_url": null,
+      "ats": "https://jobs.ashbyhq.com/matia",
+      "board_check": {
+        "ok": true,
+        "jobs": 5,
+        "israel_jobs": 5
+      },
+      "checked_at": "2026-11-17T13:40:03+00:00",
+      "company": "Matia"
+    },
+    "nofarenergy": {
+      "status": "careers_page_found",
+      "careers_url": "https://www.nofar-energy.com/careers",
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:40:12+00:00",
+      "company": "Nofar Energy"
+    },
+    "thetaray": {
+      "status": "verified_ats",
+      "careers_url": "https://thetaray.com/careers/",
+      "ats": "https://www.comeet.com/jobs/thetaray/72.00F",
+      "board_check": {
+        "ok": true,
+        "jobs": null,
+        "israel_jobs": null
+      },
+      "checked_at": "2026-11-17T13:40:03+00:00",
+      "company": "ThetaRay"
+    },
+    "wintwaterintelligence": {
+      "status": "careers_page_found",
+      "careers_url": "https://wint.ai/company/career/",
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:40:18+00:00",
+      "company": "WINT Water Intelligence"
+    },
+    "bloomx": {
+      "status": "unreachable",
+      "careers_url": null,
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:40:16+00:00",
+      "company": "BloomX"
+    },
+    "bluewhite": {
+      "status": "careers_page_found",
+      "careers_url": "https://www.bluewhite.ai/careers",
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:40:07+00:00",
+      "company": "Bluewhite"
+    },
+    "brenmillerenergy": {
+      "status": "no_careers_page",
+      "careers_url": null,
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:40:15+00:00",
+      "company": "Brenmiller Energy"
+    },
+    "cropx": {
+      "status": "careers_page_found",
+      "careers_url": "https://cropx.com/about/careers/",
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:40:11+00:00",
+      "company": "CropX"
+    },
+    "datarails": {
+      "status": "verified_ats",
+      "careers_url": "https://www.datarails.com/company/careers/",
+      "ats": "https://job-boards.greenhouse.io/datarails",
+      "board_check": {
+        "ok": true,
+        "jobs": 12,
+        "israel_jobs": 3
+      },
+      "checked_at": "2026-11-17T13:40:07+00:00",
+      "company": "Datarails"
+    },
+    "electreon": {
+      "status": "verified_ats",
+      "careers_url": "https://electreon.com/about-us/careers/",
+      "ats": "https://job-boards.greenhouse.io/electreon",
+      "board_check": {
+        "ok": true,
+        "jobs": 7,
+        "israel_jobs": 2
+      },
+      "checked_at": "2026-11-17T13:40:09+00:00",
+      "company": "Electreon"
+    },
+    "energix": {
+      "status": "unreachable",
+      "careers_url": null,
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:40:11+00:00",
+      "company": "Energix"
+    },
+    "grid4c": {
+      "status": "unreachable",
+      "careers_url": null,
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:40:11+00:00",
+      "company": "Grid4C"
+    },
+    "groundcover": {
+      "status": "careers_page_found",
+      "careers_url": "https://www.groundcover.com/careers",
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:40:16+00:00",
+      "company": "Groundcover"
+    },
+    "h2pro": {
+      "status": "careers_page_found",
+      "careers_url": "https://www.h2pro.co/careers",
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:40:15+00:00",
+      "company": "H2Pro"
+    },
+    "healthyio": {
+      "status": "verified_ats",
+      "careers_url": "https://healthy.io/eu/careers/",
+      "ats": "https://www.comeet.com/jobs/healthy/B4.004",
+      "board_check": {
+        "ok": true,
+        "jobs": null,
+        "israel_jobs": null
+      },
+      "checked_at": "2026-11-17T13:40:14+00:00",
+      "company": "Healthy.io"
+    },
+    "khealth": {
+      "status": "verified_ats",
+      "careers_url": "https://www.khealth.com/careers",
+      "ats": "https://job-boards.greenhouse.io/khealthcareers",
+      "board_check": {
+        "ok": true,
+        "jobs": 15,
+        "israel_jobs": 2
+      },
+      "checked_at": "2026-11-17T13:40:14+00:00",
+      "company": "K Health"
+    },
+    "logzio": {
+      "status": "verified_ats",
+      "careers_url": "https://logz.io/careers/",
+      "ats": "https://jobs.lever.co/logz",
+      "board_check": {
+        "ok": true,
+        "jobs": 3,
+        "israel_jobs": 2
+      },
+      "checked_at": "2026-11-17T13:40:20+00:00",
+      "company": "Logz.io"
+    },
+    "netafim": {
+      "status": "careers_page_found",
+      "careers_url": "https://careers.netafim.com/",
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:40:19+00:00",
+      "company": "Netafim"
+    },
+    "nostromoenergy": {
+      "status": "no_careers_page",
+      "careers_url": null,
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:40:22+00:00",
+      "company": "Nostromo Energy"
+    },
+    "ormat": {
+      "status": "no_careers_page",
+      "careers_url": null,
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:40:24+00:00",
+      "company": "Ormat Technologies"
+    },
+    "quanthealth": {
+      "status": "verified_ats",
+      "careers_url": "https://quanthealth.ai/careers",
+      "ats": "https://job-boards.greenhouse.io/quanthealth",
+      "board_check": {
+        "ok": true,
+        "jobs": 1,
+        "israel_jobs": 1
+      },
+      "checked_at": "2026-11-17T13:40:17+00:00",
+      "company": "QuantHealth"
+    },
+    "storedot": {
+      "status": "careers_page_found",
+      "careers_url": "https://store-dot.com/careers.html",
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:40:20+00:00",
+      "company": "StoreDot"
+    },
+    "teralight": {
+      "status": "no_careers_page",
+      "careers_url": null,
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:40:28+00:00",
+      "company": "TeraLight"
+    },
+    "tomorrowio": {
+      "status": "careers_page_found",
+      "careers_url": "https://www.tomorrow.io/careers/",
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:40:27+00:00",
+      "company": "Tomorrow.io"
+    },
+    "trigo": {
+      "status": "careers_page_found",
+      "careers_url": "https://www.trigoretail.com/career/",
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:40:30+00:00",
+      "company": "Trigo"
+    },
+    "ubqmaterials": {
+      "status": "careers_page_found",
+      "careers_url": "https://www.ubqmaterials.com/careers/",
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:40:32+00:00",
+      "company": "UBQ Materials"
+    },
+    "vayyar": {
+      "status": "careers_page_found",
+      "careers_url": "https://apply.workable.com/vayyar/",
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:40:29+00:00",
+      "company": "Vayyar Imaging"
+    },
+    "watergen": {
+      "status": "no_careers_page",
+      "careers_url": null,
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:40:26+00:00",
+      "company": "Watergen"
+    },
+    "weka": {
+      "status": "careers_page_found",
+      "careers_url": "https://www.weka.io/careers",
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:40:28+00:00",
+      "company": "WEKA"
+    },
+    "zutacore": {
+      "status": "careers_page_found",
+      "careers_url": "https://zutacore.com/careers/",
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:40:31+00:00",
+      "company": "ZutaCore"
+    },
+    "air": {
+      "status": "no_careers_page",
+      "careers_url": null,
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:40:31+00:00",
+      "company": "AIR"
+    },
+    "aivf": {
+      "status": "unreachable",
+      "careers_url": null,
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:40:32+00:00",
+      "company": "AIVF"
+    },
+    "alta": {
+      "status": "verified_ats",
+      "careers_url": "https://careers.altahq.com/",
+      "ats": "https://job-boards.greenhouse.io/alta",
+      "board_check": {
+        "ok": true,
+        "jobs": 7,
+        "israel_jobs": 4
+      },
+      "checked_at": "2026-11-17T13:40:30+00:00",
+      "company": "Alta"
+    },
+    "apiiro": {
+      "status": "verified_ats",
+      "careers_url": "https://apiiro.com/careers",
+      "ats": "https://job-boards.greenhouse.io/apiiro",
+      "board_check": {
+        "ok": true,
+        "jobs": 4,
+        "israel_jobs": 4
+      },
+      "checked_at": "2026-11-17T13:40:29+00:00",
+      "company": "Apiiro"
+    },
+    "arbe": {
+      "status": "verified_ats",
+      "careers_url": "https://arberobotics.com/career/",
+      "ats": "comeet-api:C6.001:6C12886D821B0414432886144328862F472F47",
+      "board_check": {
+        "ok": true,
+        "jobs": 8,
+        "israel_jobs": 7
+      },
+      "checked_at": "2026-11-17T13:40:31+00:00",
+      "company": "Arbe Robotics"
+    },
+    "biobee": {
+      "status": "no_careers_page",
+      "careers_url": null,
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:40:33+00:00",
+      "company": "BioBee"
+    },
+    "bionichive": {
+      "status": "careers_page_found",
+      "careers_url": "https://bionichive.com/company/careers/",
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:40:39+00:00",
+      "company": "BionicHIVE"
+    },
+    "cajarobotics": {
+      "status": "no_careers_page",
+      "careers_url": null,
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:40:37+00:00",
+      "company": "Caja Robotics"
+    },
+    "chakratec": {
+      "status": "no_careers_page",
+      "careers_url": null,
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:40:34+00:00",
+      "company": "Chakratec"
+    },
+    "did": {
+      "status": "careers_page_found",
+      "careers_url": "https://www.d-id.com/careers/",
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:40:36+00:00",
+      "company": "D-ID"
+    },
+    "decart": {
+      "status": "no_careers_page",
+      "careers_url": null,
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:40:35+00:00",
+      "company": "Decart"
+    },
+    "drivenets": {
+      "status": "careers_page_found",
+      "careers_url": "https://drivenets.com/careers/",
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:40:46+00:00",
+      "company": "DriveNets"
+    },
+    "ecowavepower": {
+      "status": "careers_page_found",
+      "careers_url": "https://www.ecowavepower.com/about/careers/",
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:40:40+00:00",
+      "company": "Eco Wave Power"
+    },
+    "edfrenewables": {
+      "status": "unreachable",
+      "careers_url": null,
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:40:42+00:00",
+      "company": "EDF Renewables Israel"
+    },
+    "elementor": {
+      "status": "verified_ats",
+      "careers_url": "https://elementor.careers/explore/",
+      "ats": "comeet-api:A3.00F:3AF126BB0D161A3AF161A00B0D126B",
+      "board_check": {
+        "ok": true,
+        "jobs": 1,
+        "israel_jobs": 1
+      },
+      "checked_at": "2026-11-17T13:40:36+00:00",
+      "company": "Elementor"
+    },
+    "eleoshealth": {
+      "status": "verified_ats",
+      "careers_url": "https://eleos.health/career/",
+      "ats": "https://job-boards.greenhouse.io/eleoshealth",
+      "board_check": {
+        "ok": true,
+        "jobs": 19,
+        "israel_jobs": 9
+      },
+      "checked_at": "2026-11-17T13:40:38+00:00",
+      "company": "Eleos Health"
+    },
+    "ellomaycapital": {
+      "status": "no_careers_page",
+      "careers_url": null,
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:40:46+00:00",
+      "company": "Ellomay Capital"
+    },
+    "eon": {
+      "status": "verified_ats",
+      "careers_url": "https://www.eon.io/careers",
+      "ats": "https://job-boards.greenhouse.io/eonio",
+      "board_check": {
+        "ok": true,
+        "jobs": 31,
+        "israel_jobs": 2
+      },
+      "checked_at": "2026-11-17T13:40:38+00:00",
+      "company": "Eon"
+    },
+    "firebolt": {
+      "status": "verified_ats",
+      "careers_url": "https://www.firebolt.io/careers",
+      "ats": "https://www.comeet.com/jobs/firebolt/26.004",
+      "board_check": {
+        "ok": true,
+        "jobs": null,
+        "israel_jobs": null
+      },
+      "checked_at": "2026-11-17T13:40:40+00:00",
+      "company": "Firebolt"
+    },
+    "foretellix": {
+      "status": "careers_page_found",
+      "careers_url": "https://www.foretellix.com/career/",
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:40:42+00:00",
+      "company": "Foretellix"
+    },
+    "gauzy": {
+      "status": "careers_page_found",
+      "careers_url": "https://www.gauzy.com/careers/",
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:40:49+00:00",
+      "company": "Gauzy"
+    },
+    "gencell": {
+      "status": "careers_page_found",
+      "careers_url": "https://www.gencellenergy.com/careers/",
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:40:44+00:00",
+      "company": "GenCell"
+    },
+    "guardio": {
+      "status": "verified_ats",
+      "careers_url": "https://guard.io/careers",
+      "ats": "https://www.comeet.com/jobs/guardio/57.000",
+      "board_check": {
+        "ok": true,
+        "jobs": null,
+        "israel_jobs": null
+      },
+      "checked_at": "2026-11-17T13:40:42+00:00",
+      "company": "Guardio"
+    },
+    "ibexmedicalanalytics": {
+      "status": "unreachable",
+      "careers_url": null,
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:40:49+00:00",
+      "company": "Ibex Medical Analytics"
+    },
+    "imageneai": {
+      "status": "verified_ats",
+      "careers_url": "https://imagene-ai.com/careers/",
+      "ats": "comeet-api:D7.000:7D02EE01F402710271004650177001770",
+      "board_check": {
+        "ok": true,
+        "jobs": 7,
+        "israel_jobs": 5
+      },
+      "checked_at": "2026-11-17T13:40:47+00:00",
+      "company": "Imagene AI"
+    },
+    "irregular": {
+      "status": "verified_ats",
+      "careers_url": "https://www.irregular.com/",
+      "ats": "https://jobs.ashbyhq.com/Irregular",
+      "board_check": {
+        "ok": true,
+        "jobs": 11,
+        "israel_jobs": 11
+      },
+      "checked_at": "2026-11-17T13:40:44+00:00",
+      "company": "Irregular"
+    },
+    "layerx": {
+      "status": "unreachable",
+      "careers_url": null,
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:40:46+00:00",
+      "company": "LayerX"
+    },
+    "massivit3d": {
+      "status": "careers_page_found",
+      "careers_url": "https://www.massivit3d.com/career/",
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:40:50+00:00",
+      "company": "Massivit 3D"
+    },
+    "memed": {
+      "status": "careers_page_found",
+      "careers_url": "https://www.me-med.com/careers/",
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:40:51+00:00",
+      "company": "MeMed"
+    },
+    "miggosecurity": {
+      "status": "no_careers_page",
+      "careers_url": null,
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:40:53+00:00",
+      "company": "Miggo Security"
+    },
+    "momentick": {
+      "status": "no_careers_page",
+      "careers_url": null,
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:40:50+00:00",
+      "company": "Momentick"
+    },
+    "nanodimension": {
+      "status": "careers_page_found",
+      "careers_url": "https://www.nano-di.com/careers",
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:40:52+00:00",
+      "company": "Nano Dimension"
+    },
+    "nivai": {
+      "status": "no_careers_page",
+      "careers_url": null,
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:40:53+00:00",
+      "company": "Niv-AI"
+    },
+    "nomasecurity": {
+      "status": "careers_page_found",
+      "careers_url": "https://noma.security/careers",
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:40:57+00:00",
+      "company": "Noma Security"
+    },
+    "notch": {
+      "status": "careers_page_found",
+      "careers_url": "https://www.notch.cx/careers",
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:40:52+00:00",
+      "company": "Notch"
+    },
+    "nucleai": {
+      "status": "unreachable",
+      "careers_url": null,
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:40:53+00:00",
+      "company": "Nucleai"
+    },
+    "onezerobank": {
+      "status": "unreachable",
+      "careers_url": null,
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:40:55+00:00",
+      "company": "One Zero Bank"
+    },
+    "orchidsecurity": {
+      "status": "careers_page_found",
+      "careers_url": "https://www.orchid.security/careers",
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:40:58+00:00",
+      "company": "Orchid Security"
+    },
+    "payem": {
+      "status": "careers_page_found",
+      "careers_url": "https://www.payem.co/careers",
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:40:56+00:00",
+      "company": "PayEm"
+    },
+    "phinergy": {
+      "status": "careers_page_found",
+      "careers_url": "https://phinergy.com/careers/",
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:40:56+00:00",
+      "company": "Phinergy"
+    },
+    "qodo": {
+      "status": "careers_page_found",
+      "careers_url": "https://www.qodo.ai/careers/",
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:40:56+00:00",
+      "company": "Qodo"
+    },
+    "reeautomotive": {
+      "status": "unreachable",
+      "careers_url": null,
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:40:59+00:00",
+      "company": "REE Automotive"
+    },
+    "remepy": {
+      "status": "careers_page_found",
+      "careers_url": "https://www.remepy.com/careers",
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:40:56+00:00",
+      "company": "Remepy"
+    },
+    "saltsecurity": {
+      "status": "verified_ats",
+      "careers_url": "https://salt.security/careers",
+      "ats": "https://job-boards.greenhouse.io/saltsecurity",
+      "board_check": {
+        "ok": true,
+        "jobs": 10,
+        "israel_jobs": 1
+      },
+      "checked_at": "2026-11-17T13:40:57+00:00",
+      "company": "Salt Security"
+    },
+    "scopio": {
+      "status": "verified_ats",
+      "careers_url": "https://scopiolabs.com/careers/",
+      "ats": "comeet-api:87.00C:78C2D481E30025BC43EC025BC43EC78C",
+      "board_check": {
+        "ok": true,
+        "jobs": 0,
+        "israel_jobs": 0
+      },
+      "checked_at": "2026-11-17T13:40:59+00:00",
+      "company": "Scopio Labs"
+    },
+    "seetree": {
+      "status": "no_careers_page",
+      "careers_url": null,
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:41:00+00:00",
+      "company": "SeeTree"
+    },
+    "sentra": {
+      "status": "careers_page_found",
+      "careers_url": "https://sentra.io/careers",
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:41:01+00:00",
+      "company": "Sentra"
+    },
+    "shikunbinuienergy": {
+      "status": "careers_page_found",
+      "careers_url": "https://careers.shikunbinui.com/",
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:41:50+00:00",
+      "company": "Shikun & Binui Energy"
+    },
+    "siemens": {
+      "status": "careers_page_found",
+      "careers_url": "https://www.siemens.com/en-us/company/jobs/",
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:41:09+00:00",
+      "company": "Siemens Israel"
+    },
+    "solutum": {
+      "status": "no_careers_page",
+      "careers_url": null,
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:41:01+00:00",
+      "company": "Solutum"
+    },
+    "sqream": {
+      "status": "careers_page_found",
+      "careers_url": "https://sqream.com/careers/",
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:41:02+00:00",
+      "company": "SQream"
+    },
+    "supplant": {
+      "status": "no_careers_page",
+      "careers_url": null,
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:41:02+00:00",
+      "company": "SupPlant"
+    },
+    "tastewise": {
+      "status": "verified_ats",
+      "careers_url": "https://tastewise.io/careers",
+      "ats": "comeet-api:F8.000:8F035A047802CB047803E90478035A001AD0",
+      "board_check": {
+        "ok": true,
+        "jobs": 0,
+        "israel_jobs": 0
+      },
+      "checked_at": "2026-11-17T13:41:02+00:00",
+      "company": "Tastewise"
+    },
+    "teads": {
+      "status": "careers_page_found",
+      "careers_url": "https://www.teads.com/teads-careers/",
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:41:04+00:00",
+      "company": "Teads (formerly Outbrain)"
+    },
+    "tipa": {
+      "status": "verified_ats",
+      "careers_url": "https://tipa-corp.com/careers/",
+      "ats": "comeet-api:87.008:7882D30169843C843C81698025A81E2043C8",
+      "board_check": {
+        "ok": true,
+        "jobs": 2,
+        "israel_jobs": 0
+      },
+      "checked_at": "2026-11-17T13:41:02+00:00",
+      "company": "TIPA"
+    },
+    "treetoscope": {
+      "status": "no_careers_page",
+      "careers_url": null,
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:41:05+00:00",
+      "company": "Treetoscope"
+    },
+    "ultrasight": {
+      "status": "no_careers_page",
+      "careers_url": null,
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:41:05+00:00",
+      "company": "UltraSight"
+    },
+    "xsight": {
+      "status": "careers_page_found",
+      "careers_url": "https://xsightlabs.com/careers",
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:41:10+00:00",
+      "company": "Xsight Labs"
+    },
+    "zoozpower": {
+      "status": "no_careers_page",
+      "careers_url": null,
+      "ats": null,
+      "board_check": null,
+      "checked_at": "2026-11-17T13:41:07+00:00",
+      "company": "ZOOZ Power"
+    }
+  },
+  "updated_at": "2026-11-17T13:41:50+00:00"
+}

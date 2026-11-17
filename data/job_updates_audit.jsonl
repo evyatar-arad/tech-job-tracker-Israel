@@ -1,0 +1,99 @@
+{"at": "2026-11-17T13:39:42+00:00", "event": "watchlist_import", "source": "company_watchlist_seed.json", "added": 202, "updated": 0, "total": 202}
+{"at": "2026-11-17T13:40:03+00:00", "event": "watchlist_verification", "company": "Addionics", "old": null, "new": "no_careers_page"}
+{"at": "2026-11-17T13:40:07+00:00", "event": "watchlist_verification", "company": "Doral Energy", "old": null, "new": "careers_page_found"}
+{"at": "2026-11-17T13:40:07+00:00", "event": "watchlist_verification", "company": "Ecoppia", "old": null, "new": "careers_page_found"}
+{"at": "2026-11-17T13:40:07+00:00", "event": "watchlist_verification", "company": "Enlight Renewable Energy", "old": null, "new": "verified_ats"}
+{"at": "2026-11-17T13:40:07+00:00", "event": "watchlist_verification", "company": "Finout", "old": null, "new": "verified_ats"}
+{"at": "2026-11-17T13:40:07+00:00", "event": "watchlist_verification", "company": "Guesty", "old": null, "new": "careers_page_found"}
+{"at": "2026-11-17T13:40:07+00:00", "event": "watchlist_verification", "company": "Matia", "old": null, "new": "verified_ats"}
+{"at": "2026-11-17T13:40:12+00:00", "event": "watchlist_verification", "company": "Nofar Energy", "old": null, "new": "careers_page_found"}
+{"at": "2026-11-17T13:40:12+00:00", "event": "watchlist_verification", "company": "ThetaRay", "old": null, "new": "verified_ats"}
+{"at": "2026-11-17T13:40:18+00:00", "event": "watchlist_verification", "company": "WINT Water Intelligence", "old": null, "new": "careers_page_found"}
+{"at": "2026-11-17T13:40:18+00:00", "event": "watchlist_verification", "company": "BloomX", "old": null, "new": "unreachable"}
+{"at": "2026-11-17T13:40:18+00:00", "event": "watchlist_verification", "company": "Bluewhite", "old": null, "new": "careers_page_found"}
+{"at": "2026-11-17T13:40:18+00:00", "event": "watchlist_verification", "company": "Brenmiller Energy", "old": null, "new": "no_careers_page"}
+{"at": "2026-11-17T13:40:18+00:00", "event": "watchlist_verification", "company": "CropX", "old": null, "new": "careers_page_found"}
+{"at": "2026-11-17T13:40:18+00:00", "event": "watchlist_verification", "company": "Datarails", "old": null, "new": "verified_ats"}
+{"at": "2026-11-17T13:40:18+00:00", "event": "watchlist_verification", "company": "Electreon", "old": null, "new": "verified_ats"}
+{"at": "2026-11-17T13:40:18+00:00", "event": "watchlist_verification", "company": "Energix", "old": null, "new": "unreachable"}
+{"at": "2026-11-17T13:40:18+00:00", "event": "watchlist_verification", "company": "Grid4C", "old": null, "new": "unreachable"}
+{"at": "2026-11-17T13:40:18+00:00", "event": "watchlist_verification", "company": "Groundcover", "old": null, "new": "careers_page_found"}
+{"at": "2026-11-17T13:40:18+00:00", "event": "watchlist_verification", "company": "H2Pro", "old": null, "new": "careers_page_found"}
+{"at": "2026-11-17T13:40:18+00:00", "event": "watchlist_verification", "company": "Healthy.io", "old": null, "new": "verified_ats"}
+{"at": "2026-11-17T13:40:18+00:00", "event": "watchlist_verification", "company": "K Health", "old": null, "new": "verified_ats"}
+{"at": "2026-11-17T13:40:20+00:00", "event": "watchlist_verification", "company": "Logz.io", "old": null, "new": "verified_ats"}
+{"at": "2026-11-17T13:40:20+00:00", "event": "watchlist_verification", "company": "Netafim", "old": null, "new": "careers_page_found"}
+{"at": "2026-11-17T13:40:22+00:00", "event": "watchlist_verification", "company": "Nostromo Energy", "old": null, "new": "no_careers_page"}
+{"at": "2026-11-17T13:40:24+00:00", "event": "watchlist_verification", "company": "Ormat Technologies", "old": null, "new": "no_careers_page"}
+{"at": "2026-11-17T13:40:24+00:00", "event": "watchlist_verification", "company": "QuantHealth", "old": null, "new": "verified_ats"}
+{"at": "2026-11-17T13:40:24+00:00", "event": "watchlist_verification", "company": "StoreDot", "old": null, "new": "careers_page_found"}
+{"at": "2026-11-17T13:40:28+00:00", "event": "watchlist_verification", "company": "TeraLight", "old": null, "new": "no_careers_page"}
+{"at": "2026-11-17T13:40:28+00:00", "event": "watchlist_verification", "company": "Tomorrow.io", "old": null, "new": "careers_page_found"}
+{"at": "2026-11-17T13:40:30+00:00", "event": "watchlist_verification", "company": "Trigo", "old": null, "new": "careers_page_found"}
+{"at": "2026-11-17T13:40:32+00:00", "event": "watchlist_verification", "company": "UBQ Materials", "old": null, "new": "careers_page_found"}
+{"at": "2026-11-17T13:40:32+00:00", "event": "watchlist_verification", "company": "Vayyar Imaging", "old": null, "new": "careers_page_found"}
+{"at": "2026-11-17T13:40:32+00:00", "event": "watchlist_verification", "company": "Watergen", "old": null, "new": "no_careers_page"}
+{"at": "2026-11-17T13:40:33+00:00", "event": "watchlist_verification", "company": "WEKA", "old": null, "new": "careers_page_found"}
+{"at": "2026-11-17T13:40:33+00:00", "event": "watchlist_verification", "company": "ZutaCore", "old": null, "new": "careers_page_found"}
+{"at": "2026-11-17T13:40:33+00:00", "event": "watchlist_verification", "company": "AIR", "old": null, "new": "no_careers_page"}
+{"at": "2026-11-17T13:40:33+00:00", "event": "watchlist_verification", "company": "AIVF", "old": null, "new": "unreachable"}
+{"at": "2026-11-17T13:40:33+00:00", "event": "watchlist_verification", "company": "Alta", "old": null, "new": "verified_ats"}
+{"at": "2026-11-17T13:40:33+00:00", "event": "watchlist_verification", "company": "Apiiro", "old": null, "new": "verified_ats"}
+{"at": "2026-11-17T13:40:33+00:00", "event": "watchlist_verification", "company": "Arbe Robotics", "old": null, "new": "verified_ats"}
+{"at": "2026-11-17T13:40:33+00:00", "event": "watchlist_verification", "company": "BioBee", "old": null, "new": "no_careers_page"}
+{"at": "2026-11-17T13:40:39+00:00", "event": "watchlist_verification", "company": "BionicHIVE", "old": null, "new": "careers_page_found"}
+{"at": "2026-11-17T13:40:39+00:00", "event": "watchlist_verification", "company": "Caja Robotics", "old": null, "new": "no_careers_page"}
+{"at": "2026-11-17T13:40:39+00:00", "event": "watchlist_verification", "company": "Chakratec", "old": null, "new": "no_careers_page"}
+{"at": "2026-11-17T13:40:39+00:00", "event": "watchlist_verification", "company": "D-ID", "old": null, "new": "careers_page_found"}
+{"at": "2026-11-17T13:40:39+00:00", "event": "watchlist_verification", "company": "Decart", "old": null, "new": "no_careers_page"}
+{"at": "2026-11-17T13:40:46+00:00", "event": "watchlist_verification", "company": "DriveNets", "old": null, "new": "careers_page_found"}
+{"at": "2026-11-17T13:40:46+00:00", "event": "watchlist_verification", "company": "Eco Wave Power", "old": null, "new": "careers_page_found"}
+{"at": "2026-11-17T13:40:46+00:00", "event": "watchlist_verification", "company": "EDF Renewables Israel", "old": null, "new": "unreachable"}
+{"at": "2026-11-17T13:40:46+00:00", "event": "watchlist_verification", "company": "Elementor", "old": null, "new": "verified_ats"}
+{"at": "2026-11-17T13:40:46+00:00", "event": "watchlist_verification", "company": "Eleos Health", "old": null, "new": "verified_ats"}
+{"at": "2026-11-17T13:40:46+00:00", "event": "watchlist_verification", "company": "Ellomay Capital", "old": null, "new": "no_careers_page"}
+{"at": "2026-11-17T13:40:46+00:00", "event": "watchlist_verification", "company": "Eon", "old": null, "new": "verified_ats"}
+{"at": "2026-11-17T13:40:46+00:00", "event": "watchlist_verification", "company": "Firebolt", "old": null, "new": "verified_ats"}
+{"at": "2026-11-17T13:40:46+00:00", "event": "watchlist_verification", "company": "Foretellix", "old": null, "new": "careers_page_found"}
+{"at": "2026-11-17T13:40:49+00:00", "event": "watchlist_verification", "company": "Gauzy", "old": null, "new": "careers_page_found"}
+{"at": "2026-11-17T13:40:49+00:00", "event": "watchlist_verification", "company": "GenCell", "old": null, "new": "careers_page_found"}
+{"at": "2026-11-17T13:40:49+00:00", "event": "watchlist_verification", "company": "Guardio", "old": null, "new": "verified_ats"}
+{"at": "2026-11-17T13:40:49+00:00", "event": "watchlist_verification", "company": "Ibex Medical Analytics", "old": null, "new": "unreachable"}
+{"at": "2026-11-17T13:40:49+00:00", "event": "watchlist_verification", "company": "Imagene AI", "old": null, "new": "verified_ats"}
+{"at": "2026-11-17T13:40:49+00:00", "event": "watchlist_verification", "company": "Irregular", "old": null, "new": "verified_ats"}
+{"at": "2026-11-17T13:40:49+00:00", "event": "watchlist_verification", "company": "LayerX", "old": null, "new": "unreachable"}
+{"at": "2026-11-17T13:40:50+00:00", "event": "watchlist_verification", "company": "Massivit 3D", "old": null, "new": "careers_page_found"}
+{"at": "2026-11-17T13:40:51+00:00", "event": "watchlist_verification", "company": "MeMed", "old": null, "new": "careers_page_found"}
+{"at": "2026-11-17T13:40:53+00:00", "event": "watchlist_verification", "company": "Miggo Security", "old": null, "new": "no_careers_page"}
+{"at": "2026-11-17T13:40:53+00:00", "event": "watchlist_verification", "company": "Momentick", "old": null, "new": "no_careers_page"}
+{"at": "2026-11-17T13:40:53+00:00", "event": "watchlist_verification", "company": "Nano Dimension", "old": null, "new": "careers_page_found"}
+{"at": "2026-11-17T13:40:53+00:00", "event": "watchlist_verification", "company": "Niv-AI", "old": null, "new": "no_careers_page"}
+{"at": "2026-11-17T13:40:57+00:00", "event": "watchlist_verification", "company": "Noma Security", "old": null, "new": "careers_page_found"}
+{"at": "2026-11-17T13:40:57+00:00", "event": "watchlist_verification", "company": "Notch", "old": null, "new": "careers_page_found"}
+{"at": "2026-11-17T13:40:57+00:00", "event": "watchlist_verification", "company": "Nucleai", "old": null, "new": "unreachable"}
+{"at": "2026-11-17T13:40:57+00:00", "event": "watchlist_verification", "company": "One Zero Bank", "old": null, "new": "unreachable"}
+{"at": "2026-11-17T13:40:58+00:00", "event": "watchlist_verification", "company": "Orchid Security", "old": null, "new": "careers_page_found"}
+{"at": "2026-11-17T13:40:58+00:00", "event": "watchlist_verification", "company": "PayEm", "old": null, "new": "careers_page_found"}
+{"at": "2026-11-17T13:40:58+00:00", "event": "watchlist_verification", "company": "Phinergy", "old": null, "new": "careers_page_found"}
+{"at": "2026-11-17T13:40:58+00:00", "event": "watchlist_verification", "company": "Qodo", "old": null, "new": "careers_page_found"}
+{"at": "2026-11-17T13:40:59+00:00", "event": "watchlist_verification", "company": "REE Automotive", "old": null, "new": "unreachable"}
+{"at": "2026-11-17T13:40:59+00:00", "event": "watchlist_verification", "company": "Remepy", "old": null, "new": "careers_page_found"}
+{"at": "2026-11-17T13:40:59+00:00", "event": "watchlist_verification", "company": "Salt Security", "old": null, "new": "verified_ats"}
+{"at": "2026-11-17T13:40:59+00:00", "event": "watchlist_verification", "company": "Scopio Labs", "old": null, "new": "verified_ats"}
+{"at": "2026-11-17T13:41:00+00:00", "event": "watchlist_verification", "company": "SeeTree", "old": null, "new": "no_careers_page"}
+{"at": "2026-11-17T13:41:01+00:00", "event": "watchlist_verification", "company": "Sentra", "old": null, "new": "careers_page_found"}
+{"at": "2026-11-17T13:41:10+00:00", "event": "watchlist_verification", "company": "Shikun & Binui Energy", "old": null, "new": "careers_page_found"}
+{"at": "2026-11-17T13:41:10+00:00", "event": "watchlist_verification", "company": "Siemens Israel", "old": null, "new": "careers_page_found"}
+{"at": "2026-11-17T13:41:10+00:00", "event": "watchlist_verification", "company": "Solutum", "old": null, "new": "no_careers_page"}
+{"at": "2026-11-17T13:41:10+00:00", "event": "watchlist_verification", "company": "SQream", "old": null, "new": "careers_page_found"}
+{"at": "2026-11-17T13:41:10+00:00", "event": "watchlist_verification", "company": "SupPlant", "old": null, "new": "no_careers_page"}
+{"at": "2026-11-17T13:41:10+00:00", "event": "watchlist_verification", "company": "Tastewise", "old": null, "new": "verified_ats"}
+{"at": "2026-11-17T13:41:10+00:00", "event": "watchlist_verification", "company": "Teads (formerly Outbrain)", "old": null, "new": "careers_page_found"}
+{"at": "2026-11-17T13:41:10+00:00", "event": "watchlist_verification", "company": "TIPA", "old": null, "new": "verified_ats"}
+{"at": "2026-11-17T13:41:10+00:00", "event": "watchlist_verification", "company": "Treetoscope", "old": null, "new": "no_careers_page"}
+{"at": "2026-11-17T13:41:10+00:00", "event": "watchlist_verification", "company": "UltraSight", "old": null, "new": "no_careers_page"}
+{"at": "2026-11-17T13:41:10+00:00", "event": "watchlist_verification", "company": "Xsight Labs", "old": null, "new": "careers_page_found"}
+{"at": "2026-11-17T13:41:10+00:00", "event": "watchlist_verification", "company": "ZOOZ Power", "old": null, "new": "no_careers_page"}
+{"at": "2026-11-17T13:49:41+00:00", "event": "seen_jobs_migration_v2", "archive": "data\\archive\\seen_jobs.pre_v2.a99c501ebe04.json", "archive_sha256": "a99c501ebe048ec065ff6e67b8d34e39e247cd62dd93951076f434e6c5ab61c4", "input_records": 88, "output_records": 88, "status_counts": {"active": 60, "duplicate": 8, "quarantined": 20}, "report": "data\\migration_reports\\seen_jobs_migration_20261117_154941.json"}
+{"at": "2026-11-17T13:56:26+00:00", "event": "seen_jobs_migration_v2", "archive": "data/archive/seen_jobs.before_migrate.0e2bf0789daf.json", "archive_sha256": "0e2bf0789dafd5b5148f8f57e6b5e17d47ff379017628cd1222b1ed5fdbc4d36", "input_records": 88, "output_records": 88, "status_counts": {"active": 60, "duplicate": 8, "quarantined": 20}, "report": "data/migration_reports/seen_jobs_migration_20261117_155625.json"}
+{"at": "2026-11-17T14:12:09+00:00", "event": "registry_companies_removed", "reason": "user request: no banks or defense companies", "removed": [{"name": "Bank Leumi", "career_url": "https://www.leumi.co.il/he/about-leumi/Career", "ats": null}, {"name": "Commtact", "career_url": "https://commtact-systems.com/career/", "ats": null}, {"name": "DRS Rada", "career_url": "https://www.drsrada.com/careers", "ats": null}, {"name": "Elbit Systems Ltd", "career_url": "https://elbitsystemscareer.com/", "ats": null}, {"name": "IAI", "career_url": "https://jobs.iai.co.il/jobs/", "ats": null}, {"name": "Israel Discount Bank", "career_url": "https://www.comeet.com/jobs/dbank/F8.004?coref=1.10.sD6_642", "ats": "https://www.comeet.com/jobs/dbank/F8.004"}, {"name": "Leidos", "career_url": "https://careers.leidos.com/", "ats": null}, {"name": "Rafael", "career_url": "https://career.rafael.co.il/", "ats": null}]}

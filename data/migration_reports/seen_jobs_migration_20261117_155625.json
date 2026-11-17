@@ -1,0 +1,318 @@
+{
+  "generated_at": "2026-11-17T13:56:25+00:00",
+  "input_records": 88,
+  "output_records": 88,
+  "unique_job_keys": 79,
+  "status_counts": {
+    "active": 60,
+    "duplicate": 8,
+    "quarantined": 20
+  },
+  "duplicate_groups": [
+    {
+      "job_key": "ats:comeet:earnix:79.47A",
+      "indices": [
+        0,
+        21
+      ],
+      "titles": [
+        "Automation Engineer - Student PositionRamat Gan, Israel",
+        "Automation Engineer - Student Position Ramat Gan, Israel"
+      ],
+      "canonical_index": 0
+    },
+    {
+      "job_key": "ats:comeet:earnix:E5.470",
+      "indices": [
+        1,
+        22
+      ],
+      "titles": [
+        "Full-Stack Developer  - Maternity Leave Replacement (8 months)Ramat Gan, Israel",
+        "Full-Stack Developer  - Maternity Leave Replacement (8 months) Ramat Gan, Israel"
+      ],
+      "canonical_index": 1
+    },
+    {
+      "job_key": "ats:comeet:earnix:B7.372",
+      "indices": [
+        2,
+        23
+      ],
+      "titles": [
+        "Junior Automation and Frontend  Developer - Maternity Leave Replacement (6 months)Ramat Gan, Israel",
+        "Junior Automation and Frontend  Developer - Maternity Leave Replacement (6 months) Ramat Gan, Israel"
+      ],
+      "canonical_index": 2
+    },
+    {
+      "job_key": "ats:greenhouse:nextinsurance66/7805602003",
+      "indices": [
+        9,
+        37,
+        84
+      ],
+      "titles": [
+        "Frontend EngineerKfar Saba, Israel",
+        "Frontend Engineer Kfar Saba, Israel",
+        "Frontend Engineer"
+      ],
+      "canonical_index": 9
+    },
+    {
+      "job_key": "ats:greenhouse:nextinsurance66/7979090003",
+      "indices": [
+        10,
+        38
+      ],
+      "titles": [
+        "Graduate Frontend / Full Stack Software Engineer – UpNEXT ProgramKfar Saba, Israel",
+        "Graduate Frontend / Full Stack Software Engineer – UpNEXT Program Kfar Saba, Israel"
+      ],
+      "canonical_index": 10
+    },
+    {
+      "job_key": "ats:greenhouse:wedev/4871703101",
+      "indices": [
+        11,
+        40,
+        85
+      ],
+      "titles": [
+        "Junior Fullstack Software DeveloperHolon, Israel",
+        "Junior Fullstack Software Developer Holon, Israel",
+        "Junior Fullstack Software Developer"
+      ],
+      "canonical_index": 11
+    },
+    {
+      "job_key": "fb:d74c769968778d516bb5",
+      "indices": [
+        35,
+        36
+      ],
+      "titles": [
+        "Students & Internship",
+        "Students &\nInternship"
+      ],
+      "canonical_index": 35
+    }
+  ],
+  "shared_form_url_groups_kept_distinct": [
+    {
+      "url": "https://forms.monday.com/forms/887015da14cd8f19ac195c11bf56607e?r=use1",
+      "indices": [
+        31,
+        46,
+        47
+      ],
+      "titles": [
+        "Apply for Junior Full-Stack AI Engineer (opens in a new tab)",
+        "Apply for Full-Stack Web Developer  (opens in a new tab)",
+        "Apply for Mobile Developer (opens in a new tab)"
+      ]
+    }
+  ],
+  "quarantined": [
+    {
+      "index": 3,
+      "company": "AllJobs",
+      "title": "ה-AI לא יחליף אתכם, אבל מי ששולט בו- כן. מדריך הכשרות וכלים ל-2026",
+      "url": "https://www.alljobs.co.il/ArticlePage.aspx?LinkWord=free-ai-skills",
+      "reasons": [
+        "article_or_guide"
+      ]
+    },
+    {
+      "index": 4,
+      "company": "hailo.ai",
+      "title": "Developer Zone",
+      "url": "https://hailo.ai/authorization/?action=logout&redirect_to=%2Fdeveloper-zone%2F&_wpnonce=450debc50f",
+      "reasons": [
+        "logout_or_auth_url"
+      ]
+    },
+    {
+      "index": 5,
+      "company": "linkedin",
+      "title": "Entry-Level Roles",
+      "url": "https://careers.linkedin.com/pathways-programs/entry-level",
+      "reasons": [
+        "program_or_portal_page"
+      ]
+    },
+    {
+      "index": 6,
+      "company": "Travelier (Bookaway)",
+      "title": "Junior Supply Operation Specialist (Bangkok-based)Bangkok, ThailandSupply Operations",
+      "url": "https://www.travelier.com/careers/co/bangkok-thailand/41.371/junior-supply-operation-specialist-bangkok-based/all/",
+      "reasons": [
+        "non_israel_location"
+      ]
+    },
+    {
+      "index": 7,
+      "company": "Travelier (Bookaway)",
+      "title": "Junior Supply Operation Specialist - PhilippinesBangkok, ThailandSupply Operations",
+      "url": "https://www.travelier.com/careers/co/bangkok-thailand/52.374/junior-supply-operation-specialist-philippines/all/",
+      "reasons": [
+        "non_israel_location"
+      ]
+    },
+    {
+      "index": 15,
+      "company": "AllJobs",
+      "title": "דרושים Data Analyst",
+      "url": "https://www.alljobs.co.il/SearchResultsGuest.aspx?page=1&position=1732&type=&city=®ion=",
+      "reasons": [
+        "search_results_page"
+      ]
+    },
+    {
+      "index": 16,
+      "company": "AllJobs",
+      "title": "דרושים מפתחי Java",
+      "url": "https://www.alljobs.co.il/SearchResultsGuest.aspx?page=1&position=1153&type=&city=®ion=",
+      "reasons": [
+        "search_results_page"
+      ]
+    },
+    {
+      "index": 17,
+      "company": "AllJobs",
+      "title": "דרושים מפתחי Python",
+      "url": "https://www.alljobs.co.il/SearchResultsGuest.aspx?page=1&position=1694&type=&city=®ion=",
+      "reasons": [
+        "search_results_page"
+      ]
+    },
+    {
+      "index": 24,
+      "company": "Comblack",
+      "title": "Ai לתחום >>",
+      "url": "https://comblack.co.il/categories/ai/",
+      "reasons": [
+        "category_landing_page"
+      ]
+    },
+    {
+      "index": 25,
+      "company": "Datwise",
+      "title": "monday.com Software Development Tel Aviv, Israel",
+      "url": "https://il.linkedin.com/company/mondaydotcom?trk=similar-pages",
+      "reasons": [
+        "company_profile_page"
+      ]
+    },
+    {
+      "index": 35,
+      "company": "tower",
+      "title": "Students & Internship",
+      "url": "https://careers.towersemi.com/career-opportunities/students-internship/",
+      "reasons": [
+        "program_or_portal_page"
+      ]
+    },
+    {
+      "index": 36,
+      "company": "tower",
+      "title": "Students &\nInternship",
+      "url": "https://careers.towersemi.com/career-opportunities/students-internship/",
+      "reasons": [
+        "program_or_portal_page"
+      ]
+    },
+    {
+      "index": 41,
+      "company": "Experis (Manpower)",
+      "title": "Automation Engineer",
+      "url": "https://experis.co.il/search?search=Automation",
+      "reasons": [
+        "search_results_page"
+      ]
+    },
+    {
+      "index": 42,
+      "company": "GotFriends",
+      "title": "מפתח REACT",
+      "url": "https://www.gotfriends.co.il/jobslobby/software/react-developer/",
+      "reasons": [
+        "category_landing_page"
+      ]
+    },
+    {
+      "index": 43,
+      "company": "GotFriends",
+      "title": "Data Engineer",
+      "url": "https://www.gotfriends.co.il/jobslobby/software/data-engineer/",
+      "reasons": [
+        "category_landing_page"
+      ]
+    },
+    {
+      "index": 44,
+      "company": "GotFriends",
+      "title": "LLM Engineer",
+      "url": "https://www.gotfriends.co.il/jobslobby/ai/llm-engineer/",
+      "reasons": [
+        "category_landing_page"
+      ]
+    },
+    {
+      "index": 45,
+      "company": "GotFriends",
+      "title": "Reverse Engineer",
+      "url": "https://www.gotfriends.co.il/jobslobby/datasecurity/reverse-engineer/",
+      "reasons": [
+        "category_landing_page"
+      ]
+    },
+    {
+      "index": 48,
+      "company": "Nisha Group",
+      "title": "דרושים Java",
+      "url": "https://www.nisha.co.il/positions/java-developer/",
+      "reasons": [
+        "category_landing_page"
+      ]
+    },
+    {
+      "index": 49,
+      "company": "Nisha Group",
+      "title": "Data Engineer",
+      "url": "https://www.nisha.co.il/positions/data-engineer/",
+      "reasons": [
+        "category_landing_page"
+      ]
+    },
+    {
+      "index": 58,
+      "company": "SAP Israel",
+      "title": "Working Student (m/f/d) – Cloud Development",
+      "url": "https://jobs.sap.com/en/jobs/744000160583458/working-student-mfd-cloud-development/",
+      "reasons": [
+        "non_israel_location"
+      ]
+    }
+  ],
+  "experience_level_counts": {
+    "explicit_student": 13,
+    "explicit_junior": 32,
+    "explicit_0_2": 5,
+    "stretch_2_plus": 9,
+    "unspecified": 29,
+    "senior": 0
+  },
+  "profile_counts": {
+    "software_engineering": 83,
+    "iem_product_operations": 12
+  },
+  "quality_flag_counts": {
+    "title_noise_or_location_removed_in_display_title": 47,
+    "generic_location_israel": 43,
+    "mojibake_repaired_in_display_title": 2,
+    "shared_application_form_url": 3,
+    "title_looks_like_description_fragment": 2
+  },
+  "legacy_fields_unchanged": true
+}
