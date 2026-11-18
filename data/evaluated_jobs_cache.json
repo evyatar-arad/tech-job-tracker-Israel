@@ -7870,6 +7870,66 @@
       "title": "מיישם/ת Priority פניםארגוני/ת לחברת נדל\"ן",
       "url": "https://www.alljobs.co.il/Employer/HP/Default.aspx?cid=62877",
       "checked_at": "2026-11-18T14:56:25+00:00"
+    },
+    "fb:87214dde452ad0c35910": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: 15+ years",
+      "company": "Kaltura",
+      "title": "Partner Customer Success Manager Partnership – VAMB Remote, US",
+      "url": "https://corp.kaltura.com/careers/partner-customer-success-manager/7B.375/",
+      "checked_at": "2026-11-18T23:48:04+00:00"
+    },
+    "fb:8db0b141516366a23b12": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: 4+ years of experience",
+      "company": "Papaya Global",
+      "title": "Product Manager Location",
+      "url": "https://www.papayaglobal.com/positions/product-manager/",
+      "checked_at": "2026-11-18T23:48:04+00:00"
+    },
+    "fb:40122a9d6100d94b2290": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "ai",
+      "reason": "Experience level is unspecified and the job description contains no requirements text to confirm 0-2 years, plus location requirements may not be fully met based on generic job page.",
+      "company": "Kaltura",
+      "title": "GTM Operations Manager Operations",
+      "url": "https://corp.kaltura.com/careers/gtm-operations-manager/EE.474/",
+      "checked_at": "2026-11-18T23:48:06+00:00"
+    },
+    "fb:0c9acb4d0d89dec2f332": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "ai",
+      "reason": "Experience level is unspecified and the job posting text lacks the required requirements section.",
+      "company": "Kaltura",
+      "title": "Product Manager, Product-Led Growth Product Managment",
+      "url": "https://corp.kaltura.com/careers/product-manager-product-led-growth/63.D6B/",
+      "checked_at": "2026-11-18T23:48:06+00:00"
+    },
+    "fb:2e33cfa739a51b27bc4b": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "ai",
+      "reason": "Role is a Technical Trainer, which is not part of the target roles (excluded or non-matching).",
+      "company": "Kaltura",
+      "title": "Technical Trainer Product/Project Management",
+      "url": "https://corp.kaltura.com/careers/technical-trainer/4F.478/",
+      "checked_at": "2026-11-18T23:48:06+00:00"
+    },
+    "fb:2fb1bbd3c8bdd9e4f57f": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "ai",
+      "reason": "Requires 2+ years of specific payroll implementation or processing in the Americas and specific EOR/PEO experience, exceeding the typical general entry-level profile and outside candidate's regional payroll experience.",
+      "company": "Papaya Global",
+      "title": "Implementation Manager Location",
+      "url": "https://www.papayaglobal.com/positions/implementation-manager-56/",
+      "checked_at": "2026-11-18T23:48:06+00:00"
     }
   }
 }

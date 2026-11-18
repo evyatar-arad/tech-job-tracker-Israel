@@ -10139,5 +10139,40 @@
     "priority": null,
     "sector": "Job Board",
     "match_score": 89.0
+  },
+  {
+    "company": "Drushim",
+    "title": "רכז/ת תפעול בק אופיס ב",
+    "role_category": "project",
+    "referral_contact": "הגשה ישירה באתר (ללא רפרל)",
+    "referral_type": "הגשה ישירה",
+    "location": "Gush Dan",
+    "url": "https://www.drushim.co.il/job/39138122/6eaba8b2/",
+    "experience": "not stated",
+    "discovered_at": "2026-11-18T23:48:08.214634",
+    "record_version": 2,
+    "job_key": "ats:drushim:39138122",
+    "ats_provider": "drushim",
+    "ats_job_id": "39138122",
+    "canonical_url": "https://drushim.co.il/job/39138122/6eaba8b2",
+    "display_title": "רכז/ת תפעול בק אופיס ב",
+    "raw_title": "רכז/ת תפעול בק אופיס בנס ציונה",
+    "location_token": "gush dan",
+    "status": "active",
+    "status_reasons": [],
+    "duplicate_of": null,
+    "experience_level": "unspecified",
+    "experience_evidence": "",
+    "profiles": [
+      "iem_product_operations"
+    ],
+    "first_seen_at": "2026-11-18T23:48:08+00:00",
+    "last_seen_at": "2026-11-18T23:48:08+00:00",
+    "quality_flags": [],
+    "source_type": "job_board",
+    "source_name": "Drushim - PMO",
+    "priority": null,
+    "sector": "Job Board",
+    "match_score": 76.0
   }
 ]
