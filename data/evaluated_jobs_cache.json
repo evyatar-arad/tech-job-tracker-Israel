@@ -7930,6 +7930,346 @@
       "title": "Implementation Manager Location",
       "url": "https://www.papayaglobal.com/positions/implementation-manager-56/",
       "checked_at": "2026-11-18T23:48:06+00:00"
+    },
+    "ats:apple:200695656-0865": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: 5+ years of",
+      "company": "apple",
+      "title": "SW Engineering Program Manager",
+      "url": "https://jobs.apple.com/en-il/details/200695656-0865/sw-engineering-program-manager?team=SFTWR",
+      "checked_at": "2026-11-19T15:01:36+00:00"
+    },
+    "ats:smartrecruiters:744000162530248": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: 4+ years of experience",
+      "company": "Check Point",
+      "title": "Growth Customer Success Manager, Exposure Management- EMEA",
+      "url": "https://jobs.smartrecruiters.com/CheckPointSoftwareTechnologies2/744000162530248",
+      "checked_at": "2026-11-19T15:01:36+00:00"
+    },
+    "ats:lever:24b128d9-342e-4127-9dac-cde79f0a8652": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: 3-7 years of experience",
+      "company": "Mobileye",
+      "title": "Technical Program Manager",
+      "url": "https://jobs.eu.lever.co/mobileye/24b128d9-342e-4127-9dac-cde79f0a8652",
+      "checked_at": "2026-11-19T15:01:36+00:00"
+    },
+    "ats:alljobs:8908933": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: 5+ years of experience",
+      "company": "AllJobs",
+      "title": "Technical Product Manager",
+      "url": "https://www.alljobs.co.il/Search/UploadSingle.aspx?JobID=8908933",
+      "checked_at": "2026-11-19T15:01:36+00:00"
+    },
+    "fb:fb759954f3a15b0142de": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: 5+ years of experience",
+      "company": "AllJobs",
+      "title": "Technical Product Manager",
+      "url": "https://www.alljobs.co.il/Employer/HP/Default.aspx?cid=13303",
+      "checked_at": "2026-11-19T15:01:36+00:00"
+    },
+    "fb:4f33a9808c10a0274e2f": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: לפחות 3 שנות ניסיון",
+      "company": "AllJobs",
+      "title": "מנהל/ת מוצר AI",
+      "url": "https://www.alljobs.co.il/Employer/HP/Default.aspx?cid=144578",
+      "checked_at": "2026-11-19T15:01:36+00:00"
+    },
+    "ats:alljobs:8907262": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: 5+ years of",
+      "company": "AllJobs",
+      "title": "Product Manager",
+      "url": "https://www.alljobs.co.il/Search/UploadSingle.aspx?JobID=8907262",
+      "checked_at": "2026-11-19T15:01:36+00:00"
+    },
+    "fb:053db68b91e61a81ee9c": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: לפחות 4 שנות ניסיון",
+      "company": "AllJobs",
+      "title": "AI Project & Implementation Coordinator",
+      "url": "https://www.alljobs.co.il/Employer/HP/Default.aspx?cid=305150",
+      "checked_at": "2026-11-19T15:01:36+00:00"
+    },
+    "ats:alljobs:8907017": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: 3+ years",
+      "company": "AllJobs",
+      "title": "Project Manager - LSF",
+      "url": "https://www.alljobs.co.il/Search/UploadSingle.aspx?JobID=8907017",
+      "checked_at": "2026-11-19T15:01:36+00:00"
+    },
+    "ats:alljobs:8906848": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: at least 5 years of experience",
+      "company": "AllJobs",
+      "title": "technical business analyst",
+      "url": "https://www.alljobs.co.il/Search/UploadSingle.aspx?JobID=8906848",
+      "checked_at": "2026-11-19T15:01:36+00:00"
+    },
+    "ats:alljobs:8906843": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: לפחות 3 שנים",
+      "company": "AllJobs",
+      "title": "אנליסט/ית רכש",
+      "url": "https://www.alljobs.co.il/Search/UploadSingle.aspx?JobID=8906843",
+      "checked_at": "2026-11-19T15:01:36+00:00"
+    },
+    "ats:alljobs:8909015": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "non_israel_location",
+      "company": "AllJobs",
+      "title": "Customer Success Manager, exposure management- emea",
+      "url": "https://www.alljobs.co.il/Search/UploadSingle.aspx?JobID=8909015",
+      "checked_at": "2026-11-19T15:01:36+00:00"
+    },
+    "ats:alljobs:8909009": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: 4+ years of experience",
+      "company": "AllJobs",
+      "title": "Customer Success Manager -exposure management- il region",
+      "url": "https://www.alljobs.co.il/Search/UploadSingle.aspx?JobID=8909009",
+      "checked_at": "2026-11-19T15:01:36+00:00"
+    },
+    "ats:alljobs:8906880": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: 3-5 שנים",
+      "company": "AllJobs",
+      "title": "מנהל/ת תפעול",
+      "url": "https://www.alljobs.co.il/Search/UploadSingle.aspx?JobID=8906880",
+      "checked_at": "2026-11-19T15:01:36+00:00"
+    },
+    "ats:alljobs:8906889": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: 6 שנות ניסיון",
+      "company": "AllJobs",
+      "title": "יועצ/ת מכירות - תחום שירותי יעוץ לבעלי משקים חקלאיים ונחלות במושבים בישראל",
+      "url": "https://www.alljobs.co.il/Search/UploadSingle.aspx?JobID=8906889",
+      "checked_at": "2026-11-19T15:01:36+00:00"
+    },
+    "ats:alljobs:8908639": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: 6+ years of experience",
+      "company": "AllJobs",
+      "title": "solutions engineer",
+      "url": "https://www.alljobs.co.il/Search/UploadSingle.aspx?JobID=8908639",
+      "checked_at": "2026-11-19T15:01:36+00:00"
+    },
+    "ats:alljobs:8907386": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: לפחות 5 שנות ניסיון",
+      "company": "AllJobs",
+      "title": "מנהל/ת שרשרת אספקה",
+      "url": "https://www.alljobs.co.il/Search/UploadSingle.aspx?JobID=8907386",
+      "checked_at": "2026-11-19T15:01:36+00:00"
+    },
+    "ats:alljobs:8907008": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: 5+ years of experience",
+      "company": "AllJobs",
+      "title": "Production Planning and Control Manager",
+      "url": "https://www.alljobs.co.il/Search/UploadSingle.aspx?JobID=8907008",
+      "checked_at": "2026-11-19T15:01:36+00:00"
+    },
+    "ats:drushim:39148382": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: 3-4 שנים",
+      "company": "Drushim",
+      "title": "בק אופיס תפעול",
+      "url": "https://www.drushim.co.il/job/39148382/33ef7997/",
+      "checked_at": "2026-11-19T15:01:36+00:00"
+    },
+    "ats:alljobs:8907563": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: לפחות 10 שנות ניסיון",
+      "company": "AllJobs",
+      "title": "מנהל/ת Sourcing ורכש בינלאומי למוצרי יבוא מוגמרים",
+      "url": "https://www.alljobs.co.il/Search/UploadSingle.aspx?JobID=8907563",
+      "checked_at": "2026-11-19T15:01:36+00:00"
+    },
+    "fb:db128b184c9f1ee36630": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "region: מיקום המשרה:תל יוסף / מיקום המשרה:עפולה",
+      "company": "AllJobs",
+      "title": "מנהל/ת Sourcing ורכש בינלאומי למוצרי יבוא מוגמרים",
+      "url": "https://www.alljobs.co.il/Employer/HP/Default.aspx?cid=83241",
+      "checked_at": "2026-11-19T15:01:36+00:00"
+    },
+    "ats:alljobs:8907210": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: 3+ years of hands-on",
+      "company": "AllJobs",
+      "title": "technical Project Manager",
+      "url": "https://www.alljobs.co.il/Search/UploadSingle.aspx?JobID=8907210",
+      "checked_at": "2026-11-19T15:01:36+00:00"
+    },
+    "ats:alljobs:8908804": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: לפחות 3 שנות ניסיון",
+      "company": "AllJobs",
+      "title": "כלכלן/ית לתכנון ובקרה תקציבית",
+      "url": "https://www.alljobs.co.il/Search/UploadSingle.aspx?JobID=8908804",
+      "checked_at": "2026-11-19T15:01:36+00:00"
+    },
+    "ats:alljobs:8907694": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: לפחות 3 שנות ניסיון",
+      "company": "AllJobs",
+      "title": "כלכלן/ית לתכנון ובקרה תקציבית בפרויקטי נדלן",
+      "url": "https://www.alljobs.co.il/Search/UploadSingle.aspx?JobID=8907694",
+      "checked_at": "2026-11-19T15:01:36+00:00"
+    },
+    "ats:alljobs:8907011": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: 5-8 שנות ניסיון",
+      "company": "AllJobs",
+      "title": "לחברת יזמות אמריקאית מנהל/ת חטיבת בינוי פרויקטים - ניהול רוחבי של מנהלי הפרויקטים בחברה J6",
+      "url": "https://www.alljobs.co.il/Search/UploadSingle.aspx?JobID=8907011",
+      "checked_at": "2026-11-19T15:01:36+00:00"
+    },
+    "ats:workday:amat/R2633186": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "non_israel_location",
+      "company": "Applied Materials",
+      "title": "Supply Chain Project Manager (B4)",
+      "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Supply-Chain-Project-Manager--B4-_R2633186",
+      "checked_at": "2026-11-19T15:01:36+00:00"
+    },
+    "fb:0261baf7755e476bf669": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "ai",
+      "reason": "Page not found / expired job posting error page.",
+      "company": "Baran group",
+      "title": "מנהל/ת פרויקטים בתחום תשתיות ופיתוח עירוני",
+      "url": "https://www.barangroup.com/?page_id=1722?jobid=2896",
+      "checked_at": "2026-11-19T15:02:37+00:00"
+    },
+    "fb:a98ae5e3a99932c9380d": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "ai",
+      "reason": "Requires significant experience ('ניסיון משמעותי'), exceeding the 0-2 YOE target limit.",
+      "company": "Logica-it",
+      "title": "Operational Excellence ניהול פרויקטים",
+      "url": "https://logica-it.com/jobs/21178/",
+      "checked_at": "2026-11-19T15:02:37+00:00"
+    },
+    "fb:4adaf02235131bbba255": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "ai",
+      "reason": "Requires 2-5 years of experience, exceeding the 0-2 YOE target limit (stretch 2+).",
+      "company": "Pecan AI",
+      "title": "Analytics Solution Engineer",
+      "url": "https://www.pecan.ai/careers/career-job/solution-engineer/",
+      "checked_at": "2026-11-19T15:02:37+00:00"
+    },
+    "ats:alljobs:8854513": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "ai",
+      "reason": "Role is a sales/telemarketing/appointment setting position, which falls outside the target IE/Management/Business Analysis/PMO/Operations scope.",
+      "company": "AllJobs",
+      "title": "יועץ/ת מכירות",
+      "url": "https://www.alljobs.co.il/Search/UploadSingle.aspx?JobID=8854513",
+      "checked_at": "2026-11-19T15:06:40+00:00"
+    },
+    "ats:alljobs:8907178": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "ai",
+      "reason": "Experience requirement (2+ years) exceeds the 0-2 YOE threshold (requires minimum 2+ which falls outside entry level / graduate scope).",
+      "company": "AllJobs",
+      "title": "ai solution engineer",
+      "url": "https://www.alljobs.co.il/Search/UploadSingle.aspx?JobID=8907178",
+      "checked_at": "2026-11-19T15:06:50+00:00"
+    },
+    "ats:drushim:38855649": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "ai",
+      "reason": "Location is unspecified in the text, and the target role in a bank context lacks explicit Gush Dan location confirmation or clear entry-level criteria.",
+      "company": "Drushim",
+      "title": "מנהל/ת מוצר ו/או פרויקטים",
+      "url": "https://www.drushim.co.il/job/38855649/b9477f3c/",
+      "checked_at": "2026-11-19T15:06:50+00:00"
+    },
+    "ats:alljobs:8906951": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "ai",
+      "reason": "Location is Kibbutz Shamir (North), which violates the strict Gush Dan / Central Israel location rule.",
+      "company": "AllJobs",
+      "title": "מנתח/ת ומיישם/ת מערכות מידע",
+      "url": "https://www.alljobs.co.il/Search/UploadSingle.aspx?JobID=8906951",
+      "checked_at": "2026-11-19T15:06:50+00:00"
+    },
+    "ats:alljobs:8906040": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "ai",
+      "reason": "Experience requirement exceeds the 0-2 YOE threshold (requires significant/senior business development experience).",
+      "company": "AllJobs",
+      "title": "מנהל/ת מכירות ופיתוח עסקי",
+      "url": "https://www.alljobs.co.il/Search/UploadSingle.aspx?JobID=8906040",
+      "checked_at": "2026-11-19T15:07:32+00:00"
     }
   }
 }
