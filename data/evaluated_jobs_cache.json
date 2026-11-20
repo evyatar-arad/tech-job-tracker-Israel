@@ -8370,6 +8370,126 @@
       "title": "מתכנן/ת ייצור",
       "url": "https://www.alljobs.co.il/Search/UploadSingle.aspx?JobID=8868567",
       "checked_at": "2026-11-20T00:05:41+00:00"
+    },
+    "fb:ac4b9c7cb09fbd1e14ca": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "non_israel_location",
+      "company": "intuit",
+      "title": "Internships & Co-ops",
+      "url": "https://www.intuit.com/careers/programs/internships/",
+      "checked_at": "2026-11-20T14:42:50+00:00"
+    },
+    "ats:alljobs:8909627": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: 3 שנות ניסיון",
+      "company": "AllJobs",
+      "title": "מרכז/ת (pmo)",
+      "url": "https://www.alljobs.co.il/Search/UploadSingle.aspx?JobID=8909627",
+      "checked_at": "2026-11-20T14:42:50+00:00"
+    },
+    "ats:alljobs:8909003": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "non_israel_location",
+      "company": "AllJobs",
+      "title": "Customer Success Manager, exposure management-emea region-french speaker",
+      "url": "https://www.alljobs.co.il/Search/UploadSingle.aspx?JobID=8909003",
+      "checked_at": "2026-11-20T14:42:50+00:00"
+    },
+    "ats:alljobs:8909609": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: 4 שנות ניסיון",
+      "company": "AllJobs",
+      "title": "ראש ענף (מוביל/ה לוגיסטיקה - רכב)",
+      "url": "https://www.alljobs.co.il/Search/UploadSingle.aspx?JobID=8909609",
+      "checked_at": "2026-11-20T14:42:50+00:00"
+    },
+    "ats:alljobs:8857938": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: 3+ שנים",
+      "company": "AllJobs",
+      "title": "מהנדס/ת פרויקטים ( Project Manager Engineer) - מערכות אגירת אנרגיה (BESS)",
+      "url": "https://www.alljobs.co.il/Search/UploadSingle.aspx?JobID=8857938",
+      "checked_at": "2026-11-20T14:42:50+00:00"
+    },
+    "ats:alljobs:8717383": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "ai",
+      "reason": "Requires 4+ years of experience (senior/experienced level) and location (Misgav) is outside Gush Dan.",
+      "company": "AllJobs",
+      "title": "Material Planner",
+      "url": "https://www.alljobs.co.il/Search/UploadSingle.aspx?JobID=8717383",
+      "checked_at": "2026-11-20T14:43:10+00:00"
+    },
+    "ats:drushim:39152771": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "ai",
+      "reason": "Location is Tirat Carmel (Haifa area), which is outside Gush Dan / Central Israel, and the role requires senior/experienced profile.",
+      "company": "Drushim",
+      "title": "PMO תיאום ובקרה למנהלת תת\"ל 65 בטירת הכרמל",
+      "url": "https://www.drushim.co.il/job/39152771/dff1bee9/",
+      "checked_at": "2026-11-20T14:43:32+00:00"
+    },
+    "ats:alljobs:8907728": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "ai",
+      "reason": "The page includes multiple aggregated job listings and navigation fluff rather than a single specific job vacancy, and the role is student/academic counseling rather than target industrial engineering/management roles.",
+      "company": "AllJobs",
+      "title": "רכז/ת ייעוץ לסטודנטים/ות והכוון אקדמי",
+      "url": "https://www.alljobs.co.il/Search/UploadSingle.aspx?JobID=8907728",
+      "checked_at": "2026-11-20T14:43:32+00:00"
+    },
+    "ats:drushim:39152030": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "ai",
+      "reason": "Location is explicitly stated as Jerusalem (משרד ממשלתי בירושלים), which violates the Gush Dan / Central Israel requirement.",
+      "company": "Drushim",
+      "title": "מנהל/ת מוצרי AI ו-GenAI",
+      "url": "https://www.drushim.co.il/job/39152030/7ae494b8/",
+      "checked_at": "2026-11-20T14:43:32+00:00"
+    },
+    "ats:drushim:38887626": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "ai",
+      "reason": "The role is primarily front-desk administration, receptionist duties, and basic HR/office support rather than an analytical or professional engineering/management role.",
+      "company": "Drushim",
+      "title": "רכז/ת אדמיניסטרציה ותפעול משרד בפ״ת - שכר גבוה!!",
+      "url": "https://www.drushim.co.il/job/38887626/9d64ba6c/",
+      "checked_at": "2026-11-20T14:43:32+00:00"
+    },
+    "ats:drushim:38889906": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "ai",
+      "reason": "Role requires team management and likely higher experience; location not specified and insurance company role.",
+      "company": "Drushim",
+      "title": "מנהל/ת צוות תפעול בריאות | חברת ביטוח ב",
+      "url": "https://www.drushim.co.il/job/38889906/1520c465/",
+      "checked_at": "2026-11-20T14:43:40+00:00"
+    },
+    "ats:drushim:39096797": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "ai",
+      "reason": "Excluded role family: Any role at a bank (commercial/retail banks).",
+      "company": "Drushim",
+      "title": "כלכלן/ית תפעול ניירות ערך זרים",
+      "url": "https://www.drushim.co.il/job/39096797/13d96de1/",
+      "checked_at": "2026-11-20T14:43:40+00:00"
     }
   }
 }
