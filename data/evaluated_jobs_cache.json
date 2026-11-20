@@ -8270,6 +8270,106 @@
       "title": "מנהל/ת מכירות ופיתוח עסקי",
       "url": "https://www.alljobs.co.il/Search/UploadSingle.aspx?JobID=8906040",
       "checked_at": "2026-11-19T15:07:32+00:00"
+    },
+    "fb:b701ded3987ac919e86b": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: 5+ years of",
+      "company": "Personetics",
+      "title": "Product Manager - Engage",
+      "url": "https://personetics.com/us/careers-4/co/tel-aviv-israel/4E.B64/product-manager-engage/all/",
+      "checked_at": "2026-11-20T00:05:20+00:00"
+    },
+    "ats:alljobs:8852016": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: 3 שנות ניסיון",
+      "company": "AllJobs",
+      "title": "אנליסט/ית לתחום המחקר- לא סחיר",
+      "url": "https://www.alljobs.co.il/Search/UploadSingle.aspx?JobID=8852016",
+      "checked_at": "2026-11-20T00:05:20+00:00"
+    },
+    "ats:alljobs:8909227": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: לפחות 7 שנות ניסיון",
+      "company": "AllJobs",
+      "title": "מנהל/ת שרשרת אספקה",
+      "url": "https://www.alljobs.co.il/Search/UploadSingle.aspx?JobID=8909227",
+      "checked_at": "2026-11-20T00:05:20+00:00"
+    },
+    "ats:alljobs:8907735": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "ai",
+      "reason": "Location is in Kiryat Motzkin (outside Gush Dan) and requires 2+ years of experience.",
+      "company": "AllJobs",
+      "title": "מנהל/ת פרויקטים לחברה תעשייתית בקריות",
+      "url": "https://www.alljobs.co.il/Search/UploadSingle.aspx?JobID=8907735",
+      "checked_at": "2026-11-20T00:05:24+00:00"
+    },
+    "ats:alljobs:8763991": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "ai",
+      "reason": "Requires 2-3 years of experience, exceeding the 0-2 years target range.",
+      "company": "AllJobs",
+      "title": "AI Project & Implementation Coordinator",
+      "url": "https://www.alljobs.co.il/Search/UploadSingle.aspx?JobID=8763991",
+      "checked_at": "2026-11-20T00:05:24+00:00"
+    },
+    "ats:alljobs:8906939": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "ai",
+      "reason": "Role is at a bank (Bank of Jerusalem), which is explicitly excluded in the guidelines, and requires 2 years of experience.",
+      "company": "AllJobs",
+      "title": "אנליסט/ית data פרויקטים",
+      "url": "https://www.alljobs.co.il/Search/UploadSingle.aspx?JobID=8906939",
+      "checked_at": "2026-11-20T00:05:24+00:00"
+    },
+    "ats:alljobs:8907015": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "ai",
+      "reason": "Experience requirement (2-4 years) exceeds the 0-2 YOE candidate profile.",
+      "company": "AllJobs",
+      "title": "Customer Business Analyst",
+      "url": "https://www.alljobs.co.il/Search/UploadSingle.aspx?JobID=8907015",
+      "checked_at": "2026-11-20T00:05:30+00:00"
+    },
+    "ats:alljobs:8906431": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "ai",
+      "reason": "Location (Hatzorim) is outside the Gush Dan / Central Israel region.",
+      "company": "AllJobs",
+      "title": "רכז/ת מצוינות תפעולית מפעלית",
+      "url": "https://www.alljobs.co.il/Search/UploadSingle.aspx?JobID=8906431",
+      "checked_at": "2026-11-20T00:05:30+00:00"
+    },
+    "ats:alljobs:8909291": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "ai",
+      "reason": "Role is an educational counselor (יועץ/ת חינוכי/ת), which is excluded from the target industrial engineering and business roles.",
+      "company": "AllJobs",
+      "title": "יועץ/ת חינוכי/ת לחטיבת ביניים",
+      "url": "https://www.alljobs.co.il/Search/UploadSingle.aspx?JobID=8909291",
+      "checked_at": "2026-11-20T00:05:30+00:00"
+    },
+    "ats:alljobs:8868567": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "ai",
+      "reason": "Location Ashkelon is outside the allowed Gush Dan / Central Israel region.",
+      "company": "AllJobs",
+      "title": "מתכנן/ת ייצור",
+      "url": "https://www.alljobs.co.il/Search/UploadSingle.aspx?JobID=8868567",
+      "checked_at": "2026-11-20T00:05:41+00:00"
     }
   }
 }
