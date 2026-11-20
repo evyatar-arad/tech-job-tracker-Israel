@@ -8490,6 +8490,56 @@
       "title": "כלכלן/ית תפעול ניירות ערך זרים",
       "url": "https://www.drushim.co.il/job/39096797/13d96de1/",
       "checked_at": "2026-11-20T14:43:40+00:00"
+    },
+    "ats:alljobs:8892328": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: לפחות 6 שנות ניסיון",
+      "company": "AllJobs",
+      "title": "PMO - Hardware",
+      "url": "https://www.alljobs.co.il/Search/UploadSingle.aspx?JobID=8892328",
+      "checked_at": "2026-11-20T23:33:44+00:00"
+    },
+    "ats:alljobs:8908215": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: 4+ years of experience",
+      "company": "AllJobs",
+      "title": "Product Manager",
+      "url": "https://www.alljobs.co.il/Search/UploadSingle.aspx?JobID=8908215",
+      "checked_at": "2026-11-20T23:33:44+00:00"
+    },
+    "fb:2c1f78dfef7759d94d92": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "non_israel_location",
+      "company": "IBM",
+      "title": "Infrastructure & Technology Hardware Development Engineer – Signal & Power Integrity (f/m/x) Entry Level Ehningen, DE",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=129289&source=WEB_Search_NA",
+      "checked_at": "2026-11-20T23:33:44+00:00"
+    },
+    "fb:dd8816d287697bc6931e": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "ai",
+      "reason": "Location is Dallas, USA, which violates the Gush Dan / Israel location rule.",
+      "company": "Wiliot",
+      "title": "Entry-Level Field Engineer Dallas",
+      "url": "https://www.wiliot.com/positions/position-45_472",
+      "checked_at": "2026-11-20T23:33:53+00:00"
+    },
+    "ats:drushim:39098621": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "ai",
+      "reason": "Senior management role requiring extensive experience managing teams and operations, exceeding the 0-2 YOE entry/junior profile.",
+      "company": "Drushim",
+      "title": "מנהל/ת מערך שירות, תפעול ושימור",
+      "url": "https://www.drushim.co.il/job/39098621/e2e64cc9/",
+      "checked_at": "2026-11-20T23:34:00+00:00"
     }
   }
 }
