@@ -8540,6 +8540,146 @@
       "title": "מנהל/ת מערך שירות, תפעול ושימור",
       "url": "https://www.drushim.co.il/job/39098621/e2e64cc9/",
       "checked_at": "2026-11-20T23:34:00+00:00"
+    },
+    "ats:workday:kla/2643294-2": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: 8+ years of experience",
+      "company": "KLA",
+      "title": "Tech Program Manager",
+      "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Yavne-Israel/Tech-Program-Manager_2643294-2",
+      "checked_at": "2026-11-21T13:59:50+00:00"
+    },
+    "ats:workday:kla/2643146-1": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: 4+ years of",
+      "company": "KLA",
+      "title": "Service supply chain planner",
+      "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Yavne-Israel/Service-supply-chain-planner_2643146-1",
+      "checked_at": "2026-11-21T13:59:50+00:00"
+    },
+    "ats:workday:kla/2638906-1": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: 8+ years of experience",
+      "company": "KLA",
+      "title": "Technical Program Manager",
+      "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Migdal-Haemek-Israel/Technical-Program-Manager_2638906-1",
+      "checked_at": "2026-11-21T13:59:50+00:00"
+    },
+    "ats:drushim:38992867": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: 5-6 שנים",
+      "company": "Drushim",
+      "title": "מנהל/ת פרויקטים",
+      "url": "https://www.drushim.co.il/job/38992867/d73d4f2c/",
+      "checked_at": "2026-11-21T13:59:50+00:00"
+    },
+    "ats:workday:kla/2638234-1": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "ai",
+      "reason": "Role is a research scientist student in physics/electrical engineering, which does not match the target industrial engineering, business, or product/project management roles.",
+      "company": "KLA",
+      "title": "Research Scientist Student",
+      "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Migdal-Haemek-Israel/Research-Scientist-Student_2638234-1",
+      "checked_at": "2026-11-21T13:59:57+00:00"
+    },
+    "ats:drushim:39133011": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "ai",
+      "reason": "Role is an influencer marketing / social media campaign manager (managing content creators and social campaigns), which falls under marketing rather than the target roles.",
+      "company": "Drushim",
+      "title": "ל- Attention של אדלר חומסקי דרוש.ה מנהל.ת פרויקטים",
+      "url": "https://www.drushim.co.il/job/39133011/8b75a163/",
+      "checked_at": "2026-11-21T13:59:57+00:00"
+    },
+    "ats:drushim:39072420": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "ai",
+      "reason": "Location is nationwide (פריסה ארצית) rather than strictly Gush Dan / Central Israel.",
+      "company": "Drushim",
+      "title": "מנהל/ת תכנון לפרויקט לאומי - קבוצת אפקון",
+      "url": "https://www.drushim.co.il/job/39072420/f4aba181/",
+      "checked_at": "2026-11-21T13:59:59+00:00"
+    },
+    "ats:drushim:39152638": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "ai",
+      "reason": "Location is Modi'in, which is outside the Gush Dan / Central Israel allowed region.",
+      "company": "Drushim",
+      "title": "מתאמי/ות תפעול לסניפנו ב",
+      "url": "https://www.drushim.co.il/job/39152638/904eeb04/",
+      "checked_at": "2026-11-21T13:59:59+00:00"
+    },
+    "ats:drushim:38806382": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "ai",
+      "reason": "Location is Nevatim (South), which is outside the Gush Dan / Central Israel region.",
+      "company": "Drushim",
+      "title": "סגן/ית מנהל תפעול מטוסים",
+      "url": "https://www.drushim.co.il/job/38806382/6d93292e/",
+      "checked_at": "2026-11-21T14:00:01+00:00"
+    },
+    "ats:drushim:39047416": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "ai",
+      "reason": "Role focuses heavily on administration, collections (גבייה), and customer support/phone answering rather than IE/Management analytical or professional operations/PMO duties.",
+      "company": "Drushim",
+      "title": "רכז/ת אדמיניסטרציה ותפעול",
+      "url": "https://www.drushim.co.il/job/39047416/1541274b/",
+      "checked_at": "2026-11-21T14:00:01+00:00"
+    },
+    "ats:drushim:38884567": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "ai",
+      "reason": "Role belongs to financial Back Office / Capital Markets operations which is outside the target industrial engineering / business / operations management roles.",
+      "company": "Drushim",
+      "title": "עובדי/ות תפעול השקעות - תנאים טובים למתאימים!",
+      "url": "https://www.drushim.co.il/job/38884567/ce9d5f5e/",
+      "checked_at": "2026-11-21T14:00:03+00:00"
+    },
+    "ats:drushim:38868721": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "ai",
+      "reason": "Role is primarily IT support/helpdesk, which is in the excluded role family (IT / System Administration / Technical Support).",
+      "company": "Drushim",
+      "title": "אחראי/ת תפעול מערכות מידע",
+      "url": "https://www.drushim.co.il/job/38868721/3d1b3244/",
+      "checked_at": "2026-11-21T14:00:18+00:00"
+    },
+    "ats:drushim:39071698": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "ai",
+      "reason": "Role is an administrative coordinator position rather than an operations or project management role matching the industrial engineering profile.",
+      "company": "Drushim",
+      "title": "רכז/ת אדמיניסטרטיבי/ת למחלקת התפעול- \"דלתות פנדור\"",
+      "url": "https://www.drushim.co.il/job/39071698/b0fd003f/",
+      "checked_at": "2026-11-21T14:00:18+00:00"
+    },
+    "ats:drushim:38853977": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "ai",
+      "reason": "Role is primarily reception, front desk and administrative support (customer service/front desk), which falls under excluded customer service/helpdesk roles.",
+      "company": "Drushim",
+      "title": "אחראי/ת קבלה ותפעול במתחם עבודה משותף REGUS ת\"א",
+      "url": "https://www.drushim.co.il/job/38853977/3234a34e/",
+      "checked_at": "2026-11-21T14:00:18+00:00"
     }
   }
 }
