@@ -8680,6 +8680,36 @@
       "title": "אחראי/ת קבלה ותפעול במתחם עבודה משותף REGUS ת\"א",
       "url": "https://www.drushim.co.il/job/38853977/3234a34e/",
       "checked_at": "2026-11-21T14:00:18+00:00"
+    },
+    "ats:alljobs:8909822": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: 4 שנות ניסיון",
+      "company": "AllJobs",
+      "title": "Business Development Manager",
+      "url": "https://www.alljobs.co.il/Search/UploadSingle.aspx?JobID=8909822",
+      "checked_at": "2026-11-21T20:24:24+00:00"
+    },
+    "fb:9e5d64fecd911cbc9ecb": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: 4 שנות ניסיון",
+      "company": "AllJobs",
+      "title": "Business Development Manager",
+      "url": "https://www.alljobs.co.il/Employer/HP/Default.aspx?cid=242219",
+      "checked_at": "2026-11-21T20:24:24+00:00"
+    },
+    "ats:drushim:39068677": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "ai",
+      "reason": "Location not specified or not verified to be within Gush Dan/Central Israel; description lacks specific location details for CIP Group.",
+      "company": "Drushim",
+      "title": "מנהל/ת תפעול – לתחום הסעדה מוסדית",
+      "url": "https://www.drushim.co.il/job/39068677/04d3895d/",
+      "checked_at": "2026-11-21T20:24:25+00:00"
     }
   }
 }
