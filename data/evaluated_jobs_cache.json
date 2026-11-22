@@ -9020,6 +9020,66 @@
       "title": "מנהל תפעול בפ\"ת - 18K-20K+ בונוס רבעוני!!",
       "url": "https://www.drushim.co.il/job/38953784/8c82fd51/",
       "checked_at": "2026-11-22T13:56:07+00:00"
+    },
+    "fb:d8419648502932ff5b68": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: לפחות 3 שנים",
+      "company": "AllJobs",
+      "title": "Customer Success Leader לחברה מובילה בתחום האנרגיה המתחדשת",
+      "url": "https://www.alljobs.co.il/Employer/HP/Default.aspx?cid=359881",
+      "checked_at": "2026-11-22T20:34:05+00:00"
+    },
+    "ats:alljobs:8911725": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: 3-4 years of",
+      "company": "AllJobs",
+      "title": "Customer Success Manager-US",
+      "url": "https://www.alljobs.co.il/Search/UploadSingle.aspx?JobID=8911725",
+      "checked_at": "2026-11-22T20:34:05+00:00"
+    },
+    "ats:alljobs:8911347": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: לפחות 5 שנות ניסיון",
+      "company": "AllJobs",
+      "title": "מנהל/ת פרויקטים",
+      "url": "https://www.alljobs.co.il/Search/UploadSingle.aspx?JobID=8911347",
+      "checked_at": "2026-11-22T20:34:05+00:00"
+    },
+    "fb:bb79a8beacf124bbbed9": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: 5+ years of experience",
+      "company": "AllJobs",
+      "title": "מנהל/ת פרויקטים",
+      "url": "https://www.alljobs.co.il/Employer/HP/Default.aspx?cid=39570",
+      "checked_at": "2026-11-22T20:34:05+00:00"
+    },
+    "ats:drushim:39169833": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "ai",
+      "reason": "Role is construction execution management (מנהל ביצוע באתרי בנייה), which is outside the target industrial engineering/management office roles.",
+      "company": "Drushim",
+      "title": "מנהל.ת ביצוע לפרויקטים באתרי בנייה",
+      "url": "https://www.drushim.co.il/job/39169833/e21c8141/",
+      "checked_at": "2026-11-22T20:34:11+00:00"
+    },
+    "ats:drushim:39171809": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "ai",
+      "reason": "Requires experience (מנוסה) and location is not explicitly restricted to Gush Dan/Central in the text.",
+      "company": "Drushim",
+      "title": "רכז/ת תפעול ולוגיסטיקה",
+      "url": "https://www.drushim.co.il/job/39171809/dc77bd22/",
+      "checked_at": "2026-11-22T20:34:21+00:00"
     }
   }
 }
