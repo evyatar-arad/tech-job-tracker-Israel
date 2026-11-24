@@ -9380,6 +9380,376 @@
       "title": "גיזה זינגר אבן מגייסת אנליסט/ית לצוות מימון תאגידים",
       "url": "https://www.alljobs.co.il/Employer/HP/Default.aspx?cid=27221",
       "checked_at": "2026-11-24T03:43:21+00:00"
+    },
+    "ats:workday:intel/JR0288787": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: 5+ years of hands-on",
+      "company": "intel",
+      "title": "Supply Chain Analyst",
+      "url": "https://intel.wd1.myworkdayjobs.com/External/job/Israel-Kiryat-Gat/Supply-Chain-Analyst_JR0288787",
+      "checked_at": "2026-11-24T16:48:36+00:00"
+    },
+    "ats:comeet:pango:9C.C64": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: 3+ years of experience",
+      "company": "Pango",
+      "title": "Commercial Partnerships Manager",
+      "url": "https://www.comeet.com/jobs/pango/59.002/commercial-partnerships-manager/9C.C64",
+      "checked_at": "2026-11-24T16:48:36+00:00"
+    },
+    "ats:greenhouse:8938980002": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: 4+ years",
+      "company": "Riskified",
+      "title": "Partner Enablement & Operations Manager",
+      "url": "https://www.riskified.com/careers/job-description/?gh_jid=8938980002",
+      "checked_at": "2026-11-24T16:48:36+00:00"
+    },
+    "fb:60b432f040937f0cad0a": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "region: Stockholm, SE",
+      "company": "SAP Israel",
+      "title": "SAP iXp Intern - Solution Advisor",
+      "url": "https://jobs.sap.com/en/jobs/744000163467657/sap-ixp-intern-solution-advisor/",
+      "checked_at": "2026-11-24T16:48:36+00:00"
+    },
+    "fb:44c04bff5a30914a6751": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: 5+ שנות ניסיון",
+      "company": "TSG IT Advanced Systems",
+      "title": "Project, Product & Implementation #2107 איש/אשת IT מפעל חלל תע”א מרכז 5 ימים בשבוע",
+      "url": "https://www.tsg.tech/careers/it-2107/",
+      "checked_at": "2026-11-24T16:48:36+00:00"
+    },
+    "ats:smartrecruiters:744000163397859": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: 5+ years of experience",
+      "company": "Wix",
+      "title": "Product Manager - Base44",
+      "url": "https://jobs.smartrecruiters.com/Wix2/744000163397859",
+      "checked_at": "2026-11-24T16:48:36+00:00"
+    },
+    "fb:aa6e8416e243e56ccaaa": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: 5+ years",
+      "company": "Wiliot",
+      "title": "Product Manager",
+      "url": "https://www.wiliot.com/positions/position-14_079",
+      "checked_at": "2026-11-24T16:48:36+00:00"
+    },
+    "fb:84f95076cd8d17d77c4e": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: 5+ years of experience",
+      "company": "Justt",
+      "title": "Customer Success Manager – Partner",
+      "url": "https://justt.ai/job/customer-success-manager-partner/",
+      "checked_at": "2026-11-24T16:48:36+00:00"
+    },
+    "ats:alljobs:8914353": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: לפחות 3 שנים ניסיון",
+      "company": "AllJobs",
+      "title": "מנהל/ת מוצר דיגיטל | אגף מטה ואסטרטגיה",
+      "url": "https://www.alljobs.co.il/Search/UploadSingle.aspx?JobID=8914353",
+      "checked_at": "2026-11-24T16:48:36+00:00"
+    },
+    "ats:alljobs:8874568": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: 3+ שנים",
+      "company": "AllJobs",
+      "title": "מנהל/ת מוצר",
+      "url": "https://www.alljobs.co.il/Search/UploadSingle.aspx?JobID=8874568",
+      "checked_at": "2026-11-24T16:48:36+00:00"
+    },
+    "ats:alljobs:8913931": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: לפחות 3 שנות ניסיון",
+      "company": "AllJobs",
+      "title": "מנהל פרויקטים טכנולוגיים לארגון מוביל",
+      "url": "https://www.alljobs.co.il/Search/UploadSingle.aspx?JobID=8913931",
+      "checked_at": "2026-11-24T16:48:36+00:00"
+    },
+    "ats:alljobs:8672008": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: לפחות 5 שנות ניסיון",
+      "company": "AllJobs",
+      "title": "מהנדס /הנדסאי תעשייה וניהול להדסה עין כרם!",
+      "url": "https://www.alljobs.co.il/Search/UploadSingle.aspx?JobID=8672008",
+      "checked_at": "2026-11-24T16:48:36+00:00"
+    },
+    "fb:c263a062c569c589404a": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "region: מודיעין מכבים רעותבית שמשירושליםמעלה אדומיםגבעת זאב / מודיעין מכבים רעותבית שמשירושליםמעלה אדומיםגבעת זאב",
+      "company": "AllJobs",
+      "title": "מהנדס /הנדסאי תעשייה וניהול להדסה עין כרם!",
+      "url": "https://www.alljobs.co.il/Employer/HP/Default.aspx?cid=51218",
+      "checked_at": "2026-11-24T16:48:36+00:00"
+    },
+    "ats:alljobs:8914406": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: לפחות 3 שנות ניסיון",
+      "company": "AllJobs",
+      "title": "אנליסט/ית מחקר אשראי לא סחיר | אגף השקעות",
+      "url": "https://www.alljobs.co.il/Search/UploadSingle.aspx?JobID=8914406",
+      "checked_at": "2026-11-24T16:48:36+00:00"
+    },
+    "ats:alljobs:8914054": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: לפחות 3 שנות ניסיון",
+      "company": "AllJobs",
+      "title": "Pmo - בקר/ית פרויקטים וניהול",
+      "url": "https://www.alljobs.co.il/Search/UploadSingle.aspx?JobID=8914054",
+      "checked_at": "2026-11-24T16:48:36+00:00"
+    },
+    "ats:alljobs:8915663": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: 4+ years of experience",
+      "company": "AllJobs",
+      "title": "Operations Manager",
+      "url": "https://www.alljobs.co.il/Search/UploadSingle.aspx?JobID=8915663",
+      "checked_at": "2026-11-24T16:48:36+00:00"
+    },
+    "ats:alljobs:8914236": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: לפחות 3 שנות ניסיון",
+      "company": "AllJobs",
+      "title": "אנליסט/ית לתפקיד מנהל/ת תחום תכנון ובקרה לחברה קמעונאית ב",
+      "url": "https://www.alljobs.co.il/Search/UploadSingle.aspx?JobID=8914236",
+      "checked_at": "2026-11-24T16:48:36+00:00"
+    },
+    "ats:alljobs:8914220": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: 3+ years of experience",
+      "company": "AllJobs",
+      "title": "Customer Success Manager",
+      "url": "https://www.alljobs.co.il/Search/UploadSingle.aspx?JobID=8914220",
+      "checked_at": "2026-11-24T16:48:36+00:00"
+    },
+    "ats:alljobs:8915668": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: 4+ years of",
+      "company": "AllJobs",
+      "title": "Product Manager",
+      "url": "https://www.alljobs.co.il/Search/UploadSingle.aspx?JobID=8915668",
+      "checked_at": "2026-11-24T16:48:36+00:00"
+    },
+    "ats:alljobs:8914442": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: at least 3 years of experience",
+      "company": "AllJobs",
+      "title": "eo solutions engineer",
+      "url": "https://www.alljobs.co.il/Search/UploadSingle.aspx?JobID=8914442",
+      "checked_at": "2026-11-24T16:48:36+00:00"
+    },
+    "ats:alljobs:8809106": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: לפחות 3 שנות ניסיון",
+      "company": "AllJobs",
+      "title": "לארגון גדול בשפלה דרוש/ה מיישם/ת Priority",
+      "url": "https://www.alljobs.co.il/Search/UploadSingle.aspx?JobID=8809106",
+      "checked_at": "2026-11-24T16:48:36+00:00"
+    },
+    "ats:alljobs:8886227": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: 5+ שנים",
+      "company": "AllJobs",
+      "title": "לקבוצת רב-בריח דרוש/ה מנהל/ת תפעול מכירות ובקרה בצריפין",
+      "url": "https://www.alljobs.co.il/Search/UploadSingle.aspx?JobID=8886227",
+      "checked_at": "2026-11-24T16:48:36+00:00"
+    },
+    "fb:54bfcfa0c790ff680d5e": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "region: מיקום המשרה:מספר מקומותקרית מלאכיקרית גתאשקלוןנתיבותשדרות / קרית מלאכיקרית גתאשקלוןנתיבותשדרות",
+      "company": "AllJobs",
+      "title": "לקבוצת רב-בריח דרוש/ה מנהל/ת תפעול מכירות ובקרה בצריפין",
+      "url": "https://www.alljobs.co.il/Employer/HP/Default.aspx?cid=114656",
+      "checked_at": "2026-11-24T16:48:36+00:00"
+    },
+    "ats:alljobs:8915311": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: לפחות 5 שנות ניסיון",
+      "company": "AllJobs",
+      "title": "מנהל/ת שרשרת אספקה גלובלית | פארמה",
+      "url": "https://www.alljobs.co.il/Search/UploadSingle.aspx?JobID=8915311",
+      "checked_at": "2026-11-24T16:48:36+00:00"
+    },
+    "fb:e407b4f9e32eb3d419c4": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "ai",
+      "reason": "Page not found / expired job listing.",
+      "company": "Baran group",
+      "title": "מנהל/ת תחום תכן פיזי לפרויקט לאומי",
+      "url": "https://www.barangroup.com/?page_id=1722?jobid=2908",
+      "checked_at": "2026-11-24T16:48:56+00:00"
+    },
+    "ats:workday:intel/JR0288531": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "ai",
+      "reason": "Role requires Software/Electrical/Electronics engineering student, which does not match Industrial Engineering or target business/management roles.",
+      "company": "intel",
+      "title": "Haifa Lab support student",
+      "url": "https://intel.wd1.myworkdayjobs.com/External/job/Israel-Haifa/Haifa-Lab-support-student_JR0288531",
+      "checked_at": "2026-11-24T16:48:56+00:00"
+    },
+    "ats:workday:intel/JR0289427": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "ai",
+      "reason": "Role requires a Practical Engineer degree in Mechanical, Mechatronics, Water or Chemical, focused on hardware/waste systems maintenance in shifts.",
+      "company": "intel",
+      "title": "Industrial Waste Systems Practical Engineering Student Working in Shifts",
+      "url": "https://intel.wd1.myworkdayjobs.com/External/job/Israel-Kiryat-Gat/Industrial-Waste-Systems-Practical-Engineering-Student-Working-in-Shifts---Kiryat-Gat_JR0289427",
+      "checked_at": "2026-11-24T16:48:56+00:00"
+    },
+    "ats:alljobs:8913933": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "ai",
+      "reason": "Requires 2-3 years of experience, exceeding the 0-2 years target range.",
+      "company": "AllJobs",
+      "title": "מנהל.ת פרויקטים לארגון מוביל",
+      "url": "https://www.alljobs.co.il/Search/UploadSingle.aspx?JobID=8913933",
+      "checked_at": "2026-11-24T16:49:21+00:00"
+    },
+    "ats:alljobs:8914464": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "ai",
+      "reason": "Location is Kiryat Gat (outside Gush Dan) and requires at least 2 years of experience.",
+      "company": "AllJobs",
+      "title": "מהנדס/ת תעשיה וניהול-מצוינות תפעולית",
+      "url": "https://www.alljobs.co.il/Search/UploadSingle.aspx?JobID=8914464",
+      "checked_at": "2026-11-24T16:49:21+00:00"
+    },
+    "ats:alljobs:8914426": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "ai",
+      "reason": "Role is a financial market research analyst (not in target IE/PM/Ops roles) and requires at least 2 years of experience.",
+      "company": "AllJobs",
+      "title": "אנליסט.ית מחקר סחיר",
+      "url": "https://www.alljobs.co.il/Search/UploadSingle.aspx?JobID=8914426",
+      "checked_at": "2026-11-24T16:49:21+00:00"
+    },
+    "ats:alljobs:8915255": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "ai",
+      "reason": "Role is a senior engineering management position (Solutions Engineer Manager) requiring team leadership and hiring experience, exceeding the 0-2 YOE candidate profile.",
+      "company": "AllJobs",
+      "title": "solutions engineer manager",
+      "url": "https://www.alljobs.co.il/Search/UploadSingle.aspx?JobID=8915255",
+      "checked_at": "2026-11-24T16:52:34+00:00"
+    },
+    "ats:drushim:39149693": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "ai",
+      "reason": "Requires proven experience (ניסיון מוכח) as a Product Manager, which exceeds the entry-level 0-2 YOE scope.",
+      "company": "Drushim",
+      "title": "מנהל/ת מוצר",
+      "url": "https://www.drushim.co.il/job/39149693/61e59ff8/",
+      "checked_at": "2026-11-24T16:52:34+00:00"
+    },
+    "ats:drushim:39195236": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "ai",
+      "reason": "Explicitly requires an experienced product manager (מנהל/ת מוצר מנוסה), which is outside the 0-2 YOE range.",
+      "company": "Drushim",
+      "title": "מנהל/ת מוצר להובלת מוצר תשתית חדשני מבוסס AI",
+      "url": "https://www.drushim.co.il/job/39195236/82890538/",
+      "checked_at": "2026-11-24T16:52:34+00:00"
+    },
+    "ats:alljobs:8914994": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "ai",
+      "reason": "Location is Haifa (violates Gush Dan / Central Israel only rule) and requires 2-5 years of experience.",
+      "company": "AllJobs",
+      "title": "23790 - npi planner",
+      "url": "https://www.alljobs.co.il/Search/UploadSingle.aspx?JobID=8914994",
+      "checked_at": "2026-11-24T16:52:34+00:00"
+    },
+    "ats:drushim:39182088": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "ai",
+      "reason": "Location is in the North (Nof HaGalil), outside Gush Dan / Central Israel.",
+      "company": "Drushim",
+      "title": "מתאמי/ות תפעול לסניפנו בצפון",
+      "url": "https://www.drushim.co.il/job/39182088/116124cc/",
+      "checked_at": "2026-11-24T16:53:42+00:00"
+    },
+    "ats:drushim:39182107": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "ai",
+      "reason": "Location is Modi'in, which is outside the specified Gush Dan / Central Israel region.",
+      "company": "Drushim",
+      "title": "מתאמי/ות תפעול לסניפנו ב",
+      "url": "https://www.drushim.co.il/job/39182107/a2d8e9c0/",
+      "checked_at": "2026-11-24T16:53:42+00:00"
+    },
+    "ats:drushim:39183247": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "ai",
+      "reason": "Location is not specified in the snippet and does not guarantee Gush Dan.",
+      "company": "Drushim",
+      "title": "אחראי/ת תפעול לסניף השכרה ב",
+      "url": "https://www.drushim.co.il/job/39183247/85f94658/",
+      "checked_at": "2026-11-24T16:53:42+00:00"
     }
   }
 }
