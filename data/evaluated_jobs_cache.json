@@ -9280,6 +9280,106 @@
       "title": "תומך/ת בק אופיס – תפעול חשבוניות",
       "url": "https://www.drushim.co.il/job/38885232/0e46ef56/",
       "checked_at": "2026-11-23T17:06:48+00:00"
+    },
+    "fb:3ae1b8ddf01f6bf6c044": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: 3–5 years of experience",
+      "company": "Cellebrite",
+      "title": "Global Shipping Specialist Operations Israel – Kiryat Malachi",
+      "url": "https://cellebrite.com/en/about/careers/positions/?comeet_cat=israel-kiryat-malachi&comeet_pos=CF.478&comeet_all=all&cb_careers_page=25",
+      "checked_at": "2026-11-24T03:43:15+00:00"
+    },
+    "fb:10c7c778c3281b6ebc17": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: 7+ years of experience",
+      "company": "Cellebrite",
+      "title": "Procurement Business Partner Operations",
+      "url": "https://cellebrite.com/en/about/careers/positions/?comeet_cat=israel-petah-tikva&comeet_pos=BE.278&comeet_all=all&cb_careers_page=25",
+      "checked_at": "2026-11-24T03:43:15+00:00"
+    },
+    "ats:alljobs:8913744": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: לפחות 5 שנות ניסיון",
+      "company": "AllJobs",
+      "title": "Service Operations Specialist",
+      "url": "https://www.alljobs.co.il/Search/UploadSingle.aspx?JobID=8913744",
+      "checked_at": "2026-11-24T03:43:15+00:00"
+    },
+    "ats:alljobs:8913819": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "min_yoe: 4+ years of",
+      "company": "AllJobs",
+      "title": "Product Manager",
+      "url": "https://www.alljobs.co.il/Search/UploadSingle.aspx?JobID=8913819",
+      "checked_at": "2026-11-24T03:43:15+00:00"
+    },
+    "fb:a7ffc97b1b31729fc232": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "prefilter",
+      "reason": "non_israel_location",
+      "company": "IBM",
+      "title": "Infrastructure & Technology Development Engineer – Processor Logic Design / Hardware Verification (f/m/x) Entry Level Ehningen, DE",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=145453&source=WEB_Search_NA",
+      "checked_at": "2026-11-24T03:43:15+00:00"
+    },
+    "ats:alljobs:8876578": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "ai",
+      "reason": "Location is Modiin, which is outside Gush Dan / Central Israel as specified in the rules.",
+      "company": "AllJobs",
+      "title": "מנהל/ת תפעול לחברה העוסקת בתחום התחבורה",
+      "url": "https://www.alljobs.co.il/Search/UploadSingle.aspx?JobID=8876578",
+      "checked_at": "2026-11-24T03:43:17+00:00"
+    },
+    "ats:alljobs:8913042": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "ai",
+      "reason": "Requires 3+ years of experience (senior/not 0-2 YOE) and is located in Bar Lev Industrial Park (North), outside Gush Dan.",
+      "company": "AllJobs",
+      "title": "סגן/ית מנהל תפעול לחברת מתכות בבר לב",
+      "url": "https://www.alljobs.co.il/Search/UploadSingle.aspx?JobID=8913042",
+      "checked_at": "2026-11-24T03:43:17+00:00"
+    },
+    "ats:alljobs:8912438": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "ai",
+      "reason": "Requires 3 years of experience, exceeding the 0-2 YOE threshold.",
+      "company": "AllJobs",
+      "title": "business operations manager",
+      "url": "https://www.alljobs.co.il/Search/UploadSingle.aspx?JobID=8912438",
+      "checked_at": "2026-11-24T03:43:19+00:00"
+    },
+    "fb:6ade43150ba917ab3a8e": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "ai",
+      "reason": "Requires more than 2 years of experience (stretch/above target range).",
+      "company": "AllJobs",
+      "title": "ONE טכנולוגיות מגייסת מנהל/ת פרויקטים טכנולוגיים לארגון מוביל ב",
+      "url": "https://www.alljobs.co.il/Employer/HP/Default.aspx?cid=61904",
+      "checked_at": "2026-11-24T03:43:19+00:00"
+    },
+    "fb:ccc9d5ba551b36355e9e": {
+      "profile": "iem_product_operations",
+      "decision": "rejected",
+      "stage": "ai",
+      "reason": "Requires 2-4 years of experience, exceeding the 0-2 years target range.",
+      "company": "AllJobs",
+      "title": "גיזה זינגר אבן מגייסת אנליסט/ית לצוות מימון תאגידים",
+      "url": "https://www.alljobs.co.il/Employer/HP/Default.aspx?cid=27221",
+      "checked_at": "2026-11-24T03:43:21+00:00"
     }
   }
 }
